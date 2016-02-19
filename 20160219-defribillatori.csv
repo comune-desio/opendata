@@ -1,26 +1,26 @@
-ID,latitude,longitude,name,TOPONIMO,INDIRIZZO,CIVICO,DESCRIZIONE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ID,latitude,longitude,name,TOPONIMO,INDIRIZZO,CIVICO,DESCRIZIONE
 1,"45.626687
-",9.205079,SOCIETA’ DI SCHERMA ,VIA,SANTA CATERINA,13,POSTAZIONE CON DEFIBRILLATORE DAE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2,45.618636,9.335182,"CENTRO RICREATIVO "" IL GIRASOLE""",VIA ,S.PIETRO,14,POSTAZIONE CON DEFIBRILLATORE DAE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-3,45.618451,9.193961,PARRCOHIA / ORATORIO S.GIOVANNI BATTISTA ,VIA,DI VITTORIO ,18,POSTAZIONE CON DEFIBRILLATORE DAE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-4,45.612075,9.205036,SOCIETA' BOCCIOFILA AURORA ,VIA,GARIBALDI ,257,POSTAZIONE CON DEFIBRILLATORE DAE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-5,45.61465,9.21464,INTERNO PARCO COMUNALE ,PIAZZALE,PARC0 ,,POSTAZIONE CON DEFIBRILLATORE DAE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-6 ,45.607928, 9.203218,PARROCCHIA / ORATORIO S.PIO X,VIA,GARIBALDI ,288,POSTAZIONE CON DEFIBRILLATORE DAE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-7,45.611574,9.193684,CENTRO SPORTIVO COMUNALE ,VIA,AGNESI ,  ,POSTAZIONE CON DEFIBRILLATORE DAE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-8,45.62181,9.20369,CIMITERO COMUNALE ,VIALE ,RIMEMBRANZE ,1,POSTAZIONE CON DEFIBRILLATORE DAE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-9,45.625527 ,9.158022,CIMITERO COMUNALE DI ,PIAZZALE,DELLA MISERICORDIA ,,POSTAZIONE CON DEFIBRILLATORE DAE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-10,45.620388 ,9.208536,ATRIO URP PALAZZO COMUNALE ,PIAZZA,GIOVANNI PAOLO II,,POSTAZIONE CON DEFIBRILLATORE DAE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-11,45.61683,9.21650,INTERNO BOCCIOFILA PARCO DI DESIO,VIALE ,CAVALIERI DI VITTORIO VENETO ,,POSTAZIONE CON DEFIBRILLATORE DAE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-12,45.617371 ,9.207582,PIAZZA CONCILIAZIONE,PIAZZA,CONCILIAZIONE,,POSTAZIONE CON DEFIBRILLATORE DAE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-13,45620644,9.231016,PARROCCHIA S. GIORGIO ,VIA,S. APOLLINARE ,4,POSTAZIONE CON DEFIBRILLATORE DAE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-14,45.613304 ,9.193077,INTERNO PALADESIO ,LARGO ,ATLETI AZZURRI D'ITALIA ,,POSTAZIONE CON DEFIBRILLATORE DAE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-15,45.615004 ,9.208094,ORATORIO B.V.I. ,VIA,GRANDI ,31,POSTAZIONE CON DEFIBRILLATORE DAE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-16,45.626235,9.203488,PARROCCHIA / ORATORIO SS.PIETRO E PAOLO ,VIA ,SANTA CATERINA,9,POSTAZIONE CON DEFIBRILLATORE DAE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-17,45.627866,9.203195,SCUOLE ELEMENTARI ,VIA ,TOLSTOJ,1,POSTAZIONE CON DEFIBRILLATORE DAE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-18,45.627484 ,9.20547,SCUOLE ELEMENTARI S.PERTINI ,VIA,MILANO ,345,POSTAZIONE CON DEFIBRILLATORE DAE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-19,45.618944,9.203303,SCUOLE ELEMENTARI ,VIA ,DIAZ,7,POSTAZIONE CON DEFIBRILLATORE DAE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-20,45.612646 ,9.199092,SCUOLE ELEMENTARI,VIA ,AGNESI ,10,POSTAZIONE CON DEFIBRILLATORE DAE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-21,45.61408,9.19906,"SCUOLA MEDIA ""L.PIROTTA""",VIA,STADIO,13,POSTAZIONE CON DEFIBRILLATORE DAE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-22,45.61191,9.20717,"SCUOLA MEDIA ""G.RODARI""",PIAZZA,NENNI,1,POSTAZIONE CON DEFIBRILLATORE DAE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-23,45.621031,9.186354,SCUOLE ELEMENTARI ,VIA,DOLOMITI ,50,POSTAZIONE CON DEFIBRILLATORE DAE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-24,45.6140767,9.2101803,SCUOLE ELEMENTARI ,VIA ,JACOPO DAL VERME ,,POSTAZIONE CON DEFIBRILLATORE DAE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+",9.205079,SOCIETA’ DI SCHERMA ,VIA,SANTA CATERINA,13,POSTAZIONE CON DEFIBRILLATORE DAE
+2,45.618636,9.335182,"CENTRO RICREATIVO "" IL GIRASOLE""",VIA ,S.PIETRO,14,POSTAZIONE CON DEFIBRILLATORE DAE
+3,45.618451,9.193961,PARRCOHIA / ORATORIO S.GIOVANNI BATTISTA ,VIA,DI VITTORIO ,18,POSTAZIONE CON DEFIBRILLATORE DAE
+4,45.612075,9.205036,SOCIETA' BOCCIOFILA AURORA ,VIA,GARIBALDI ,257,POSTAZIONE CON DEFIBRILLATORE DAE
+5,45.61465,9.21464,INTERNO PARCO COMUNALE ,PIAZZALE,PARC0 ,,POSTAZIONE CON DEFIBRILLATORE DAE
+6 ,45.607928, 9.203218,PARROCCHIA / ORATORIO S.PIO X,VIA,GARIBALDI ,288,POSTAZIONE CON DEFIBRILLATORE DAE
+7,45.611574,9.193684,CENTRO SPORTIVO COMUNALE ,VIA,AGNESI ,  ,POSTAZIONE CON DEFIBRILLATORE DAE
+8,45.62181,9.20369,CIMITERO COMUNALE ,VIALE ,RIMEMBRANZE ,1,POSTAZIONE CON DEFIBRILLATORE DAE
+9,45.625527 ,9.158022,CIMITERO COMUNALE DI ,PIAZZALE,DELLA MISERICORDIA ,,POSTAZIONE CON DEFIBRILLATORE DAE
+10,45.620388 ,9.208536,ATRIO URP PALAZZO COMUNALE ,PIAZZA,GIOVANNI PAOLO II,,POSTAZIONE CON DEFIBRILLATORE DAE
+11,45.61683,9.21650,INTERNO BOCCIOFILA PARCO DI DESIO,VIALE ,CAVALIERI DI VITTORIO VENETO ,,POSTAZIONE CON DEFIBRILLATORE DAE
+12,45.617371 ,9.207582,PIAZZA CONCILIAZIONE,PIAZZA,CONCILIAZIONE,,POSTAZIONE CON DEFIBRILLATORE DAE
+13,45620644,9.231016,PARROCCHIA S. GIORGIO ,VIA,S. APOLLINARE ,4,POSTAZIONE CON DEFIBRILLATORE DAE
+14,45.613304 ,9.193077,INTERNO PALADESIO ,LARGO ,ATLETI AZZURRI D'ITALIA ,,POSTAZIONE CON DEFIBRILLATORE DAE
+15,45.615004 ,9.208094,ORATORIO B.V.I. ,VIA,GRANDI ,31,POSTAZIONE CON DEFIBRILLATORE DAE
+16,45.626235,9.203488,PARROCCHIA / ORATORIO SS.PIETRO E PAOLO ,VIA ,SANTA CATERINA,9,POSTAZIONE CON DEFIBRILLATORE DAE
+17,45.627866,9.203195,SCUOLE ELEMENTARI ,VIA ,TOLSTOJ,1,POSTAZIONE CON DEFIBRILLATORE DAE
+18,45.627484 ,9.20547,SCUOLE ELEMENTARI S.PERTINI ,VIA,MILANO ,345,POSTAZIONE CON DEFIBRILLATORE DAE
+19,45.618944,9.203303,SCUOLE ELEMENTARI ,VIA ,DIAZ,7,POSTAZIONE CON DEFIBRILLATORE DAE
+20,45.612646 ,9.199092,SCUOLE ELEMENTARI,VIA ,AGNESI ,10,POSTAZIONE CON DEFIBRILLATORE DAE
+21,45.61408,9.19906,"SCUOLA MEDIA ""L.PIROTTA""",VIA,STADIO,13,POSTAZIONE CON DEFIBRILLATORE DAE
+22,45.61191,9.20717,"SCUOLA MEDIA ""G.RODARI""",PIAZZA,NENNI,1,POSTAZIONE CON DEFIBRILLATORE DAE
+23,45.621031,9.186354,SCUOLE ELEMENTARI ,VIA,DOLOMITI ,50,POSTAZIONE CON DEFIBRILLATORE DAE
+24,45.6140767,9.2101803,SCUOLE ELEMENTARI ,VIA ,JACOPO DAL VERME ,,POSTAZIONE CON DEFIBRILLATORE DAE
