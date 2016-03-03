@@ -1,4 +1,3 @@
-TERRENI;;;;;;;;
 N. PROG. INVENT.;TIPOLOGIA DI BENE;DENOMINAZIONE;DESCRIZIONE;INDIRIZZO;LOCALITA';FG;MAPPALE;SUB
 1;PAA2 100 - Beni demaniali;Terreno - via Lucinico;porzione mappale a sede stradale;Lucinico  ;DESIO;02;312p;
 2;PAA2 100 - Beni demaniali;Terreno - via Olimpiadi;sede stradale;Olimpiadi  ;DESIO;02;307;
@@ -367,7 +366,7 @@ N. PROG. INVENT.;TIPOLOGIA DI BENE;DENOMINAZIONE;DESCRIZIONE;INDIRIZZO;LOCALITA'
 368;PAA2 100 - Beni demaniali;Terreno - via Caduti di Nassirya;sede stradale;Caduti di Nassirya  ;DESIO;53;242;
 369;PAA2 100 - Beni demaniali;Terreno - via Togliatti;porzione mappale a sede stradale;Togliatti  ;DESIO;53;271p;
 370;PAA2 100 - Beni demaniali;Terreno - via Santa Liberata;sede stradale;Santa Liberata  ;DESIO;53;205;
-371;PAA2 100 - Beni demaniali;Terreno - via DoberdÚ;sede stradale;DoberdÚ  ;DESIO;56;166;
+371;PAA2 100 - Beni demaniali;Terreno - via Doberd√≤;sede stradale;Doberd√≤  ;DESIO;56;166;
 372;PAA2 100 - Beni demaniali;Terreno - via Arosio;porzione mappale a sede stradale;Arosio  ;DESIO;56;172;
 373;PAA2 100 - Beni demaniali;Terreno - via Carroccio;sede stradale;Carroccio  ;DESIO;57;018;
 374;PAA2 100 - Beni demaniali;Terreno - via Carroccio;sede stradale;Carroccio  ;DESIO;57;019;
@@ -409,7 +408,7 @@ N. PROG. INVENT.;TIPOLOGIA DI BENE;DENOMINAZIONE;DESCRIZIONE;INDIRIZZO;LOCALITA'
 410;PAA2 100 - Beni demaniali;Terreno - viale degli Artigiani;sede stradale;Degli Artigiani  ;DESIO;60;077;
 411;PAA2 100 - Beni demaniali;Terreno - via Ambrosoli;sede stradale;Ambrosoli  ;DESIO;60;078;
 412;PAA2 100 - Beni demaniali;Terreno - via Togliatti;nuovo cimitero perimetro;Togliatti  ;DESIO;60;092;
-413;PAA2 100 - Beni demaniali;Terreno - Strada Vicinale Boschi di MuggiÚ;sede stradale;Vicinale dei Boschi di MuggiÚ  ;DESIO;60;105;
+413;PAA2 100 - Beni demaniali;Terreno - Strada Vicinale Boschi di Muggi√≤;sede stradale;Vicinale dei Boschi di Muggi√≤  ;DESIO;60;105;
 414;PAA2 100 - Beni demaniali;Terreno - via Oslavia;sede stradale;Oslavia  ;DESIO;60;108;
 415;PAA2 100 - Beni demaniali;Terreno - via Oslavia;sede stradale;Oslavia  ;DESIO;60;109;
 416;PAA2 100 - Beni demaniali;Terreno - via degli Artigiani;sede stradale;Degli Artigiani  ;DESIO;60;114;
@@ -910,7 +909,7 @@ N. PROG. INVENT.;TIPOLOGIA DI BENE;DENOMINAZIONE;DESCRIZIONE;INDIRIZZO;LOCALITA'
 949;PAA2 200 - Terreni (patrimonio indisponibile);Terreno - via Einaudi;verde pubblico;Einaudi  ;DESIO;62;085;
 950;PAA2 200 - Terreni (patrimonio indisponibile);Terreno - via Ambrosoli;verde pubblico;Ambrosoli  ;DESIO;62;092;
 951;PAA2 200 - Terreni (patrimonio indisponibile);Terreno - via Ambrosoli;porzione mappale a verde pubblico;Ambrosoli  ;DESIO;62;130p;
-952;PAA2 200 - Terreni (patrimonio indisponibile);Terreno - strada Vicinale dei Boschi di MuggiÚ;fascia di rispetto stradale;Vicinale dei Boschi di MuggiÚ  ;DESIO;62;115;
+952;PAA2 200 - Terreni (patrimonio indisponibile);Terreno - strada Vicinale dei Boschi di Muggi√≤;fascia di rispetto stradale;Vicinale dei Boschi di Muggi√≤  ;DESIO;62;115;
 953;PAA2 200 - Terreni (patrimonio indisponibile);Terreno - via Roma;porzione mappale a verde pubblico;Roma  ;DESIO;54;162p;
 958;PAA2 200 - Terreni (patrimonio indisponibile);Terreno - via Ferravilla;area destinata alla realizzazione della Tangenziale Ovest;Ferravilla  ;DESIO;31;112;
 959;PAA2 200 - Terreni (patrimonio indisponibile);Terreno - via Carlo Cattaneo;area destinata alla realizzazione della Tangenziale Ovest;Cattaneo Carlo  ;DESIO;31;109;
@@ -1234,11 +1233,11 @@ N. PROG. INVENT.;TIPOLOGIA DI BENE;DENOMINAZIONE;DESCRIZIONE;INDIRIZZO;LOCALITA'
 27;PAA2 400 - Fabbricati (patrimonio indisponibile);Cappella inserita nella Villa Tittoni;cappella privata;Lampugnani 1 ;DESIO;39;29;10
 28;PAA2 400 - Fabbricati (patrimonio indisponibile);scuola media via Zanella (Rodari);complesso scolastico con aule auditorio e palestra;Zanella  ;DESIO;40;62;
 29;PAA2 400 - Fabbricati (patrimonio indisponibile);magazzini comunali;magazzino operai ricovero materiali e attrezzi;Lampugnani 2 ;DESIO;39;29;6
-29;PAA2 400 - Fabbricati (patrimonio indisponibile);edificio di via Olmetto 48;unit‡ immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;722
+29;PAA2 400 - Fabbricati (patrimonio indisponibile);edificio di via Olmetto 48;unit√† immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;722
 30;PAA2 400 - Fabbricati (patrimonio indisponibile);scuola elementare S. Apollinare;scuola  elementare in frazione S. Giorgio;Santa Apollinare  ;DESIO;43;111;
 31;PAA2 400 - Fabbricati (patrimonio indisponibile);asilo nido via Adamello;asilo;Adamello  ;DESIO;51;335;
 32;PAA2 400 - Fabbricati (patrimonio indisponibile);immobile - via Galeno;scuola professionale;Galeno  ;DESIO;51;41;
-32;PAA2 400 - Fabbricati (patrimonio indisponibile);edificio di via Olmetto 48;unit‡ immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;725
+32;PAA2 400 - Fabbricati (patrimonio indisponibile);edificio di via Olmetto 48;unit√† immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;725
 33;PAA2 400 - Fabbricati (patrimonio indisponibile);ex caecere;alloggio del custode;Santa Liberata  ;DESIO;52;51;
 34;PAA2 400 - Fabbricati (patrimonio indisponibile);caserma carabinieri;caserma;Nassirya Caduti di  ;DESIO;53;266;
 35;PAA2 400 - Fabbricati (patrimonio indisponibile);pompa carburanti caserma CC;impianto distributore carburante;Nassirya Caduti di 2 ;DESIO;53;268;3
@@ -1707,51 +1706,51 @@ N. PROG. INVENT.;TIPOLOGIA DI BENE;DENOMINAZIONE;DESCRIZIONE;INDIRIZZO;LOCALITA'
 955;PAA2 400 - Fabbricati (patrimonio indisponibile);via Lampugnani ala ovest ex sede ufficio tecnico;ala ex sede ufficio Tecnico;Lampugnani  ;DESIO;39;29;9
 956;PAA2 400 - Fabbricati (patrimonio indisponibile);sede degli uffici polizia locale;sede degli uffici polizia locale;Partigiani d'Italia  ;DESIO;38;347;
 957;PAA2 400 - Fabbricati (patrimonio indisponibile);via Kolbe 7 box;box;Padre Kolbe 7 ;DESIO;20;125;41
-961;PAA2 400 - Fabbricati (patrimonio indisponibile);box auto bene confiscato alla criminalit‡;box auto bene confiscato alla criminalit‡;Mulino Arese 31 ;DESIO;08;232;2
-962;PAA2 400 - Fabbricati (patrimonio indisponibile);magazzino bene confiscato alla criminalit‡;magazzino bene confiscato alla criminalit‡;Mulino Arese 31 ;DESIO;08;232;1
+961;PAA2 400 - Fabbricati (patrimonio indisponibile);box auto bene confiscato alla criminalit√†;box auto bene confiscato alla criminalit√†;Mulino Arese 31 ;DESIO;08;232;2
+962;PAA2 400 - Fabbricati (patrimonio indisponibile);magazzino bene confiscato alla criminalit√†;magazzino bene confiscato alla criminalit√†;Mulino Arese 31 ;DESIO;08;232;1
 963;PAA2 400 - Fabbricati (patrimonio indisponibile);abitazione non ristrutturata bene confiscato;abitazione non ristrutturata bene confiscato;Mulino Arese 31 ;DESIO;08;44;
 964;PAA2 400 - Fabbricati (patrimonio indisponibile);via Fiume 1 - 3 edificio ERP;abitazione;Fiume  ;DESIO;24;92;702
 965;PAA2 400 - Fabbricati (patrimonio indisponibile);via Solaro 5/a abitazione;abitazione;Solaro 5 A;DESIO;22;117;4
-5;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit‡ immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;10
-6;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit‡ immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;11
-7;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit‡ immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;701
-8;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit‡ immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;702
-9;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit‡ immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;703
-10;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit‡ immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;704
-11;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit‡ immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;706
-12;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit‡ immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;705
-13;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit‡ immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;707
-14;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit‡ immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;708
-15;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit‡ immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;709
-16;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit‡ immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;720
-17;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit‡ immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;710
-18;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit‡ immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;711
-19;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit‡ immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;712
-20;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit‡ immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;713
-21;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit‡ immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;718
-22;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit‡ immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;714
-23;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit‡ immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;716
-24;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit‡ immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;717
-25;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit‡ immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;731
-26;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit‡ immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;719
-27;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit‡ immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;715
-28;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit‡ immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;721
-30;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit‡ immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;723
-31;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit‡ immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;724
-33;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit‡ immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;726
-34;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit‡ immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;728
-35;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit‡ immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;727
-36;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit‡ immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;729
-37;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit‡ immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;730
-38;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit‡ immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;732
-39;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit‡ immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;733
-40;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit‡ immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;734
-41;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit‡ immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;735
-42;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit‡ immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;736
-46;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit‡ immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;737
-47;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit‡ immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;738
-49;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit‡ immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;739
-50;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit‡ immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;740
+5;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit√† immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;10
+6;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit√† immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;11
+7;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit√† immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;701
+8;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit√† immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;702
+9;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit√† immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;703
+10;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit√† immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;704
+11;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit√† immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;706
+12;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit√† immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;705
+13;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit√† immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;707
+14;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit√† immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;708
+15;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit√† immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;709
+16;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit√† immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;720
+17;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit√† immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;710
+18;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit√† immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;711
+19;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit√† immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;712
+20;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit√† immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;713
+21;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit√† immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;718
+22;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit√† immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;714
+23;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit√† immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;716
+24;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit√† immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;717
+25;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit√† immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;731
+26;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit√† immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;719
+27;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit√† immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;715
+28;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit√† immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;721
+30;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit√† immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;723
+31;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit√† immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;724
+33;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit√† immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;726
+34;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit√† immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;728
+35;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit√† immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;727
+36;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit√† immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;729
+37;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit√† immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;730
+38;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit√† immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;732
+39;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit√† immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;733
+40;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit√† immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;734
+41;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit√† immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;735
+42;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit√† immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;736
+46;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit√† immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;737
+47;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit√† immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;738
+49;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit√† immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;739
+50;PAA2 500 - Fabbricati (patrimonio disponibile);edificio di via Olmetto 48;unit√† immobiliare posta in edificio a corte;Olmetto 48 ;DESIO;38;238;740
 53;PAA2 500 - Fabbricati (patrimonio disponibile);via Matteotti 32;alloggio ex portineria ;Matteotti 32 ;DESIO;24;168;11
 55;PAA2 500 - Fabbricati (patrimonio disponibile);via Matteotti 32;alloggio;Matteotti 32 ;DESIO;24;168;16
 56;PAA2 500 - Fabbricati (patrimonio disponibile);via Matteotti 32;alloggio;Matteotti 32 ;DESIO;24;168;21
@@ -1807,7 +1806,7 @@ N. PROG. INVENT.;TIPOLOGIA DI BENE;DENOMINAZIONE;DESCRIZIONE;INDIRIZZO;LOCALITA'
 174;PAA2 500 - Fabbricati (patrimonio disponibile);via Lampugnani  ;sede associazioni;Lampugnani  ;DESIO;39;29;40
 246;PAA2 500 - Fabbricati (patrimonio disponibile);VIA XXV Aprile 1/a;abitazione ;XXV Aprile  ;DESIO;27;175;102
 248;PAA2 500 - Fabbricati (patrimonio disponibile);via XXV Aprile  1/a;box auto;XXV Aprile  ;DESIO;27;231;3
-251;PAA2 500 - Fabbricati (patrimonio disponibile);via Forlanini 33 box nuda propriet‡;box lascito ereditario nuda propriet‡;Forlanini  ;DESIO;40;96;5
+251;PAA2 500 - Fabbricati (patrimonio disponibile);via Forlanini 33 box nuda propriet√†;box lascito ereditario nuda propriet√†;Forlanini  ;DESIO;40;96;5
 252;PAA2 500 - Fabbricati (patrimonio disponibile);via Lombardia - palazzina Cremonini;abitativo/servizi;Lombardia  ;DESIO;;;
 253;PAA2 500 - Fabbricati (patrimonio disponibile);edificio polifunzionale  ;sede scolastica ;Lombardia  ;DESIO;26;198;
 254;PAA2 500 - Fabbricati (patrimonio disponibile);via Oslavia Orti Urbani;ricovero attrezzi tettoia e servizi vari ;Oslavia  ;DESIO;;;
@@ -1816,7 +1815,7 @@ N. PROG. INVENT.;TIPOLOGIA DI BENE;DENOMINAZIONE;DESCRIZIONE;INDIRIZZO;LOCALITA'
 334;PAA2 500 - Fabbricati (patrimonio disponibile);via Garibaldi 257 ;edificio adibito a sede associazione sportiva ;Garibaldi  ;DESIO;51;135;
 334;PAA2 500 - Fabbricati (patrimonio disponibile);via Garibaldi 257 ;edificio adibito a sede associazione sportiva ;Garibaldi  ;DESIO;51;135;
 334;PAA2 500 - Fabbricati (patrimonio disponibile);via Garibaldi 257 ;edificio adibito a sede associazione sportiva ;Garibaldi  ;DESIO;51;135;
-366;PAA2 500 - Fabbricati (patrimonio disponibile);via Partigiani d'Italia ;quattro unit‡ residenziali inserite nel complesso della Caserma;Partigiani d'Italia  ;DESIO;;;
+366;PAA2 500 - Fabbricati (patrimonio disponibile);via Partigiani d'Italia ;quattro unit√† residenziali inserite nel complesso della Caserma;Partigiani d'Italia  ;DESIO;;;
 367;PAA2 500 - Fabbricati (patrimonio disponibile);farmacia comunale via Garibaldi 257;farmacia comunale;Garibaldi 257 ;DESIO;50;39;5
-368;PAA2 500 - Fabbricati (patrimonio disponibile);via Gramsci 6;palazzina sede attivit‡ di servizio al pubblico;Gramsci  ;DESIO;38;6;C
+368;PAA2 500 - Fabbricati (patrimonio disponibile);via Gramsci 6;palazzina sede attivit√† di servizio al pubblico;Gramsci  ;DESIO;38;6;C
 751;PAA2 500 - Fabbricati (patrimonio disponibile);tettoia via Carducci;tettoia edificio ex Gavazzi;Carducci  ;DESIO;25;136;
