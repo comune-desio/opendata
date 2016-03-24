@@ -1,1 +1,389 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":["9.205079","45.626687"]},"properties":{"title":"SOCIETA’ DI SCHERMA , VIA SANTA CATERINA 13","description":"POSTAZIONE CON DEFIBRILLATORE DAE","marker-symbol":"heart","marker-color":"#E56C69"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["9.210455","45.618636"]},"properties":{"title":"CENTRO RICREATIVO \" IL GIRASOLE\", VIA  S.PIETRO 14","description":"POSTAZIONE CON DEFIBRILLATORE DAE","marker-symbol":"heart","marker-color":"#E56C69"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["9.193961","45.618451"]},"properties":{"title":"PARROCCHIA / ORATORIO S.GIOVANNI BATTISTA , VIA DI VITTORIO  18","description":"POSTAZIONE CON DEFIBRILLATORE DAE","marker-symbol":"heart","marker-color":"#E56C69"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["9.205036","45.612075"]},"properties":{"title":"SOCIETA' BOCCIOFILA AURORA , VIA GARIBALDI  257","description":"POSTAZIONE CON DEFIBRILLATORE DAE","marker-symbol":"heart","marker-color":"#E56C69"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["9.21464","45.61465"]},"properties":{"title":"INTERNO PARCO COMUNALE , PIAZZALE PARC0  ","description":"POSTAZIONE CON DEFIBRILLATORE DAE","marker-symbol":"heart","marker-color":"#E56C69"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["9.203218","45.607928"]},"properties":{"title":"PARROCCHIA / ORATORIO S.PIO X, VIA GARIBALDI  288","description":"POSTAZIONE CON DEFIBRILLATORE DAE","marker-symbol":"heart","marker-color":"#E56C69"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["9.193684","45.611574"]},"properties":{"title":"CENTRO SPORTIVO COMUNALE , VIA AGNESI    ","description":"POSTAZIONE CON DEFIBRILLATORE DAE","marker-symbol":"heart","marker-color":"#E56C69"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["9.20369","45.62181"]},"properties":{"title":"CIMITERO COMUNALE MONUMENTALE , VIALE  RIMEMBRANZE  1","description":"POSTAZIONE CON DEFIBRILLATORE DAE","marker-symbol":"heart","marker-color":"#E56C69"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["9.209982","45.604717"]},"properties":{"title":"NUOVO CIMITERO COMUNALE , PIAZZALE DIVINA MISERICORDIA   POSTAZIONE CON DEFIBRILLATORE DAE","description":null,"marker-symbol":"heart","marker-color":"#E56C69"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["9.208536","45.620388"]},"properties":{"title":"ATRIO URP PALAZZO COMUNALE , PIAZZA GIOVANNI PAOLO II ","description":"POSTAZIONE CON DEFIBRILLATORE DAE","marker-symbol":"heart","marker-color":"#E56C69"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["9.21650","45.61683"]},"properties":{"title":"INTERNO BOCCIOFILA PARCO DI DESIO, VIALE  CAVALIERI DI VITTORIO VENETO  ","description":"POSTAZIONE CON DEFIBRILLATORE DAE","marker-symbol":"heart","marker-color":"#E56C69"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["9.207582","45.617371"]},"properties":{"title":"PIAZZA CONCILIAZIONE, PIAZZA CONCILIAZIONE ","description":"POSTAZIONE CON DEFIBRILLATORE DAE","marker-symbol":"heart","marker-color":"#E56C69"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["9.231016","45.620644"]},"properties":{"title":"PARROCCHIA S. GIORGIO , VIA S. APOLLINARE  4","description":"POSTAZIONE CON DEFIBRILLATORE DAE","marker-symbol":"heart","marker-color":"#E56C69"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["9.193077","45.613304"]},"properties":{"title":"INTERNO PALADESIO , LARGO  ATLETI AZZURRI D'ITALIA  ","description":"POSTAZIONE CON DEFIBRILLATORE DAE","marker-symbol":"heart","marker-color":"#E56C69"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["9.208094","45.615004"]},"properties":{"title":"ORATORIO B.V.I. , VIA GRANDI  31","description":"POSTAZIONE CON DEFIBRILLATORE DAE","marker-symbol":"heart","marker-color":"#E56C69"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["9.203488","45.626235"]},"properties":{"title":"PARROCCHIA / ORATORIO SS.PIETRO E PAOLO , VIA  SANTA CATERINA 9","description":"POSTAZIONE CON DEFIBRILLATORE DAE","marker-symbol":"heart","marker-color":"#E56C69"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["9.203195","45.627866"]},"properties":{"title":"SCUOLE ELEMENTARI , VIA  TOLSTOJ 1","description":"POSTAZIONE CON DEFIBRILLATORE DAE","marker-symbol":"heart","marker-color":"#E56C69"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["9.20547","45.627484"]},"properties":{"title":"SCUOLE ELEMENTARI S.PERTINI , VIA MILANO  345","description":"POSTAZIONE CON DEFIBRILLATORE DAE","marker-symbol":"heart","marker-color":"#E56C69"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["9.203303","45.618944"]},"properties":{"title":"SCUOLE ELEMENTARI , VIA  DIAZ 7","description":"POSTAZIONE CON DEFIBRILLATORE DAE","marker-symbol":"heart","marker-color":"#E56C69"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["9.199092","45.612646"]},"properties":{"title":"SCUOLE ELEMENTARI, VIA  AGNESI  10","description":"POSTAZIONE CON DEFIBRILLATORE DAE","marker-symbol":"heart","marker-color":"#E56C69"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["9.19906","45.61408"]},"properties":{"title":"SCUOLA MEDIA \"L.PIROTTA\", VIA STADIO 13","description":"POSTAZIONE CON DEFIBRILLATORE DAE","marker-symbol":"heart","marker-color":"#E56C69"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["9.20717","45.61191"]},"properties":{"title":"SCUOLA MEDIA \"G.RODARI\", PIAZZA NENNI 1","description":"POSTAZIONE CON DEFIBRILLATORE DAE","marker-symbol":"heart","marker-color":"#E56C69"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["9.186354","45.621031"]},"properties":{"title":"SCUOLE ELEMENTARI , VIA DOLOMITI  50","description":"POSTAZIONE CON DEFIBRILLATORE DAE","marker-symbol":"heart","marker-color":"#E56C69"}},{"type":"Feature","geometry":{"type":"Point","coordinates":["9.2101803","45.6140767"]},"properties":{"title":"SCUOLE ELEMENTARI , VIA  JACOPO DAL VERME  ","description":"POSTAZIONE CON DEFIBRILLATORE DAE","marker-symbol":"heart","marker-color":"#E56C69"}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.205079",
+          "45.626687"
+        ]
+      },
+      "properties": {
+        "title": "SOCIETA'™ DI SCHERMA , VIA SANTA CATERINA 13",
+        "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
+        "marker-symbol": "heart",
+        "marker-color": "#E56C69"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.210455",
+          "45.618636"
+        ]
+      },
+      "properties": {
+        "title": "CENTRO RICREATIVO \" IL GIRASOLE\", VIA  S.PIETRO 14",
+        "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
+        "marker-symbol": "heart",
+        "marker-color": "#E56C69"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.193961",
+          "45.618451"
+        ]
+      },
+      "properties": {
+        "title": "PARROCCHIA / ORATORIO S.GIOVANNI BATTISTA , VIA DI VITTORIO  18",
+        "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
+        "marker-symbol": "heart",
+        "marker-color": "#E56C69"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.205036",
+          "45.612075"
+        ]
+      },
+      "properties": {
+        "title": "SOCIETA' BOCCIOFILA AURORA , VIA GARIBALDI  257",
+        "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
+        "marker-symbol": "heart",
+        "marker-color": "#E56C69"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.21464",
+          "45.61465"
+        ]
+      },
+      "properties": {
+        "title": "INTERNO PARCO COMUNALE , PIAZZALE PARC0  ",
+        "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
+        "marker-symbol": "heart",
+        "marker-color": "#E56C69"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.203218",
+          "45.607928"
+        ]
+      },
+      "properties": {
+        "title": "PARROCCHIA / ORATORIO S.PIO X, VIA GARIBALDI  288",
+        "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
+        "marker-symbol": "heart",
+        "marker-color": "#E56C69"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.193684",
+          "45.611574"
+        ]
+      },
+      "properties": {
+        "title": "CENTRO SPORTIVO COMUNALE , VIA AGNESI    ",
+        "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
+        "marker-symbol": "heart",
+        "marker-color": "#E56C69"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.20369",
+          "45.62181"
+        ]
+      },
+      "properties": {
+        "title": "CIMITERO COMUNALE MONUMENTALE , VIALE  RIMEMBRANZE  1",
+        "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
+        "marker-symbol": "heart",
+        "marker-color": "#E56C69"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.209982",
+          "45.604717"
+        ]
+      },
+      "properties": {
+        "title": "NUOVO CIMITERO COMUNALE , PIAZZALE DIVINA MISERICORDIA",
+        "description": null,
+        "marker-symbol": "heart",
+        "marker-color": "#E56C69"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.208536",
+          "45.620388"
+        ]
+      },
+      "properties": {
+        "title": "ATRIO URP PALAZZO COMUNALE , PIAZZA GIOVANNI PAOLO II ",
+        "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
+        "marker-symbol": "heart",
+        "marker-color": "#E56C69"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.21650",
+          "45.61683"
+        ]
+      },
+      "properties": {
+        "title": "INTERNO BOCCIOFILA PARCO DI DESIO, VIALE  CAVALIERI DI VITTORIO VENETO  ",
+        "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
+        "marker-symbol": "heart",
+        "marker-color": "#E56C69"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.207582",
+          "45.617371"
+        ]
+      },
+      "properties": {
+        "title": "PIAZZA CONCILIAZIONE, PIAZZA CONCILIAZIONE ",
+        "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
+        "marker-symbol": "heart",
+        "marker-color": "#E56C69"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.231016",
+          "45.620644"
+        ]
+      },
+      "properties": {
+        "title": "PARROCCHIA S. GIORGIO , VIA S. APOLLINARE  4",
+        "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
+        "marker-symbol": "heart",
+        "marker-color": "#E56C69"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.193077",
+          "45.613304"
+        ]
+      },
+      "properties": {
+        "title": "INTERNO PALADESIO , LARGO  ATLETI AZZURRI D'ITALIA  ",
+        "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
+        "marker-symbol": "heart",
+        "marker-color": "#E56C69"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.208094",
+          "45.615004"
+        ]
+      },
+      "properties": {
+        "title": "ORATORIO B.V.I. , VIA GRANDI  31",
+        "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
+        "marker-symbol": "heart",
+        "marker-color": "#E56C69"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.203488",
+          "45.626235"
+        ]
+      },
+      "properties": {
+        "title": "PARROCCHIA / ORATORIO SS.PIETRO E PAOLO , VIA  SANTA CATERINA 9",
+        "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
+        "marker-symbol": "heart",
+        "marker-color": "#E56C69"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.203195",
+          "45.627866"
+        ]
+      },
+      "properties": {
+        "title": "SCUOLE ELEMENTARI , VIA  TOLSTOJ 1",
+        "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
+        "marker-symbol": "heart",
+        "marker-color": "#E56C69"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.20547",
+          "45.627484"
+        ]
+      },
+      "properties": {
+        "title": "SCUOLE ELEMENTARI S.PERTINI , VIA MILANO  345",
+        "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
+        "marker-symbol": "heart",
+        "marker-color": "#E56C69"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.203303",
+          "45.618944"
+        ]
+      },
+      "properties": {
+        "title": "SCUOLE ELEMENTARI , VIA  DIAZ 7",
+        "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
+        "marker-symbol": "heart",
+        "marker-color": "#E56C69"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.199092",
+          "45.612646"
+        ]
+      },
+      "properties": {
+        "title": "SCUOLE ELEMENTARI, VIA  AGNESI  10",
+        "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
+        "marker-symbol": "heart",
+        "marker-color": "#E56C69"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.19906",
+          "45.61408"
+        ]
+      },
+      "properties": {
+        "title": "SCUOLA MEDIA \"L.PIROTTA\", VIA STADIO 13",
+        "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
+        "marker-symbol": "heart",
+        "marker-color": "#E56C69"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.20717",
+          "45.61191"
+        ]
+      },
+      "properties": {
+        "title": "SCUOLA MEDIA \"G.RODARI\", PIAZZA NENNI 1",
+        "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
+        "marker-symbol": "heart",
+        "marker-color": "#E56C69"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.186354",
+          "45.621031"
+        ]
+      },
+      "properties": {
+        "title": "SCUOLE ELEMENTARI , VIA DOLOMITI  50",
+        "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
+        "marker-symbol": "heart",
+        "marker-color": "#E56C69"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.2101803",
+          "45.6140767"
+        ]
+      },
+      "properties": {
+        "title": "SCUOLE ELEMENTARI , VIA  JACOPO DAL VERME  ",
+        "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
+        "marker-symbol": "heart",
+        "marker-color": "#E56C69"
+      }
+    }
+  ]
+}
