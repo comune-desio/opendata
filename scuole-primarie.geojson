@@ -23,7 +23,7 @@
         "type": "Point",
         "coordinates": [
           "9.1278203",
-          "35.602003"
+          "45.602003"
         ]
       },
       "properties": {
@@ -54,7 +54,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          " 9.230927",
+          "9.230927",
           "45.620961"
         ]
       },
@@ -75,7 +75,7 @@
         ]
       },
       "properties": {
-        "title": "ISTITUTO COMPRENSIVO TOLSTOJ, VIA Tolstoj   1",
+        "title": "ISTITUTO COMPRENSIVO TOLSTOJ, VIA Tolstoj 1",
         "description": "telefono: 362626264<br />Sede e contatti segreteria: Segreteria Via Tolstoj, 1 - Tel. 0362/626.264 - Fax 0362/307.837 e-mail ictolstoj@scuoletolstoj.it - sito www.ictolstoj.gov.it",
         "marker-symbol": "college",
         "marker-color": "#00AF64"
@@ -91,7 +91,7 @@
         ]
       },
       "properties": {
-        "title": "ISTITUTO COMPRENSIVO TOLSTOJ, VIA Dolomiti  50",
+        "title": "ISTITUTO COMPRENSIVO TOLSTOJ, VIA Dolomiti 50",
         "description": "telefono: 362621595<br />Sede e contatti segreteria: Segreteria Via Tolstoj, 1 - Tel. 0362/626.264 - Fax 0362/307.837 e-mail ictolstoj@scuoletolstoj.it - sito www.ictolstoj.gov.it",
         "marker-symbol": "college",
         "marker-color": "#00AF64"
