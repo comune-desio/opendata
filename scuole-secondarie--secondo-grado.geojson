@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.19586",
+          "45.61195"
+        ]
+      },
+      "properties": {
+        "title": "Liceo Statale Ettore Majorana, VIA Agnesi 20",
+        "description": "telefono:  0362 625.661<br />Sede e contatti segreteria: Segreteria Via Agnesi 20 Tel  0362/625.661 Fax 0362/625.351 e-mail lsmajor@tin.it sito www.liceomajoranadesio.it",
+        "marker-symbol": "college",
+        "marker-color": "#00AF64"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.193541",
+          "45.6119421"
+        ]
+      },
+      "properties": {
+        "title": "I.T.I.S.  Enrico Fermi, VIA Agnesi 24",
+        "description": "telefono: 0362 303.335 <br />Sede e contatti segreteria: Segreteria Via Agnesi 24 Tel  0362/303.335 Fax 0362/303 337 e-mail MITF050004@istruzione.it sito www.itisfermidesio.it",
+        "marker-symbol": "college",
+        "marker-color": "#00AF64"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.210893",
+          "45.618071"
+        ]
+      },
+      "properties": {
+        "title": "Collegio Paola di Rosa, VIA San Pietro  6",
+        "description": "telefono: 0362 621.649<br />Sede e contatti segreteria: Segreteria Via San Pietro 6 Tel. 0362/621.649 e-mail paola.dirosa@infinito.it sito www.ancelle.org/scuole/collegio.htm",
+        "marker-symbol": "college",
+        "marker-color": "#00AF64"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.207694",
+          "45.621969"
+        ]
+      },
+      "properties": {
+        "title": "Collegio Arcivesc. Pio XI, VIA Due Palme  2",
+        "description": "telefono: 0362 621.606<br />Sede e contatti segreteria: Segreteria Via Due Palme 2 Tel. 0362/621.606 e-mail info@collegiopioundicesimo.it sito www.collegiopioxi.it",
+        "marker-symbol": "college",
+        "marker-color": "#00AF64"
+      }
+    }
+  ]
+}
