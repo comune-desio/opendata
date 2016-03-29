@@ -1,21 +1,5 @@
 ID,latitudine,longitudine,TOPONIMO,PLESSO,N. CIVICO,TELEFONO,ISTITUTO COMPRENSIVO STATALE / SCUOLA PARITARIA,SEDE E CONTATTI SEGRETERIA
-1,45.61195, 9.19586,VIA,Agnesi,20, 0362 625.661,Liceo Statale Ettore Majorana,"Segreteria Via Agnesi 20
-Tel  0362/625.661 Fax 0362/625.351
-e-mail lsmajor@tin.it
-sito www.liceomajoranadesio.it"
-2,45.611942 1,9.193541,VIA,Agnesi,24,0362 303.335 ,"I.T.I.S.  Enrico Fermi
-","Segreteria Via Agnesi 24
-Tel  0362/303.335 Fax 0362/303 337
-e-mail MITF050004@istruzione.it
-sito www.itisfermidesio.it"
-3, 45.618071 ,9.210893,VIA,San Pietro ,6,0362 621.649,"Collegio Paola di Rosa
-","Segreteria Via San Pietro 6
-Tel. 0362/621.649
-e-mail paola.dirosa@infinito.it
-sito www.ancelle.org/scuole/collegio.htm"
-4, 45.621969  , 9.207694,VIA,"
-Due Palme ",2,0362 621.606,"Collegio Arcivesc. Pio XI
-","Segreteria Via Due Palme 2
-Tel. 0362/621.606
-e-mail info@collegiopioundicesimo.it
-sito www.collegiopioxi.it"
+1,45.61195,9.19586,VIA,Agnesi,20, 0362 625.661,Liceo Statale Ettore Majorana,"Segreteria Via Agnesi 20 Tel  0362/625.661 Fax 0362/625.351 e-mail lsmajor@tin.it sito www.liceomajoranadesio.it"
+2,45.6119421,9.193541,VIA,Agnesi,24,0362 303.335 ,"I.T.I.S.  Enrico Fermi","Segreteria Via Agnesi 24 Tel  0362/303.335 Fax 0362/303 337 e-mail MITF050004@istruzione.it sito www.itisfermidesio.it"
+3,45.618071,9.210893,VIA,San Pietro ,6,0362 621.649,"Collegio Paola di Rosa","Segreteria Via San Pietro 6 Tel. 0362/621.649 e-mail paola.dirosa@infinito.it sito www.ancelle.org/scuole/collegio.htm"
+4,45.621969,9.207694,VIA,"Due Palme ",2,0362 621.606,"Collegio Arcivesc. Pio XI","Segreteria Via Due Palme 2 Tel. 0362/621.606 e-mail info@collegiopioundicesimo.it sito www.collegiopioxi.it"

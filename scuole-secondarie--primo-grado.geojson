@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.1968713",
+          "45.61408"
+        ]
+      },
+      "properties": {
+        "title": " PIROTTA, VIA Stadio 13",
+        "description": "telefono: 0362 624.030<br />Sede e contatti segreteria: Segreteria  Via Stadio 13 Tel. 0362/392.314 Istituto Comprens. Agnesi Tel. 0362/624.030 - Fax 0362/620.278 e-mail miic879004@istruzione.it - sito www.ic-agnesidesio.gov.it",
+        "marker-symbol": "college",
+        "marker-color": "#00AF64"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.218159",
+          "56.15195"
+        ]
+      },
+      "properties": {
+        "title": " RODARI, VIA Piazza Nenni  1",
+        "description": "telefono: 0362 392.316<br />Sede e contatti segreteria: Segreteria Piazza Nenni 1 Tel. 0362/392.316 Istituto Comprens. Prati Tel. 0362/392.316 - Fax 0362/303.076 e-mail info@icpratidesio.it -sito www.icpratidesio.it",
+        "marker-symbol": "college",
+        "marker-color": "#00AF64"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.177885",
+          "45.62967"
+        ]
+      },
+      "properties": {
+        "title": " PERTINI, VIA Milano 345",
+        "description": "telefono: 0362 392.315<br />Sede e contatti segreteria: Segreteria Via Milano 345 Tel. 0362/392.315 Istituto Comprens. Tolstoj Tel. 0362/626.264 - Fax 0362/307.837 e-mail ictolstoj@scuoletolstoj.it - sito www.ictolstoj.gov.it",
+        "marker-symbol": "college",
+        "marker-color": "#00AF64"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.210893",
+          "45.618071"
+        ]
+      },
+      "properties": {
+        "title": "Scuola secondaria di primo grado Collegio Paola di Rosa, VIA San Pietro  6",
+        "description": "telefono: 0362 621.649<br />Sede e contatti segreteria: Sgreteria Via San Pietro 6 Tel. 0362/621.649 e-mail paola.dirosa@infinito.it - sito www.ancelle.org/scuole/collegio.htm",
+        "marker-symbol": "college",
+        "marker-color": "#00AF64"
+      }
+    }
+  ]
+}
