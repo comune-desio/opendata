@@ -11,7 +11,7 @@
         ]
       },
       "properties": {
-        "title": "SOCIETÀ DI SCHERMA , VIA SANTA CATERINA 13",
+        "title": "SOCIETA’ DI SCHERMA , VIA SANTA CATERINA 13",
         "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
         "marker-symbol": "heart",
         "marker-color": "#E56C69"
@@ -70,8 +70,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "9.21464",
-          "45.61465"
+          "9.216209",
+          "45.614392"
         ]
       },
       "properties": {
@@ -182,8 +182,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "9.207582",
-          "45.617371"
+          "9.207367",
+          "45.617391"
         ]
       },
       "properties": {
