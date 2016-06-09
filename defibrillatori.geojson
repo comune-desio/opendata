@@ -13,6 +13,11 @@
       "properties": {
         "title": "SOCIETA’ DI SCHERMA , VIA SANTA CATERINA 13",
         "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
+        "availability": null,
+        "host": null,
+        "verificationStatus": "non verificato",
+        "verifier": null,
+        "lastVerifiedAt": null,
         "marker-symbol": "heart",
         "marker-color": "#E56C69"
       }
@@ -29,6 +34,11 @@
       "properties": {
         "title": "CENTRO RICREATIVO \" IL GIRASOLE\", VIA  S.PIETRO 14",
         "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
+        "availability": null,
+        "host": null,
+        "verificationStatus": "non verificato",
+        "verifier": null,
+        "lastVerifiedAt": null,
         "marker-symbol": "heart",
         "marker-color": "#E56C69"
       }
@@ -45,6 +55,11 @@
       "properties": {
         "title": "PARROCCHIA / ORATORIO S.GIOVANNI BATTISTA , VIA DI VITTORIO  18",
         "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
+        "availability": null,
+        "host": null,
+        "verificationStatus": "non verificato",
+        "verifier": null,
+        "lastVerifiedAt": null,
         "marker-symbol": "heart",
         "marker-color": "#E56C69"
       }
@@ -61,6 +76,11 @@
       "properties": {
         "title": "SOCIETA' BOCCIOFILA AURORA , VIA GARIBALDI  257",
         "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
+        "availability": null,
+        "host": null,
+        "verificationStatus": "non verificato",
+        "verifier": null,
+        "lastVerifiedAt": null,
         "marker-symbol": "heart",
         "marker-color": "#E56C69"
       }
@@ -77,6 +97,11 @@
       "properties": {
         "title": "INTERNO PARCO COMUNALE , PIAZZALE PARCO  ",
         "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
+        "availability": null,
+        "host": null,
+        "verificationStatus": "non verificato",
+        "verifier": null,
+        "lastVerifiedAt": null,
         "marker-symbol": "heart",
         "marker-color": "#E56C69"
       }
@@ -93,6 +118,11 @@
       "properties": {
         "title": "PARROCCHIA / ORATORIO S.PIO X, VIA GARIBALDI  288",
         "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
+        "availability": null,
+        "host": null,
+        "verificationStatus": "non verificato",
+        "verifier": null,
+        "lastVerifiedAt": null,
         "marker-symbol": "heart",
         "marker-color": "#E56C69"
       }
@@ -109,6 +139,11 @@
       "properties": {
         "title": "CENTRO SPORTIVO COMUNALE , VIA AGNESI    ",
         "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
+        "availability": null,
+        "host": null,
+        "verificationStatus": "non verificato",
+        "verifier": null,
+        "lastVerifiedAt": null,
         "marker-symbol": "heart",
         "marker-color": "#E56C69"
       }
@@ -125,6 +160,11 @@
       "properties": {
         "title": "CIMITERO COMUNALE MONUMENTALE , VIALE  RIMEMBRANZE  1",
         "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
+        "availability": null,
+        "host": null,
+        "verificationStatus": "non verificato",
+        "verifier": null,
+        "lastVerifiedAt": null,
         "marker-symbol": "heart",
         "marker-color": "#E56C69"
       }
@@ -141,6 +181,11 @@
       "properties": {
         "title": "NUOVO CIMITERO COMUNALE, PIAZZALE DIVINA MISERICORDIA ",
         "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
+        "availability": null,
+        "host": null,
+        "verificationStatus": "non verificato",
+        "verifier": null,
+        "lastVerifiedAt": null,
         "marker-symbol": "heart",
         "marker-color": "#E56C69"
       }
@@ -157,6 +202,11 @@
       "properties": {
         "title": "ATRIO URP PALAZZO COMUNALE , PIAZZA GIOVANNI PAOLO II ",
         "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
+        "availability": null,
+        "host": null,
+        "verificationStatus": "non verificato",
+        "verifier": null,
+        "lastVerifiedAt": null,
         "marker-symbol": "heart",
         "marker-color": "#E56C69"
       }
@@ -173,6 +223,11 @@
       "properties": {
         "title": "INTERNO BOCCIOFILA PARCO DI DESIO, VIALE  CAVALIERI DI VITTORIO VENETO  ",
         "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
+        "availability": null,
+        "host": null,
+        "verificationStatus": "non verificato",
+        "verifier": null,
+        "lastVerifiedAt": null,
         "marker-symbol": "heart",
         "marker-color": "#E56C69"
       }
@@ -189,6 +244,11 @@
       "properties": {
         "title": "PIAZZA CONCILIAZIONE, PIAZZA CONCILIAZIONE ",
         "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
+        "availability": null,
+        "host": null,
+        "verificationStatus": "non verificato",
+        "verifier": null,
+        "lastVerifiedAt": null,
         "marker-symbol": "heart",
         "marker-color": "#E56C69"
       }
@@ -205,6 +265,11 @@
       "properties": {
         "title": "PARROCCHIA S. GIORGIO , VIA S. APOLLINARE  4",
         "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
+        "availability": null,
+        "host": null,
+        "verificationStatus": "non verificato",
+        "verifier": null,
+        "lastVerifiedAt": null,
         "marker-symbol": "heart",
         "marker-color": "#E56C69"
       }
@@ -221,6 +286,11 @@
       "properties": {
         "title": "INTERNO PALADESIO , LARGO  ATLETI AZZURRI D'ITALIA  ",
         "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
+        "availability": null,
+        "host": null,
+        "verificationStatus": "non verificato",
+        "verifier": null,
+        "lastVerifiedAt": null,
         "marker-symbol": "heart",
         "marker-color": "#E56C69"
       }
@@ -237,6 +307,11 @@
       "properties": {
         "title": "ORATORIO B.V.I. , VIA GRANDI  31",
         "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
+        "availability": null,
+        "host": null,
+        "verificationStatus": "non verificato",
+        "verifier": null,
+        "lastVerifiedAt": null,
         "marker-symbol": "heart",
         "marker-color": "#E56C69"
       }
@@ -253,6 +328,11 @@
       "properties": {
         "title": "PARROCCHIA / ORATORIO SS.PIETRO E PAOLO , VIA  SANTA CATERINA 9",
         "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
+        "availability": null,
+        "host": null,
+        "verificationStatus": "non verificato",
+        "verifier": null,
+        "lastVerifiedAt": null,
         "marker-symbol": "heart",
         "marker-color": "#E56C69"
       }
@@ -269,6 +349,11 @@
       "properties": {
         "title": "SCUOLE ELEMENTARI , VIA  TOLSTOJ 1",
         "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
+        "availability": null,
+        "host": null,
+        "verificationStatus": "non verificato",
+        "verifier": null,
+        "lastVerifiedAt": null,
         "marker-symbol": "heart",
         "marker-color": "#E56C69"
       }
@@ -285,6 +370,11 @@
       "properties": {
         "title": "SCUOLE ELEMENTARI S.PERTINI , VIA MILANO  345",
         "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
+        "availability": null,
+        "host": null,
+        "verificationStatus": "non verificato",
+        "verifier": null,
+        "lastVerifiedAt": null,
         "marker-symbol": "heart",
         "marker-color": "#E56C69"
       }
@@ -301,6 +391,11 @@
       "properties": {
         "title": "SCUOLE ELEMENTARI , VIA  DIAZ 7",
         "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
+        "availability": null,
+        "host": null,
+        "verificationStatus": "non verificato",
+        "verifier": null,
+        "lastVerifiedAt": null,
         "marker-symbol": "heart",
         "marker-color": "#E56C69"
       }
@@ -317,6 +412,11 @@
       "properties": {
         "title": "SCUOLE ELEMENTARI, VIA  AGNESI  10",
         "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
+        "availability": null,
+        "host": null,
+        "verificationStatus": "non verificato",
+        "verifier": null,
+        "lastVerifiedAt": null,
         "marker-symbol": "heart",
         "marker-color": "#E56C69"
       }
@@ -333,6 +433,11 @@
       "properties": {
         "title": "SCUOLA MEDIA \"L.PIROTTA\", VIA STADIO 13",
         "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
+        "availability": null,
+        "host": null,
+        "verificationStatus": "non verificato",
+        "verifier": null,
+        "lastVerifiedAt": null,
         "marker-symbol": "heart",
         "marker-color": "#E56C69"
       }
@@ -349,6 +454,11 @@
       "properties": {
         "title": "SCUOLA MEDIA \"G.RODARI\", PIAZZA NENNI 1",
         "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
+        "availability": null,
+        "host": null,
+        "verificationStatus": "non verificato",
+        "verifier": null,
+        "lastVerifiedAt": null,
         "marker-symbol": "heart",
         "marker-color": "#E56C69"
       }
@@ -365,6 +475,11 @@
       "properties": {
         "title": "SCUOLE ELEMENTARI , VIA DOLOMITI  50",
         "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
+        "availability": null,
+        "host": null,
+        "verificationStatus": "non verificato",
+        "verifier": null,
+        "lastVerifiedAt": null,
         "marker-symbol": "heart",
         "marker-color": "#E56C69"
       }
@@ -381,6 +496,11 @@
       "properties": {
         "title": "SCUOLE ELEMENTARI , VIA  JACOPO DAL VERME  ",
         "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
+        "availability": null,
+        "host": null,
+        "verificationStatus": "non verificato",
+        "verifier": null,
+        "lastVerifiedAt": null,
         "marker-symbol": "heart",
         "marker-color": "#E56C69"
       }
