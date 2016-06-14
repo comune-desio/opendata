@@ -11,9 +11,10 @@
         ]
       },
       "properties": {
-        "title": "SOCIETA’ DI SCHERMA , VIA SANTA CATERINA 13",
+        "title": "SOCIETA’ DI SCHERMA, VIA SANTA CATERINA 13",
         "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
-        "availability": null,
+        "availability": "disponibilità struttura ospitante",
+        "availabilityNotes": "accessibile nei normali orari di svolgimento delle attività didattiche o in orari serali, se sede aperta per attività delle associazioni sportive",
         "host": null,
         "verificationStatus": "non verificato",
         "verifier": null,
@@ -32,9 +33,10 @@
         ]
       },
       "properties": {
-        "title": "CENTRO RICREATIVO \" IL GIRASOLE\", VIA  S.PIETRO 14",
+        "title": "CENTRO RICREATIVO \" IL GIRASOLE\", VIA S.PIETRO 14",
         "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
-        "availability": null,
+        "availability": "disponibilità struttura ospitante",
+        "availabilityNotes": "accessibile nei normali orari di svolgimento delle attività didattiche o in orari serali, se sede aperta per attività delle associazioni sportive",
         "host": null,
         "verificationStatus": "non verificato",
         "verifier": null,
@@ -53,9 +55,10 @@
         ]
       },
       "properties": {
-        "title": "PARROCCHIA / ORATORIO S.GIOVANNI BATTISTA , VIA DI VITTORIO  18",
+        "title": "PARROCCHIA / ORATORIO S.GIOVANNI BATTISTA, VIA DI VITTORIO 18",
         "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
-        "availability": null,
+        "availability": "disponibilità struttura ospitante",
+        "availabilityNotes": "accessibile nei normali orari di svolgimento delle attività didattiche o in orari serali, se sede aperta per attività delle associazioni sportive",
         "host": null,
         "verificationStatus": "non verificato",
         "verifier": null,
@@ -74,9 +77,10 @@
         ]
       },
       "properties": {
-        "title": "SOCIETA' BOCCIOFILA AURORA , VIA GARIBALDI  257",
+        "title": "SOCIETA' BOCCIOFILA AURORA, VIA GARIBALDI 257",
         "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
-        "availability": null,
+        "availability": "disponibilità struttura ospitante",
+        "availabilityNotes": "accessibile nei normali orari di svolgimento delle attività didattiche o in orari serali, se sede aperta per attività delle associazioni sportive",
         "host": null,
         "verificationStatus": "non verificato",
         "verifier": null,
@@ -95,11 +99,12 @@
         ]
       },
       "properties": {
-        "title": "INTERNO PARCO COMUNALE , PIAZZALE PARCO  ",
+        "title": "INTERNO PARCO COMUNALE, PIAZZALE PARCO ",
         "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
-        "availability": null,
+        "availability": "disponibilità struttura ospitante",
+        "availabilityNotes": "accessibile nei normali orari di apertura del Parco di Villa Tittoni: ORARIO ESTIVO (1° aprile - 30 settembre) dalle 7:30 alle 20, ORARIO INVERNALE (1° ottobre - 30 marzo) dalle 8:30 alle 17:30",
         "host": null,
-        "verificationStatus": "non verificato",
+        "verificationStatus": "verificato",
         "verifier": null,
         "lastVerifiedAt": null,
         "marker-symbol": "heart",
@@ -116,9 +121,10 @@
         ]
       },
       "properties": {
-        "title": "PARROCCHIA / ORATORIO S.PIO X, VIA GARIBALDI  288",
+        "title": "PARROCCHIA / ORATORIO S.PIO X, VIA GARIBALDI 288",
         "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
-        "availability": null,
+        "availability": "disponibilità struttura ospitante",
+        "availabilityNotes": "accessibile nei normali orari di svolgimento delle attività didattiche o in orari serali, se sede aperta per attività delle associazioni sportive",
         "host": null,
         "verificationStatus": "non verificato",
         "verifier": null,
@@ -137,9 +143,10 @@
         ]
       },
       "properties": {
-        "title": "CENTRO SPORTIVO COMUNALE , VIA AGNESI    ",
+        "title": "CENTRO SPORTIVO COMUNALE, VIA AGNESI ",
         "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
-        "availability": null,
+        "availability": "disponibilità struttura ospitante",
+        "availabilityNotes": "accessibile nei normali orari di svolgimento delle attività didattiche o in orari serali, se sede aperta per attività delle associazioni sportive",
         "host": null,
         "verificationStatus": "non verificato",
         "verifier": null,
@@ -158,9 +165,10 @@
         ]
       },
       "properties": {
-        "title": "CIMITERO COMUNALE MONUMENTALE , VIALE  RIMEMBRANZE  1",
+        "title": "CIMITERO COMUNALE MONUMENTALE, VIALE RIMEMBRANZE 1",
         "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
-        "availability": null,
+        "availability": "disponibilità struttura ospitante",
+        "availabilityNotes": "accessibile nei normali orari di svolgimento delle attività didattiche o in orari serali, se sede aperta per attività delle associazioni sportive",
         "host": null,
         "verificationStatus": "non verificato",
         "verifier": null,
@@ -181,7 +189,8 @@
       "properties": {
         "title": "NUOVO CIMITERO COMUNALE, PIAZZALE DIVINA MISERICORDIA ",
         "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
-        "availability": null,
+        "availability": "disponibilità struttura ospitante",
+        "availabilityNotes": "accessibile nei normali orari di svolgimento delle attività didattiche o in orari serali, se sede aperta per attività delle associazioni sportive",
         "host": null,
         "verificationStatus": "non verificato",
         "verifier": null,
@@ -195,16 +204,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "9.208536",
-          "45.620388"
+          "9.208763",
+          "45.620271"
         ]
       },
       "properties": {
-        "title": "ATRIO URP PALAZZO COMUNALE , PIAZZA GIOVANNI PAOLO II ",
+        "title": "ATRIO URP PALAZZO COMUNALE, PIAZZA GIOVANNI PAOLO II ",
         "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
-        "availability": null,
-        "host": null,
-        "verificationStatus": "non verificato",
+        "availability": "disponibilità struttura ospitante",
+        "availabilityNotes": "accessibile negli orari di apertura al pubblico del Comune: dal lun al ven 8:30 - 12:30, mar e giov anche dalle 15:30 alle 17:30",
+        "host": "http://www.comune.desio.mb.it/",
+        "verificationStatus": "Verificato",
         "verifier": null,
         "lastVerifiedAt": null,
         "marker-symbol": "heart",
@@ -216,16 +226,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "9.21650",
-          "45.61683"
+          "9.216412",
+          "45.616956"
         ]
       },
       "properties": {
-        "title": "INTERNO BOCCIOFILA PARCO DI DESIO, VIALE  CAVALIERI DI VITTORIO VENETO  ",
+        "title": "INTERNO BOCCIOFILA PARCO DI DESIO, VIALE CAVALIERI DI VITTORIO VENETO ",
         "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
-        "availability": null,
+        "availability": "disponibilità struttura ospitante",
+        "availabilityNotes": "accessibile nei normali orari di svolgimento delle attività didattiche o in orari serali, se sede aperta per attività delle associazioni sportive",
         "host": null,
-        "verificationStatus": "non verificato",
+        "verificationStatus": "verificato",
         "verifier": null,
         "lastVerifiedAt": null,
         "marker-symbol": "heart",
@@ -244,9 +255,10 @@
       "properties": {
         "title": "PIAZZA CONCILIAZIONE, PIAZZA CONCILIAZIONE ",
         "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
-        "availability": null,
+        "availability": "disponibilità struttura ospitante",
+        "availabilityNotes": "accessibile nei normali orari di svolgimento delle attività didattiche o in orari serali, se sede aperta per attività delle associazioni sportive",
         "host": null,
-        "verificationStatus": "non verificato",
+        "verificationStatus": "verificato",
         "verifier": null,
         "lastVerifiedAt": null,
         "marker-symbol": "heart",
@@ -263,9 +275,10 @@
         ]
       },
       "properties": {
-        "title": "PARROCCHIA S. GIORGIO , VIA S. APOLLINARE  4",
+        "title": "PARROCCHIA S. GIORGIO, VIA S. APOLLINARE 4",
         "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
-        "availability": null,
+        "availability": "disponibilità struttura ospitante",
+        "availabilityNotes": "accessibile nei normali orari di svolgimento delle attività didattiche o in orari serali, se sede aperta per attività delle associazioni sportive",
         "host": null,
         "verificationStatus": "non verificato",
         "verifier": null,
@@ -284,9 +297,10 @@
         ]
       },
       "properties": {
-        "title": "INTERNO PALADESIO , LARGO  ATLETI AZZURRI D'ITALIA  ",
+        "title": "INTERNO PALADESIO, LARGO ATLETI AZZURRI D'ITALIA ",
         "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
-        "availability": null,
+        "availability": "disponibilità struttura ospitante",
+        "availabilityNotes": "accessibile nei normali orari di svolgimento delle attività didattiche o in orari serali, se sede aperta per attività delle associazioni sportive",
         "host": null,
         "verificationStatus": "non verificato",
         "verifier": null,
@@ -305,9 +319,10 @@
         ]
       },
       "properties": {
-        "title": "ORATORIO B.V.I. , VIA GRANDI  31",
+        "title": "ORATORIO B.V.I., VIA GRANDI 31",
         "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
-        "availability": null,
+        "availability": "disponibilità struttura ospitante",
+        "availabilityNotes": "accessibile nei normali orari di svolgimento delle attività didattiche o in orari serali, se sede aperta per attività delle associazioni sportive",
         "host": null,
         "verificationStatus": "non verificato",
         "verifier": null,
@@ -326,9 +341,10 @@
         ]
       },
       "properties": {
-        "title": "PARROCCHIA / ORATORIO SS.PIETRO E PAOLO , VIA  SANTA CATERINA 9",
+        "title": "PARROCCHIA / ORATORIO SS.PIETRO E PAOLO, VIA SANTA CATERINA 9",
         "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
-        "availability": null,
+        "availability": "disponibilità struttura ospitante",
+        "availabilityNotes": "accessibile nei normali orari di svolgimento delle attività didattiche o in orari serali, se sede aperta per attività delle associazioni sportive",
         "host": null,
         "verificationStatus": "non verificato",
         "verifier": null,
@@ -347,9 +363,10 @@
         ]
       },
       "properties": {
-        "title": "SCUOLE ELEMENTARI , VIA  TOLSTOJ 1",
+        "title": "SCUOLE ELEMENTARI, VIA TOLSTOJ 1",
         "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
-        "availability": null,
+        "availability": "disponibilità struttura ospitante",
+        "availabilityNotes": "accessibile nei normali orari di svolgimento delle attività didattiche o in orari serali, se sede aperta per attività delle associazioni sportive",
         "host": null,
         "verificationStatus": "non verificato",
         "verifier": null,
@@ -368,9 +385,10 @@
         ]
       },
       "properties": {
-        "title": "SCUOLE ELEMENTARI S.PERTINI , VIA MILANO  345",
+        "title": "SCUOLE ELEMENTARI S.PERTINI, VIA MILANO 345",
         "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
-        "availability": null,
+        "availability": "disponibilità struttura ospitante",
+        "availabilityNotes": "accessibile nei normali orari di svolgimento delle attività didattiche o in orari serali, se sede aperta per attività delle associazioni sportive",
         "host": null,
         "verificationStatus": "non verificato",
         "verifier": null,
@@ -389,9 +407,10 @@
         ]
       },
       "properties": {
-        "title": "SCUOLE ELEMENTARI , VIA  DIAZ 7",
+        "title": "SCUOLE ELEMENTARI, VIA DIAZ 7",
         "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
-        "availability": null,
+        "availability": "disponibilità struttura ospitante",
+        "availabilityNotes": "accessibile nei normali orari di svolgimento delle attività didattiche o in orari serali, se sede aperta per attività delle associazioni sportive",
         "host": null,
         "verificationStatus": "non verificato",
         "verifier": null,
@@ -410,9 +429,10 @@
         ]
       },
       "properties": {
-        "title": "SCUOLE ELEMENTARI, VIA  AGNESI  10",
+        "title": "SCUOLE ELEMENTARI, VIA AGNESI 10",
         "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
-        "availability": null,
+        "availability": "disponibilità struttura ospitante",
+        "availabilityNotes": "accessibile nei normali orari di svolgimento delle attività didattiche o in orari serali, se sede aperta per attività delle associazioni sportive",
         "host": null,
         "verificationStatus": "non verificato",
         "verifier": null,
@@ -433,7 +453,8 @@
       "properties": {
         "title": "SCUOLA MEDIA \"L.PIROTTA\", VIA STADIO 13",
         "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
-        "availability": null,
+        "availability": "disponibilità struttura ospitante",
+        "availabilityNotes": "accessibile nei normali orari di svolgimento delle attività didattiche o in orari serali, se sede aperta per attività delle associazioni sportive",
         "host": null,
         "verificationStatus": "non verificato",
         "verifier": null,
@@ -454,7 +475,8 @@
       "properties": {
         "title": "SCUOLA MEDIA \"G.RODARI\", PIAZZA NENNI 1",
         "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
-        "availability": null,
+        "availability": "disponibilità struttura ospitante",
+        "availabilityNotes": "accessibile nei normali orari di svolgimento delle attività didattiche o in orari serali, se sede aperta per attività delle associazioni sportive",
         "host": null,
         "verificationStatus": "non verificato",
         "verifier": null,
@@ -473,9 +495,10 @@
         ]
       },
       "properties": {
-        "title": "SCUOLE ELEMENTARI , VIA DOLOMITI  50",
+        "title": "SCUOLE ELEMENTARI, VIA DOLOMITI 50",
         "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
-        "availability": null,
+        "availability": "disponibilità struttura ospitante",
+        "availabilityNotes": "accessibile nei normali orari di svolgimento delle attività didattiche o in orari serali, se sede aperta per attività delle associazioni sportive",
         "host": null,
         "verificationStatus": "non verificato",
         "verifier": null,
@@ -494,9 +517,10 @@
         ]
       },
       "properties": {
-        "title": "SCUOLE ELEMENTARI , VIA  JACOPO DAL VERME  ",
+        "title": "SCUOLE ELEMENTARI, VIA JACOPO DAL VERME ",
         "description": "POSTAZIONE CON DEFIBRILLATORE DAE",
-        "availability": null,
+        "availability": "disponibilità struttura ospitante",
+        "availabilityNotes": "accessibile nei normali orari di svolgimento delle attività didattiche o in orari serali, se sede aperta per attività delle associazioni sportive",
         "host": null,
         "verificationStatus": "non verificato",
         "verifier": null,
