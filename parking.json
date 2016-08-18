@@ -1,0 +1,592 @@
+[
+  {
+    "UUID": "6b5807d5-c327-4e98-8e32-af19cc395e11",
+    "Category": "Parking Lot",
+    "Address": "Don Giussani",
+    "Latitude": "45.621237",
+    "Longitude": "9.209033",
+    "Icon": "parking.png",
+    "Note": "",
+    "Link": ""
+  },
+  {
+    "UUID": "f8ccb6a7-b260-4c31-b06a-8e7dff6ed0a3",
+    "Category": "Parking Lot",
+    "Address": "Borghetto",
+    "Latitude": "45.615073",
+    "Longitude": "9.202363",
+    "Icon": "parking.png",
+    "Note": "",
+    "Link": ""
+  },
+  {
+    "UUID": "e4b6ee42-a4cb-4ce3-a0cb-23a17ed1862b",
+    "Category": "Parking Lot",
+    "Address": "Mercato Sud Prati",
+    "Latitude": "45.614752",
+    "Longitude": "9.211902",
+    "Icon": "parking.png",
+    "Note": "",
+    "Link": ""
+  },
+  {
+    "UUID": "ce296eb8-2001-4827-bdef-d810792efadc",
+    "Category": "Parking Lot",
+    "Address": "Stazione",
+    "Latitude": "45.620651",
+    "Longitude": "9.216960",
+    "Icon": "bancomat.png",
+    "Note": "",
+    "Link": ""
+  },
+  {
+    "UUID": "9a63101d-7843-48e0-86df-b6c7029bb424",
+    "Category": "Parking Lot",
+    "Address": "Via Foscolo",
+    "Latitude": "45.613566",
+    "Longitude": "9.204628",
+    "Icon": "parking.png",
+    "Note": "",
+    "Link": ""
+  },
+  {
+    "UUID": "39b24d7d-85bb-4906-b9c0-d874c4a6e32e",
+    "Category": "Parking Lot",
+    "Address": "Via Milano angolo Caravaggio",
+    "Latitude": "45.604985",
+    "Longitude": "9.203437",
+    "Icon": "parking.png",
+    "Note": "",
+    "Link": ""
+  },
+  {
+    "UUID": "c6c8a28c-6280-4ac8-8f88-e99c45067806",
+    "Category": "Parking Lot",
+    "Address": "Viale Rimembranze",
+    "Latitude": "45.620693",
+    "Longitude": "9.205253",
+    "Icon": "parking.png",
+    "Note": "",
+    "Link": ""
+  },
+  {
+    "UUID": "02fef698-59dc-4cb7-ae55-41df2bddac18",
+    "Category": "Park Meter",
+    "Address": "Via Fratelli Cervi 6",
+    "Latitude": "45.618486",
+    "Longitude": "9.206961",
+    "Icon": "parkingmeter.png",
+    "Note": "",
+    "Link": ""
+  },
+  {
+    "UUID": "03120d5d-4560-4fa8-b202-0e7697d096c2",
+    "Category": "Park Meter",
+    "Address": "Via Bareggi 7",
+    "Latitude": "45.620003",
+    "Longitude": "9.220018",
+    "Icon": "parkingmeter.png",
+    "Note": "Posizione non verificata",
+    "Link": ""
+  },
+  {
+    "UUID": "0326d59c-73d1-416f-a036-386676fe079c",
+    "Category": "Park Meter",
+    "Address": "Via Grandi 30",
+    "Latitude": "45.614893",
+    "Longitude": "9.208446",
+    "Icon": "parkingmeter.png",
+    "Note": "Posizione non verificata",
+    "Link": ""
+  },
+  {
+    "UUID": "039deeef-9d46-4e49-a7e4-e13c924e9c95",
+    "Category": "Park Meter",
+    "Address": "Via Fratelli Cervi 14",
+    "Latitude": "45.618316",
+    "Longitude": "9.205937",
+    "Icon": "parkingmeter.png",
+    "Note": "Posizione non verificata",
+    "Link": ""
+  },
+  {
+    "UUID": "060e5a24-eedb-4bcd-a7e1-f0a7fa3cfa3f",
+    "Category": "Park Meter",
+    "Address": "Via Matteotti 28",
+    "Latitude": "45.617353",
+    "Longitude": "9.205834",
+    "Icon": "parkingmeter.png",
+    "Note": "Posizione non verificata",
+    "Link": ""
+  },
+  {
+    "UUID": "07be6d23-315a-4273-a34a-17d0347e8706",
+    "Category": "Park Meter",
+    "Address": "Via Sicilia 20",
+    "Latitude": "45.619891",
+    "Longitude": "9.219016",
+    "Icon": "parkingmeter.png",
+    "Note": "Posizione non verificata",
+    "Link": ""
+  },
+  {
+    "UUID": "098b8723-d145-431a-8d75-8444b9cebcb8",
+    "Category": "Park Meter",
+    "Address": "Via Stazione",
+    "Latitude": "45.619598",
+    "Longitude": "9.21671",
+    "Icon": "bancomat.png",
+    "Note": "",
+    "Link": ""
+  },
+  {
+    "UUID": "24c0b0f2-9100-4862-a129-a71b25b3b33f",
+    "Category": "Park Meter",
+    "Address": "Via Forlanini 12",
+    "Latitude": "45.619142",
+    "Longitude": "9.217347",
+    "Icon": "parkingmeter.png",
+    "Note": "Posizione non verificata",
+    "Link": ""
+  },
+  {
+    "UUID": "25693798-a072-4773-b313-d13ef364cba9",
+    "Category": "Park Meter",
+    "Address": "Via Sicilia 14",
+    "Latitude": "45.619391",
+    "Longitude": "9.219247",
+    "Icon": "parkingmeter.png",
+    "Note": "Posizione non verificata",
+    "Link": ""
+  },
+  {
+    "UUID": "26419cc0-d539-4eae-bc20-242f39387b20",
+    "Category": "Park Meter",
+    "Address": "Via Conciliazione",
+    "Latitude": "45.617511",
+    "Longitude": "9.209071",
+    "Icon": "parkingmeter.png",
+    "Note": "Posizione non verificata",
+    "Link": ""
+  },
+  {
+    "UUID": "26e34e01-e841-489a-881f-c243bd54ed2b",
+    "Category": "Park Meter",
+    "Address": "Via Stazione",
+    "Latitude": "45.620041",
+    "Longitude": "9.21807",
+    "Icon": "bancomat.png",
+    "Note": "",
+    "Link": ""
+  },
+  {
+    "UUID": "27a050b3-d3da-47d2-8706-9bf94af1626d",
+    "Category": "Park Meter",
+    "Address": "Via Rimembranze",
+    "Latitude": "45.619408",
+    "Longitude": "9.206455",
+    "Icon": "parkingmeter.png",
+    "Note": "Posizione non verificata",
+    "Link": ""
+  },
+  {
+    "UUID": "2a4dfb45-8816-4375-8192-1c28cbe63cb0",
+    "Category": "Park Meter",
+    "Address": "Via Filippo da Desio 20",
+    "Latitude": "45.622093",
+    "Longitude": "9.219856",
+    "Icon": "parkingmeter.png",
+    "Note": "Posizione non verificata",
+    "Link": ""
+  },
+  {
+    "UUID": "2b6e8502-a0e7-42e6-83a3-b4eba3ed8e3d",
+    "Category": "Park Meter",
+    "Address": "Via Piazzale Giovanni Paolo II",
+    "Latitude": "45.620389",
+    "Longitude": "9.208536",
+    "Icon": "bancomat.png",
+    "Note": "",
+    "Link": ""
+  },
+  {
+    "UUID": "30fa7930-f6e7-4be7-b882-69c98c7b10d6",
+    "Category": "Park Meter",
+    "Address": "Via Brambilla 7",
+    "Latitude": "45.619025",
+    "Longitude": "9.216901",
+    "Icon": "parkingmeter.png",
+    "Note": "Posizione non verificata",
+    "Link": ""
+  },
+  {
+    "UUID": "36e8e717-0dc1-42aa-a110-1925cb673045",
+    "Category": "Park Meter",
+    "Address": "Via Olmetto 28",
+    "Latitude": "45.61594",
+    "Longitude": "9.20775",
+    "Icon": "parkingmeter.png",
+    "Note": "Posizione non verificata",
+    "Link": ""
+  },
+  {
+    "UUID": "3838aa8f-6572-42f7-baaf-d24ed0125994",
+    "Category": "Park Meter",
+    "Address": "Via Forlanini 33",
+    "Latitude": "45.618082",
+    "Longitude": "9.218035",
+    "Icon": "parkingmeter.png",
+    "Note": "Posizione non verificata",
+    "Link": ""
+  },
+  {
+    "UUID": "38788e45-14de-4059-8d4d-d383e30083c5",
+    "Category": "Park Meter",
+    "Address": "Via Stazione",
+    "Latitude": "45.620041",
+    "Longitude": "9.21807",
+    "Icon": "bancomat.png",
+    "Note": "",
+    "Link": ""
+  },
+  {
+    "UUID": "39643f33-379c-47f0-beb5-5e13c28520a5",
+    "Category": "Park Meter",
+    "Address": "Via S. Pietro 26",
+    "Latitude": "45.619568",
+    "Longitude": "9.210093",
+    "Icon": "parkingmeter.png",
+    "Note": "Posizione non verificata",
+    "Link": ""
+  },
+  {
+    "UUID": "3cce6f6f-d643-4079-8ad1-7e179a775410",
+    "Category": "Park Meter",
+    "Address": "Via Conciliazione",
+    "Latitude": "45.61745",
+    "Longitude": "9.20879",
+    "Icon": "parkingmeter.png",
+    "Note": "Posizione non verificata",
+    "Link": ""
+  },
+  {
+    "UUID": "44942021-7eff-480c-a980-f66a2965f0a5",
+    "Category": "Park Meter",
+    "Address": "Via Lombardia 3",
+    "Latitude": " 45.6201",
+    "Longitude": "9.210802",
+    "Icon": "parkingmeter.png",
+    "Note": "Posizione non verificata",
+    "Link": ""
+  },
+  {
+    "UUID": "48f82a5b-0e4b-4787-9d61-0813bd28dd16",
+    "Category": "Park Meter",
+    "Address": "Via Garibaldi 6",
+    "Latitude": "45.617011",
+    "Longitude": "9.206992",
+    "Icon": "bancomat.png",
+    "Note": "Posizione non verificata",
+    "Link": ""
+  },
+  {
+    "UUID": "4a8750c1-d7b0-4f78-a6c8-89afd68967df",
+    "Category": "Park Meter",
+    "Address": "Via Italia 43",
+    "Latitude": "45.618095",
+    "Longitude": "9.207399",
+    "Icon": "parkingmeter.png",
+    "Note": "",
+    "Link": ""
+  },
+  {
+    "UUID": "4c285063-07e8-48fe-926f-2f6b6e676d99",
+    "Category": "Park Meter",
+    "Address": "Via Mons. Cattaneo 23",
+    "Latitude": "45.617508",
+    "Longitude": "9.205583",
+    "Icon": "parkingmeter.png",
+    "Note": "Posizione non verificata",
+    "Link": ""
+  },
+  {
+    "UUID": "5e6f007d-3d8e-40d7-8f76-5c6dee8d5ec7",
+    "Category": "Park Meter",
+    "Address": "Via Buozzi 11",
+    "Latitude": "45.620338",
+    "Longitude": "9.215014",
+    "Icon": "parkingmeter.png",
+    "Note": "Posizione non verificata",
+    "Link": ""
+  },
+  {
+    "UUID": "64e6fa47-55b9-418c-906e-4dca5f12d865",
+    "Category": "Park Meter",
+    "Address": "Via Pio XI 7",
+    "Latitude": "45.616862",
+    "Longitude": "9.209415",
+    "Icon": "parkingmeter.png",
+    "Note": "Posizione non verificata",
+    "Link": ""
+  },
+  {
+    "UUID": "658589b2-8fac-4092-9d57-1687dc9e2fbd",
+    "Category": "Park Meter",
+    "Address": "Via Stazione",
+    "Latitude": "45.619673",
+    "Longitude": "9.216492",
+    "Icon": "bancomat.png",
+    "Note": "",
+    "Link": ""
+  },
+  {
+    "UUID": "73f8c8df-f758-485d-a753-00f5cb9a7f64",
+    "Category": "Park Meter",
+    "Address": "Via Buozzi 5a",
+    "Latitude": "45.620357",
+    "Longitude": "9.216049",
+    "Icon": "parkingmeter.png",
+    "Note": "Posizione non verificata",
+    "Link": ""
+  },
+  {
+    "UUID": "741befc4-3bb9-4b5e-9cf4-330f864db784",
+    "Category": "Park Meter",
+    "Address": "Via Corso Italia",
+    "Latitude": "45.619898",
+    "Longitude": "9.208117",
+    "Icon": "parkingmeter.png",
+    "Note": "Posizione non verificata",
+    "Link": ""
+  },
+  {
+    "UUID": "86c6fe2c-4fce-4067-906d-94ac79ed8b46",
+    "Category": "Park Meter",
+    "Address": "Via Garibaldi 82",
+    "Latitude": "45.614988",
+    "Longitude": "9.206248",
+    "Icon": "bancomat.png",
+    "Note": "Posizione non verificata",
+    "Link": ""
+  },
+  {
+    "UUID": "8ae404af-d37a-4b4f-9d77-116a69453edf",
+    "Category": "Park Meter",
+    "Address": "Via Garibaldi 120",
+    "Latitude": "45.613546",
+    "Longitude": "9.20555",
+    "Icon": "bancomat.png",
+    "Note": "Posizione non verificata",
+    "Link": ""
+  },
+  {
+    "UUID": "91945e27-44bc-47e2-a252-e188a50d4dd3",
+    "Category": "Park Meter",
+    "Address": "Via Tittoni 3",
+    "Latitude": "45.620705",
+    "Longitude": "9.219562",
+    "Icon": "parkingmeter.png",
+    "Note": "",
+    "Link": ""
+  },
+  {
+    "UUID": "98ed2167-9390-4af8-819d-97d3b48edca3",
+    "Category": "Park Meter",
+    "Address": "Via Italia 25",
+    "Latitude": "45.617777",
+    "Longitude": "9.207372",
+    "Icon": "parkingmeter.png",
+    "Note": "",
+    "Link": ""
+  },
+  {
+    "UUID": "a0f9b22c-ded9-4f51-bc02-b8e98d13f05f",
+    "Category": "Park Meter",
+    "Address": "Via Camnasio 5",
+    "Latitude": "45.62042",
+    "Longitude": "9.216803",
+    "Icon": "parkingmeter.png",
+    "Note": "Posizione non verificata",
+    "Link": ""
+  },
+  {
+    "UUID": "a116b980-1033-45cf-8d8d-a5a2a613b138",
+    "Category": "Park Meter",
+    "Address": "Via Sicilia",
+    "Latitude": "45.618634",
+    "Longitude": "9.219394",
+    "Icon": "parkingmeter.png",
+    "Note": "Posizione non verificata",
+    "Link": ""
+  },
+  {
+    "UUID": "ad9d398c-2e7e-4ee9-b058-372f4892838b",
+    "Category": "Park Meter",
+    "Address": "Via Tripoli 7",
+    "Latitude": "45.616386",
+    "Longitude": "9.206099",
+    "Icon": "bancomat.png",
+    "Note": "",
+    "Link": ""
+  },
+  {
+    "UUID": "b0461ba5-54ca-4d05-a322-c038bd4006dc",
+    "Category": "Park Meter",
+    "Address": "Via Garibaldi 98",
+    "Latitude": "45.613567",
+    "Longitude": "9.205556",
+    "Icon": "bancomat.png",
+    "Note": "Posizione non verificata",
+    "Link": ""
+  },
+  {
+    "UUID": "b64b74d9-cb48-4d25-8980-c1008a52d75f",
+    "Category": "Park Meter",
+    "Address": "Via Bolivia 3",
+    "Latitude": "45.621344",
+    "Longitude": "9.220021",
+    "Icon": "parkingmeter.png",
+    "Note": "Posizione non verificata",
+    "Link": ""
+  },
+  {
+    "UUID": "b8ebee69-fa4e-40a9-8547-645528bf6e11",
+    "Category": "Park Meter",
+    "Address": "Via Guarenti 13",
+    "Latitude": "45.619408",
+    "Longitude": "9.21455",
+    "Icon": "parkingmeter.png",
+    "Note": "Posizione non verificata",
+    "Link": ""
+  },
+  {
+    "UUID": "bbb73bf9-add5-47d8-8770-595652b03634",
+    "Category": "Park Meter",
+    "Address": "Via Tittoni 15",
+    "Latitude": "45.621443",
+    "Longitude": "9.219235",
+    "Icon": "parkingmeter.png",
+    "Note": "",
+    "Link": ""
+  },
+  {
+    "UUID": "c37d71a9-1689-4e29-9e11-585ee4a4f23b",
+    "Category": "Park Meter",
+    "Address": "Via Foscolo 31",
+    "Latitude": "45.613244",
+    "Longitude": "9.204061",
+    "Icon": "parkingmeter.png",
+    "Note": "Posizione non verificata",
+    "Link": ""
+  },
+  {
+    "UUID": "c3c99340-ebfc-4704-a23f-47470f557a84",
+    "Category": "Park Meter",
+    "Address": "Via Roggia Traversi 8",
+    "Latitude": " 45.618627",
+    "Longitude": "9.208083",
+    "Icon": "bancomat.png",
+    "Note": "Posizione non verificata",
+    "Link": ""
+  },
+  {
+    "UUID": "c40a4899-34f5-4263-934c-393e71d35bab",
+    "Category": "Park Meter",
+    "Address": "Via Cesare d'Adda 8",
+    "Latitude": "45.616345",
+    "Longitude": "9.205495",
+    "Icon": "parkingmeter.png",
+    "Note": "Posizione non verificata",
+    "Link": ""
+  },
+  {
+    "UUID": "c6bd2f05-7761-42fe-be67-5f71a059dd81",
+    "Category": "Park Meter",
+    "Address": "Via Bixio 14",
+    "Latitude": "45.619441",
+    "Longitude": "9.220563",
+    "Icon": "parkingmeter.png",
+    "Note": "Posizione non verificata",
+    "Link": ""
+  },
+  {
+    "UUID": "c6f49ff4-ba79-4280-bc3b-94a5d110b2e7",
+    "Category": "Park Meter",
+    "Address": "Via Matteotti 40",
+    "Latitude": "45.616971",
+    "Longitude": "9.204994",
+    "Icon": "parkingmeter.png",
+    "Note": "Posizione non verificata",
+    "Link": ""
+  },
+  {
+    "UUID": "cc09a6af-18e6-4cc9-acc0-08e03f7103cd",
+    "Category": "Park Meter",
+    "Address": "Via Matteotti 15",
+    "Latitude": "45.617172",
+    "Longitude": "9.205876",
+    "Icon": "parkingmeter.png",
+    "Note": "Posizione non verificata",
+    "Link": ""
+  },
+  {
+    "UUID": "e24202cf-9f5a-4819-881e-130fae4f6490",
+    "Category": "Park Meter",
+    "Address": "Via Foscolo 17",
+    "Latitude": "45.613257",
+    "Longitude": "9.204686",
+    "Icon": "parkingmeter.png",
+    "Note": "Posizione non verificata",
+    "Link": ""
+  },
+  {
+    "UUID": "e2afe6a9-e80c-415c-b3f6-a2395e21a3d8",
+    "Category": "Park Meter",
+    "Address": "Via Filippo da Desio 33",
+    "Latitude": "45.622654",
+    "Longitude": "9.219573",
+    "Icon": "parkingmeter.png",
+    "Note": "Posizione non verificata",
+    "Link": ""
+  },
+  {
+    "UUID": "e51bb2c7-9fb2-455c-8490-d3f56d300655",
+    "Category": "Park Meter",
+    "Address": "Via Piazzale Giovanni Paolo II",
+    "Latitude": "45.620388",
+    "Longitude": "9.208536",
+    "Icon": "bancomat.png",
+    "Note": "",
+    "Link": ""
+  },
+  {
+    "UUID": "e73acd22-8805-4f28-8c08-d756c4c98d04",
+    "Category": "Park Meter",
+    "Address": "Via Bareggi 15",
+    "Latitude": "45.619367",
+    "Longitude": "9.220315",
+    "Icon": "parkingmeter.png",
+    "Note": "Posizione non verificata",
+    "Link": ""
+  },
+  {
+    "UUID": "e970ba12-76a7-493c-a4c1-e020103c0803",
+    "Category": "Park Meter",
+    "Address": "Via Primule 2",
+    "Latitude": "45.620489",
+    "Longitude": "9.220133",
+    "Icon": "parkingmeter.png",
+    "Note": "Posizione non verificata",
+    "Link": ""
+  },
+  {
+    "UUID": "f2059615-9707-4a5b-8d0a-effa695c07f0",
+    "Category": "Park Meter",
+    "Address": "Via Dolci 4",
+    "Latitude": "45.620103",
+    "Longitude": "9.214355",
+    "Icon": "parkingmeter.png",
+    "Note": "Posizione non verificata",
+    "Link": "Posizione non verificata"
+  }
+]
