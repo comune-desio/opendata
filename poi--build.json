@@ -5,6 +5,7 @@
     "Categories": [
       {
         "Category": "Parchimetro",
+        "Visible": true,
         "Icon": "parkingmeter.png",
         "Locations": [
           {
@@ -18,6 +19,7 @@
       },
       {
         "Category": "Parchimetro POS",
+        "Visible": true,
         "Icon": "parkingmeterpos.png",
         "Locations": [
           {
@@ -31,6 +33,7 @@
       },
       {
         "Category": "Parcheggio",
+        "Visible": true,
         "Icon": "parking.png",
         "Locations": [
           {
@@ -50,6 +53,7 @@
     "Categories": [
       {
         "Category": "Parco bambini",
+        "Visible": true,
         "Icon": "playground.png",
         "Locations": [
           {
@@ -70,6 +74,7 @@
       },
       {
         "Category": "Parco cani",
+        "Visible": true,
         "Icon": "parkdog.png",
         "Locations": [
           {
