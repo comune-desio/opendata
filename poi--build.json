@@ -1,0 +1,86 @@
+[
+  {
+    "Dataset": "Parcheggi",
+    "Visible": true,
+    "Categories": [
+      {
+        "Category": "Parchimetro",
+        "Icon": "parkingmeter.png",
+        "Locations": [
+          {
+            "Address": "Via Fratelli Cervi 6",
+            "Latitude": 45.618486,
+            "Longitude": 9.206961,
+            "Note": "",
+            "Link": ""
+          }
+        ]
+      },
+      {
+        "Category": "Parchimetro POS",
+        "Icon": "parkingmeterpos.png",
+        "Locations": [
+          {
+            "Address": "Via Stazione",
+            "Latitude": 45.619598,
+            "Longitude": 9.21671,
+            "Note": "",
+            "Link": ""
+          }
+        ]
+      },
+      {
+        "Category": "Parcheggio",
+        "Icon": "parking.png",
+        "Locations": [
+          {
+            "Address": "Don Giussani",
+            "Latitude": 45.621237,
+            "Longitude": 9.209033,
+            "Note": "",
+            "Link": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Dataset": "Parchi",
+    "Visible": true,
+    "Categories": [
+      {
+        "Category": "Parco bambini",
+        "Icon": "playground.png",
+        "Locations": [
+          {
+            "Address": "Parco Desio",
+            "Latitude": 45.615232,
+            "Longitude": 9.215334,
+            "Note": "",
+            "Link": ""
+          },
+          {
+            "Address": "Parco Poste",
+            "Latitude": 45.621542,
+            "Longitude": 9.205994,
+            "Note": "",
+            "Link": ""
+          }
+        ]
+      },
+      {
+        "Category": "Parco cani",
+        "Icon": "parkdog.png",
+        "Locations": [
+          {
+            "Address": "Parco cani  - Zona Esselunga",
+            "Latitude": 45.604257,
+            "Longitude": 9.202799,
+            "Note": "",
+            "Link": ""
+          }
+        ]
+      }
+    ]
+  }
+]
