@@ -1,0 +1,11 @@
+{
+  "originalDataset": {
+    "date": "2016-02-26",
+    "source": "Comune di Desio"
+  },
+  "catastoData": {
+    "date": "2016-10-24",
+    "source": "http://www.cartografia.regione.lombardia.it",
+    "exampleURL": "http://www.cartografia.regione.lombardia.it/ArcGIS10P/rest/services/wsGazetteer/wsGazetteerGen/MapServer/6/query?returnGeometry=true&spatialRel=esriSpatialRelIntersects&f=json&where=id_gaz%3D%27D286-52-114%27&outFields=FOGLIO%2CCODICE_BELFIORE%2CNUMERO&outSR=4326"
+  }
+}
