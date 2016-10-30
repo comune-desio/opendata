@@ -1,44 +1,44 @@
-DESCRIZIONE ATTIVITA',2014,2013,2012,2011,2010,2009,2008,2007,2006
-Incidenti stradali rilevati,250,251,264,251,287,303,330,341,331
-Accertamenti per violazioni a norme del Codice della Strada,5426,7049,7622,6427,8190,8170,8191,6958,7820
-Accertamenti per violazione amministrativa di altre norme,119,94,162,128,168,160,185,139,156
-Segnalazioni sospensione patente art.223,72,68,68,77,82,93,95,115,106
-Patenti sospensione e/o revoca su disposizione Autorità Giudiziaria + Ritiri + restituzioni,155,147,220,150,119,118,108,124,109
-Documenti ritirati dal Comando Polizia Locale (Controlli di Polizia Stradale),91,109,92,87,156,147,105,101,91
-Veicoli sottoposti a sequestro,51,71,71,33,46,34,32,28,56
-Ciclomotorie Autoveicoli sottoposti a fermo amm.vo,15,22,25,31,30,16,40,33,26
-Nullaosta per trasporti eccezionali,87,61,94,73,53,51,45,62,48
-Permessi per portatori di handicap,281,248,260,199,257,232,185,203,157
-Permessi per medici in visita urgente,13,15,14,13,14,13,12,12,12
-"Controlli su Ordinanze Sindacali ""ambientale"" (Edilizia/Ecologia)",60,72,184,187,120,100,120,33,80
-Violazioni accertate per inosservanza delle Ordinanze Sindacali,2,2,17,12,18,30,80,2,7
-Controlli sulle attività commerciali in sede fissa,80,70,35,30,90,100,100,130,120
-Violazioni accertate in attività commerciali in sede fissa,7,3,9,2,4,1,3,6,9
-Controlli sulle attività commerciali su area pubblica,190,200,200,200,200,200,190,195,180
-Violazioni accertate in attività commerciali su area pubblica,13,4,3,4,5,3,5,7,5
-Controlli sui Pubblici Esercizi,50,30,20,20,30,30,55,65,73
-Violazioni accertate in Pubblici Esercizi,1,6,2,0,0,0,2,4,9
-Controlli sulle attività soggette ad autorizzazione di P.S.,40,11,5,10,25,40,25,35,25
-Violazioni accertate su attività soggette ad autorizzaz. di P.S.,2,1,5,2,0,6,1,6,2
-Violazioni in materia di artigianato,1,16,14,25,22,26,8,9,11
-Violazioni Amministrative + Regolamenti Comunali,21,38,162,100,168,150,182,63,115
-Pratiche di polizia ambientale: SCIA:,256,269,n.d.,n.d.,n.d.,n.d.,n.d.,n.d.,n.d.
-Pratiche di polizia ambientale: SCIA CON INTEGRAZIONE,106,65,n.d.,n.d.,n.d.,n.d.,n.d.,n.d.,n.d.
-Pratiche di polizia ambientale: SCIA RIGETTATE:,54,42,n.d.,n.d.,n.d.,n.d.,n.d.,n.d.,n.d.
-Trattamenti sanitari obbligatori,65,40,62,82,76,95,111,101,71
-Notifiche di atti per enti vari,557,590,265,224,215,179,146,149,120
-Pratiche gestite dal Comando di Polizia locale,4197,3800,1960,2196,2124,2122,2540,2958,3089
-Pratiche squadra informativa,1405,1323,490,549,531,531,635,740,772
-Evasione esposti,197,193,190,160,79,185,199,202,195
-Attività Comando Polizia Locale su richieste risarcimento danni causati da dissesti stradali,65,66,70,320,160,134,108,59,111
-Sgombero nomadi ed interventi per extracomunitari,231,165,265,260,250,270,228,93,52
-Recupero di veicoli rubati,28,45,32,19,28,15,26,19,39
-Rinvenimento e consegna di oggetti e documenti,71,74,69,90,106,92,57,52,60
-Informative di reato (Totale),131,125,92,75,65,71,91,85,56
-Informative di reato in materia ambientale (Edilizia/Ecologia),30,40,21,23,7,5,7,3,11
-Informative di reato in altre materie,99,85,71,77,58,66,84,82,45
-Esposti e richieste d'intervento ricevuti telefonicamente,3730,3715,3710,3700,3690,3610,3580,3300,3100
-Ricezione denunce cessionie di fabbricato e di ospitalità stranieri,658,591,726,2144,3370,3450,4000,3900,n.d.
-Ricezione denunce d'infortunio sul lavoro,408,436,435,509,447,1146,500,657,n.d.
-Ricorsi in Prefettura,26,35,41,31,69,45,31,58,n.d.
-Ricorsi al Giudice di Pace,6,14,30,24,28,76,57,82,n.d.
+UUID,DESCRIZIONE ATTIVITA',2014,2013,2012,2011,2010,2009,2008,2007,2006
+8423b77f-342a-4a4d-ad32-961e80fd102c,Incidenti stradali rilevati,250,251,264,251,287,303,330,341,331
+8f710314-08d5-4e4f-9c38-57cd14d8eda8,Accertamenti per violazioni a norme del Codice della Strada,5426,7049,7622,6427,8190,8170,8191,6958,7820
+0d5c2566-d2d9-45a2-91c1-1db6c751398f,Accertamenti per violazione amministrativa di altre norme,119,94,162,128,168,160,185,139,156
+2c34969c-1030-4bc4-9931-99258f30a7fe,Segnalazioni sospensione patente art.223,72,68,68,77,82,93,95,115,106
+27890590-640b-4c1d-8022-d13112b121b0,Patenti sospensione e/o revoca su disposizione Autorità Giudiziaria + Ritiri + restituzioni,155,147,220,150,119,118,108,124,109
+7054a90c-d97f-4408-8429-987a1db299a6,Documenti ritirati dal Comando Polizia Locale (Controlli di Polizia Stradale),91,109,92,87,156,147,105,101,91
+b4d0b9d0-bdb1-41d9-82b3-5e0999ae95ec,Veicoli sottoposti a sequestro,51,71,71,33,46,34,32,28,56
+452fb0cb-e76c-4895-9f5d-885487f6e70d,Ciclomotorie Autoveicoli sottoposti a fermo amm.vo,15,22,25,31,30,16,40,33,26
+bff48abb-c5ca-4b46-936d-1e7f9af17f63,Nullaosta per trasporti eccezionali,87,61,94,73,53,51,45,62,48
+65541f81-fffe-4274-87b9-26a912822db8,Permessi per portatori di handicap,281,248,260,199,257,232,185,203,157
+70c46963-c46a-4580-bbab-2e37a6b74363,Permessi per medici in visita urgente,13,15,14,13,14,13,12,12,12
+46f25157-6e7e-4a36-8325-c6c33d30484b,"Controlli su Ordinanze Sindacali ""ambientale"" (Edilizia/Ecologia)",60,72,184,187,120,100,120,33,80
+f8faff1b-adb4-4bd8-b2d6-42b9c7eab526,Violazioni accertate per inosservanza delle Ordinanze Sindacali,2,2,17,12,18,30,80,2,7
+00cae4d7-9762-4126-a321-9b7a85de07b6,Controlli sulle attività commerciali in sede fissa,80,70,35,30,90,100,100,130,120
+4f605030-7c75-4054-81f1-619dfe6ae071,Violazioni accertate in attività commerciali in sede fissa,7,3,9,2,4,1,3,6,9
+1c289d40-de1c-4c55-a550-0747999d8616,Controlli sulle attività commerciali su area pubblica,190,200,200,200,200,200,190,195,180
+dbab07c9-4317-49e0-81f5-961c0f4ff6fa,Violazioni accertate in attività commerciali su area pubblica,13,4,3,4,5,3,5,7,5
+be06d40c-8c38-4d7a-b987-1f5263f67601,Controlli sui Pubblici Esercizi,50,30,20,20,30,30,55,65,73
+834b53e4-6218-4cf2-ad90-7ff7f2ddfa0f,Violazioni accertate in Pubblici Esercizi,1,6,2,0,0,0,2,4,9
+8933cdd8-c8df-47e1-ba3e-e9b37bc2805d,Controlli sulle attività soggette ad autorizzazione di P.S.,40,11,5,10,25,40,25,35,25
+ccf62f58-e7f4-405f-a4d6-ee8e0064a44f,Violazioni accertate su attività soggette ad autorizzaz. di P.S.,2,1,5,2,0,6,1,6,2
+0d42f060-7e01-4720-8431-0dcb9dc9efa7,Violazioni in materia di artigianato,1,16,14,25,22,26,8,9,11
+6f6738f8-382b-4d45-8880-509ad259ff70,Violazioni Amministrative + Regolamenti Comunali,21,38,162,100,168,150,182,63,115
+9b332fc8-d3c0-41e9-9657-9303e0805416,Pratiche di polizia ambientale: SCIA:,256,269,n.d.,n.d.,n.d.,n.d.,n.d.,n.d.,n.d.
+7509ffbf-e10b-41d6-a2b8-3a352c1d7048,Pratiche di polizia ambientale: SCIA CON INTEGRAZIONE,106,65,n.d.,n.d.,n.d.,n.d.,n.d.,n.d.,n.d.
+5bcd9b98-9776-4d7e-b350-048950eff0d9,Pratiche di polizia ambientale: SCIA RIGETTATE:,54,42,n.d.,n.d.,n.d.,n.d.,n.d.,n.d.,n.d.
+8391eeae-00bd-40e4-8a26-67c3dfadd0f8,Trattamenti sanitari obbligatori,65,40,62,82,76,95,111,101,71
+0f071a2e-2359-489b-859a-4eba1a76c09d,Notifiche di atti per enti vari,557,590,265,224,215,179,146,149,120
+d8d847be-c43d-44fd-9fe4-282d2a17a49e,Pratiche gestite dal Comando di Polizia locale,4197,3800,1960,2196,2124,2122,2540,2958,3089
+1c4a70b7-3eb9-436e-8742-8aa7d2cc73f3,Pratiche squadra informativa,1405,1323,490,549,531,531,635,740,772
+06a62f9f-b778-4f03-b5dd-f563f7609ecb,Evasione esposti,197,193,190,160,79,185,199,202,195
+0d3722ff-7434-4be3-a846-6101af715969,Attività Comando Polizia Locale su richieste risarcimento danni causati da dissesti stradali,65,66,70,320,160,134,108,59,111
+620fef27-f52e-42dd-893b-4a4242fcafbc,Sgombero nomadi ed interventi per extracomunitari,231,165,265,260,250,270,228,93,52
+3c955375-c85e-4c4d-8d1b-525533a7cc22,Recupero di veicoli rubati,28,45,32,19,28,15,26,19,39
+46907359-43e5-4cbc-9e0e-e2b7007d5f34,Rinvenimento e consegna di oggetti e documenti,71,74,69,90,106,92,57,52,60
+5e37fcb4-120a-4b43-b935-7540f69966b9,Informative di reato (Totale),131,125,92,75,65,71,91,85,56
+737a1c40-eb89-49bb-b610-9f44dfb38d2b,Informative di reato in materia ambientale (Edilizia/Ecologia),30,40,21,23,7,5,7,3,11
+f5d9a616-34b3-4834-a97e-ff3dc8e30477,Informative di reato in altre materie,99,85,71,77,58,66,84,82,45
+fa0055dd-d8a9-4e9f-8aaa-f7bb696fba2f,Esposti e richieste d'intervento ricevuti telefonicamente,3730,3715,3710,3700,3690,3610,3580,3300,3100
+5c1db003-30d9-4f25-9a43-070e8fe7069c,Ricezione denunce cessionie di fabbricato e di ospitalità stranieri,658,591,726,2144,3370,3450,4000,3900,n.d.
+3525f12f-2a84-4eb5-876a-0253bf3900f5,Ricezione denunce d'infortunio sul lavoro,408,436,435,509,447,1146,500,657,n.d.
+80775038-78b9-4c3b-b659-cdab044c167c,Ricorsi in Prefettura,26,35,41,31,69,45,31,58,n.d.
+d9cabf7a-e4ab-4f11-8f9e-1b9446901a0d,Ricorsi al Giudice di Pace,6,14,30,24,28,76,57,82,n.d.
