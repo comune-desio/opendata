@@ -11,8 +11,12 @@
         ]
       },
       "properties": {
-        "title": "ISTITUTO COMPRENSIVO AGNESI, VIA Agnesi 10",
-        "description": "telefono: 362624030<br />Sede e contatti segreteria: Segreteria Via Agnesi, 10 - Tel. 0362/624.030 - Fax 0362/620.278 e-mail miic879004@istruzione.it - sito www.ic-agnesidesio.gov.it",
+        "name": "ISTITUTO COMPRENSIVO AGNESI",
+        "address": "Via Gaetana Agnesi, 10, Desio, 20832 MB",
+        "telephone": "362624030",
+        "email": "miic879004@istruzione.it",
+        "site": "http://www.ic-agnesidesio.gov.it",
+        "note": "Segreteria Via Agnesi, 10 - Tel. 0362/624.030 - Fax 0362/620.278",
         "marker-symbol": "college",
         "marker-color": "#00AF64"
       }
@@ -27,8 +31,12 @@
         ]
       },
       "properties": {
-        "title": "ISTITUTO COMPRENSIVO AGNESI, VIA Diaz 7",
-        "description": "telefono: 362303856<br />Sede e contatti segreteria: Segreteria Via Agnesi, 10 - Tel. 0362/624.030 - Fax 0362/620.278 e-mail miic879004@istruzione.it - sito www.ic-agnesidesio.gov.it",
+        "name": "ISTITUTO COMPRENSIVO AGNESI",
+        "address": "Via Armando Diaz, 7, Desio, 20832 MB",
+        "telephone": "362303856",
+        "email": "miic879004@istruzione.it",
+        "site": "http://www.ic-agnesidesio.gov.it",
+        "note": "Segreteria Via Agnesi, 10 - Tel. 0362/624.030 - Fax 0362/620.278",
         "marker-symbol": "college",
         "marker-color": "#00AF64"
       }
@@ -38,13 +46,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "9.212853",
-          "45.612563"
+          "9.211503",
+          "45.614108"
         ]
       },
       "properties": {
-        "title": "ISTITUTO COMPRENSIVO PRATI c/o Scuola Rodari, VIA Prati ",
-        "description": "telefono: 362627292<br />Sede e contatti segreteria: Segreteria Piazza Nenni, 1 - Tel. 0362/392.316 - Fax 0362/303.076 e-mail info@icpratidesio.it - sito www.icpratidesio.it",
+        "name": "ISTITUTO COMPRENSIVO PRATI c/o Scuola Rodari",
+        "address": "Via Jacopo dal Verme, 20832 Desio MB",
+        "telephone": "362627292",
+        "email": "info@icpratidesio.it",
+        "site": "http://www.icpratidesio.it",
+        "note": "Segreteria Piazza Nenni, 1 - Tel. 0362/392.316 - Fax 0362/303.076",
         "marker-symbol": "college",
         "marker-color": "#00AF64"
       }
@@ -59,8 +71,12 @@
         ]
       },
       "properties": {
-        "title": "ISTITUTO COMPRENSIVO PRATI c/o Scuola Rodari, VIA Sant’Apollinare ",
-        "description": "telefono: 362621418<br />Sede e contatti segreteria: Segreteria Piazza Nenni, 1 - Tel. 0362/392.316 - Fax 0362/303.076 e-mail info@icpratidesio.it - sito www.icpratidesio.it",
+        "name": "ISTITUTO COMPRENSIVO PRATI c/o Scuola Rodari",
+        "address": "Via Sant'Apollinare, 10, 20832 Desio MB",
+        "telephone": "362621418",
+        "email": "info@icpratidesio.it",
+        "site": "http://www.icpratidesio.it",
+        "note": "Segreteria Piazza Nenni, 1 - Tel. 0362/392.316 - Fax 0362/303.076",
         "marker-symbol": "college",
         "marker-color": "#00AF64"
       }
@@ -75,8 +91,12 @@
         ]
       },
       "properties": {
-        "title": "ISTITUTO COMPRENSIVO TOLSTOJ, VIA Tolstoj 1",
-        "description": "telefono: 362626264<br />Sede e contatti segreteria: Segreteria Via Tolstoj, 1 - Tel. 0362/626.264 - Fax 0362/307.837 e-mail ictolstoj@scuoletolstoj.it - sito www.ictolstoj.gov.it",
+        "name": "ISTITUTO COMPRENSIVO TOLSTOJ",
+        "address": "Via Leone Tolstoi, 1, 20832 Desio MB",
+        "telephone": "362626264",
+        "email": "ictolstoj@scuoletolstoj.it",
+        "site": "http://www.ictolstoj.gov.it",
+        "note": "Segreteria Via Tolstoj, 1 - Tel. 0362/626.264 - Fax 0362/307.837",
         "marker-symbol": "college",
         "marker-color": "#00AF64"
       }
@@ -91,8 +111,12 @@
         ]
       },
       "properties": {
-        "title": "ISTITUTO COMPRENSIVO TOLSTOJ, VIA Dolomiti 50",
-        "description": "telefono: 362621595<br />Sede e contatti segreteria: Segreteria Via Tolstoj, 1 - Tel. 0362/626.264 - Fax 0362/307.837 e-mail ictolstoj@scuoletolstoj.it - sito www.ictolstoj.gov.it",
+        "name": "ISTITUTO COMPRENSIVO TOLSTOJ",
+        "address": "Via Dolomiti, 50, 20832 Desio MB",
+        "telephone": "362621595",
+        "email": "ictolstoj@scuoletolstoj.it",
+        "site": "http://www.ictolstoj.gov.it",
+        "note": "Segreteria Via Tolstoj, 1 - Tel. 0362/626.264 - Fax 0362/307.837",
         "marker-symbol": "college",
         "marker-color": "#00AF64"
       }
@@ -107,8 +131,12 @@
         ]
       },
       "properties": {
-        "title": "Scuola primaria paritaria Collegio Paola di Rosa, VIA San Pietro 6",
-        "description": "telefono: 362621649<br />Sede e contatti segreteria: SEGRETERIA e-mail paola.dirosa@infinito.it - sito www.ancelle.org/scuole/collegio.htm",
+        "name": "Scuola primaria paritaria Collegio Paola di Rosa",
+        "address": "Via S. Pietro, 6, 20832 Desio MB",
+        "telephone": "362621649",
+        "email": "paola.dirosa@infinito.it",
+        "site": "http://www.ancelle.org/scuole/collegio.htm",
+        "note": "",
         "marker-symbol": "college",
         "marker-color": "#00AF64"
       }
