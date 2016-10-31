@@ -1,0 +1,16 @@
+{
+  "authors": [
+    "Marieva Favoino",
+    "Maurizio De Magnis <root@olisti.co>",
+    "Paolo Fisco"
+  ],
+  "authoringDate": "2016-10-31",
+  "documentPath": "./dataset.json",
+  "notes": [
+    "weeks.content has been formatted with MarkDown"
+  ],
+  "license": {
+    "name": "Creative Commons Attribution 4.0 International License",
+    "url": "http://creativecommons.org/licenses/by/4.0/"
+  }
+}
