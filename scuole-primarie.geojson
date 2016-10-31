@@ -14,8 +14,8 @@
         "name": "ISTITUTO COMPRENSIVO AGNESI",
         "address": "Via Gaetana Agnesi, 10, Desio, 20832 MB",
         "telephone": "362624030",
-        "email": "miic879004@istruzione.it",
-        "site": "http://www.ic-agnesidesio.gov.it",
+        "email": "<a href=\"mailto:miic879004@istruzione.it\">miic879004@istruzione.it</a>",
+        "site": "<a href=\"http://www.ic-agnesidesio.gov.it\" target=\"_BLANK\">http://www.ic-agnesidesio.gov.it</a>",
         "note": "Segreteria Via Agnesi, 10 - Tel. 0362/624.030 - Fax 0362/620.278",
         "marker-symbol": "college",
         "marker-color": "#00AF64"
@@ -26,16 +26,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "9.1278203",
-          "45.602003"
+          "9.201109",
+          "45.6189477"
         ]
       },
       "properties": {
         "name": "ISTITUTO COMPRENSIVO AGNESI",
         "address": "Via Armando Diaz, 7, Desio, 20832 MB",
         "telephone": "362303856",
-        "email": "miic879004@istruzione.it",
-        "site": "http://www.ic-agnesidesio.gov.it",
+        "email": "<a href=\"mailto:miic879004@istruzione.it\">miic879004@istruzione.it</a>",
+        "site": "<a href=\"http://www.ic-agnesidesio.gov.it\" target=\"_BLANK\">http://www.ic-agnesidesio.gov.it</a>",
         "note": "Segreteria Via Agnesi, 10 - Tel. 0362/624.030 - Fax 0362/620.278",
         "marker-symbol": "college",
         "marker-color": "#00AF64"
@@ -54,8 +54,8 @@
         "name": "ISTITUTO COMPRENSIVO PRATI c/o Scuola Rodari",
         "address": "Via Jacopo dal Verme, 20832 Desio MB",
         "telephone": "362627292",
-        "email": "info@icpratidesio.it",
-        "site": "http://www.icpratidesio.it",
+        "email": "<a href=\"mailto:info@icpratidesio.it\">info@icpratidesio.it</a>",
+        "site": "<a href=\"http://www.icpratidesio.it\" target=\"_BLANK\">http://www.icpratidesio.it</a>",
         "note": "Segreteria Piazza Nenni, 1 - Tel. 0362/392.316 - Fax 0362/303.076",
         "marker-symbol": "college",
         "marker-color": "#00AF64"
@@ -74,8 +74,8 @@
         "name": "ISTITUTO COMPRENSIVO PRATI c/o Scuola Rodari",
         "address": "Via Sant'Apollinare, 10, 20832 Desio MB",
         "telephone": "362621418",
-        "email": "info@icpratidesio.it",
-        "site": "http://www.icpratidesio.it",
+        "email": "<a href=\"mailto:info@icpratidesio.it\">info@icpratidesio.it</a>",
+        "site": "<a href=\"http://www.icpratidesio.it\" target=\"_BLANK\">http://www.icpratidesio.it</a>",
         "note": "Segreteria Piazza Nenni, 1 - Tel. 0362/392.316 - Fax 0362/303.076",
         "marker-symbol": "college",
         "marker-color": "#00AF64"
@@ -86,16 +86,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "9.795426",
-          "45.195245"
+          "9.2010009",
+          "45.6278697"
         ]
       },
       "properties": {
         "name": "ISTITUTO COMPRENSIVO TOLSTOJ",
         "address": "Via Leone Tolstoi, 1, 20832 Desio MB",
         "telephone": "362626264",
-        "email": "ictolstoj@scuoletolstoj.it",
-        "site": "http://www.ictolstoj.gov.it",
+        "email": "<a href=\"mailto:ictolstoj@scuoletolstoj.it\">ictolstoj@scuoletolstoj.it</a>",
+        "site": "<a href=\"http://www.ictolstoj.gov.it\" target=\"_BLANK\">http://www.ictolstoj.gov.it</a>",
         "note": "Segreteria Via Tolstoj, 1 - Tel. 0362/626.264 - Fax 0362/307.837",
         "marker-symbol": "college",
         "marker-color": "#00AF64"
@@ -114,8 +114,8 @@
         "name": "ISTITUTO COMPRENSIVO TOLSTOJ",
         "address": "Via Dolomiti, 50, 20832 Desio MB",
         "telephone": "362621595",
-        "email": "ictolstoj@scuoletolstoj.it",
-        "site": "http://www.ictolstoj.gov.it",
+        "email": "<a href=\"mailto:ictolstoj@scuoletolstoj.it\">ictolstoj@scuoletolstoj.it</a>",
+        "site": "<a href=\"http://www.ictolstoj.gov.it\" target=\"_BLANK\">http://www.ictolstoj.gov.it</a>",
         "note": "Segreteria Via Tolstoj, 1 - Tel. 0362/626.264 - Fax 0362/307.837",
         "marker-symbol": "college",
         "marker-color": "#00AF64"
@@ -134,8 +134,8 @@
         "name": "Scuola primaria paritaria Collegio Paola di Rosa",
         "address": "Via S. Pietro, 6, 20832 Desio MB",
         "telephone": "362621649",
-        "email": "paola.dirosa@infinito.it",
-        "site": "http://www.ancelle.org/scuole/collegio.htm",
+        "email": "<a href=\"mailto:paola.dirosa@infinito.it\">paola.dirosa@infinito.it</a>",
+        "site": "<a href=\"http://www.ancelle.org/scuole/collegio.htm\" target=\"_BLANK\">http://www.ancelle.org/scuole/collegio.htm</a>",
         "note": "",
         "marker-symbol": "college",
         "marker-color": "#00AF64"
