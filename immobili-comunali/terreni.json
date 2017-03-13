@@ -6,8 +6,8 @@
     "DESCRIZIONE": "porzione mappale a sede stradale",
     "INDIRIZZO": "Lucinico",
     "LOCALITA'": "DESIO",
-    "FG": "02",
-    "MAPPALE": "312p",
+    "FG": "2",
+    "MAPPALE": "312",
     "SUB": null
   },
   {
@@ -17,7 +17,7 @@
     "DESCRIZIONE": "sede stradale",
     "INDIRIZZO": "Olimpiadi",
     "LOCALITA'": "DESIO",
-    "FG": "02",
+    "FG": "2",
     "MAPPALE": "307",
     "SUB": null
   },
@@ -28,7 +28,7 @@
     "DESCRIZIONE": "sede stradale",
     "INDIRIZZO": "Dei Pulora",
     "LOCALITA'": "DESIO",
-    "FG": "02",
+    "FG": "2",
     "MAPPALE": "308",
     "SUB": null
   },
@@ -39,7 +39,7 @@
     "DESCRIZIONE": "sede stradale",
     "INDIRIZZO": "Arienti Pietro",
     "LOCALITA'": "DESIO",
-    "FG": "02",
+    "FG": "2",
     "MAPPALE": "314",
     "SUB": null
   },
@@ -50,7 +50,7 @@
     "DESCRIZIONE": "sede stradale",
     "INDIRIZZO": "Mazzini",
     "LOCALITA'": "DESIO",
-    "FG": "02",
+    "FG": "2",
     "MAPPALE": "332",
     "SUB": null
   },
@@ -61,7 +61,7 @@
     "DESCRIZIONE": "sede stradale",
     "INDIRIZZO": "Mazzini",
     "LOCALITA'": "DESIO",
-    "FG": "02",
+    "FG": "2",
     "MAPPALE": "399",
     "SUB": null
   },
@@ -72,8 +72,8 @@
     "DESCRIZIONE": "sede stradale - parcheggio a spina",
     "INDIRIZZO": "Olimpiadi",
     "LOCALITA'": "DESIO",
-    "FG": "03",
-    "MAPPALE": "044",
+    "FG": "3",
+    "MAPPALE": "44",
     "SUB": null
   },
   {
@@ -83,7 +83,7 @@
     "DESCRIZIONE": "sede stradale",
     "INDIRIZZO": "Dei Pulora",
     "LOCALITA'": "DESIO",
-    "FG": "02",
+    "FG": "2",
     "MAPPALE": "306",
     "SUB": null
   },
@@ -94,8 +94,8 @@
     "DESCRIZIONE": "sede stradale",
     "INDIRIZZO": "Olimpiadi",
     "LOCALITA'": "DESIO",
-    "FG": "02",
-    "MAPPALE": "325p",
+    "FG": "2",
+    "MAPPALE": "325",
     "SUB": null
   },
   {
@@ -105,7 +105,7 @@
     "DESCRIZIONE": "sede stradale",
     "INDIRIZZO": "Mazzini",
     "LOCALITA'": "DESIO",
-    "FG": "02",
+    "FG": "2",
     "MAPPALE": "364",
     "SUB": null
   },
@@ -116,7 +116,7 @@
     "DESCRIZIONE": "sede stradale - parcheggio a spina",
     "INDIRIZZO": "Olimpiadi",
     "LOCALITA'": "DESIO",
-    "FG": "03",
+    "FG": "3",
     "MAPPALE": "197",
     "SUB": null
   },
@@ -127,7 +127,7 @@
     "DESCRIZIONE": "sede stradale",
     "INDIRIZZO": "Olimpiadi",
     "LOCALITA'": "DESIO",
-    "FG": "03",
+    "FG": "3",
     "MAPPALE": "201",
     "SUB": null
   },
@@ -138,7 +138,7 @@
     "DESCRIZIONE": "sede stradale",
     "INDIRIZZO": "Olimpiadi",
     "LOCALITA'": "DESIO",
-    "FG": "03",
+    "FG": "3",
     "MAPPALE": "203",
     "SUB": null
   },
@@ -149,7 +149,7 @@
     "DESCRIZIONE": "sede stradale",
     "INDIRIZZO": "Mazzini",
     "LOCALITA'": "DESIO",
-    "FG": "03",
+    "FG": "3",
     "MAPPALE": "247",
     "SUB": null
   },
@@ -160,7 +160,7 @@
     "DESCRIZIONE": "sede stradale",
     "INDIRIZZO": "Via Como",
     "LOCALITA'": "DESIO",
-    "FG": "04",
+    "FG": "4",
     "MAPPALE": "299",
     "SUB": null
   },
@@ -171,7 +171,7 @@
     "DESCRIZIONE": "sede stradale",
     "INDIRIZZO": "Milano",
     "LOCALITA'": "DESIO",
-    "FG": "04",
+    "FG": "4",
     "MAPPALE": "326",
     "SUB": null
   },
@@ -182,7 +182,7 @@
     "DESCRIZIONE": "sede stradale",
     "INDIRIZZO": "Milano",
     "LOCALITA'": "DESIO",
-    "FG": "04",
+    "FG": "4",
     "MAPPALE": "327",
     "SUB": null
   },
@@ -193,7 +193,7 @@
     "DESCRIZIONE": "sede stradale",
     "INDIRIZZO": "Milano",
     "LOCALITA'": "DESIO",
-    "FG": "04",
+    "FG": "4",
     "MAPPALE": "330",
     "SUB": null
   },
@@ -204,7 +204,7 @@
     "DESCRIZIONE": "sede stradale",
     "INDIRIZZO": "Milano",
     "LOCALITA'": "DESIO",
-    "FG": "04",
+    "FG": "4",
     "MAPPALE": "332",
     "SUB": null
   },
@@ -215,7 +215,7 @@
     "DESCRIZIONE": "sede stradale",
     "INDIRIZZO": "Europa",
     "LOCALITA'": "DESIO",
-    "FG": "04",
+    "FG": "4",
     "MAPPALE": "341",
     "SUB": null
   },
@@ -226,7 +226,7 @@
     "DESCRIZIONE": "sede stradale - intersezione a raso",
     "INDIRIZZO": "Europa",
     "LOCALITA'": "DESIO",
-    "FG": "04",
+    "FG": "4",
     "MAPPALE": "285",
     "SUB": null
   },
@@ -237,7 +237,7 @@
     "DESCRIZIONE": "sede stradale",
     "INDIRIZZO": "De Sanctis Francesco",
     "LOCALITA'": "DESIO",
-    "FG": "05",
+    "FG": "5",
     "MAPPALE": "170",
     "SUB": null
   },
@@ -248,7 +248,7 @@
     "DESCRIZIONE": "sede stradale",
     "INDIRIZZO": "De Sanctis Francesco",
     "LOCALITA'": "DESIO",
-    "FG": "05",
+    "FG": "5",
     "MAPPALE": "171",
     "SUB": null
   },
@@ -259,7 +259,7 @@
     "DESCRIZIONE": "sede stradale",
     "INDIRIZZO": "Due Palme",
     "LOCALITA'": "DESIO",
-    "FG": "05",
+    "FG": "5",
     "MAPPALE": "237",
     "SUB": null
   },
@@ -270,7 +270,7 @@
     "DESCRIZIONE": "sede stradale",
     "INDIRIZZO": "De Sanctis Francesco",
     "LOCALITA'": "DESIO",
-    "FG": "05",
+    "FG": "5",
     "MAPPALE": "249",
     "SUB": null
   },
@@ -281,7 +281,7 @@
     "DESCRIZIONE": "sede stradale",
     "INDIRIZZO": "De Sanctis Francesco",
     "LOCALITA'": "DESIO",
-    "FG": "05",
+    "FG": "5",
     "MAPPALE": "289",
     "SUB": null
   },
@@ -292,7 +292,7 @@
     "DESCRIZIONE": "sede stradale",
     "INDIRIZZO": "Delle Cave",
     "LOCALITA'": "DESIO",
-    "FG": "05",
+    "FG": "5",
     "MAPPALE": "299",
     "SUB": null
   },
@@ -303,8 +303,8 @@
     "DESCRIZIONE": "sede stradale",
     "INDIRIZZO": "Mentana",
     "LOCALITA'": "DESIO",
-    "FG": "07",
-    "MAPPALE": "069",
+    "FG": "7",
+    "MAPPALE": "69",
     "SUB": null
   },
   {
@@ -314,7 +314,7 @@
     "DESCRIZIONE": "sede stradale - parcheggio a spina",
     "INDIRIZZO": "Mulino Arese",
     "LOCALITA'": "DESIO",
-    "FG": "08",
+    "FG": "8",
     "MAPPALE": "234",
     "SUB": null
   },
@@ -325,7 +325,7 @@
     "DESCRIZIONE": "sede stradale - parcheggio a spina",
     "INDIRIZZO": "Mulino Arese",
     "LOCALITA'": "DESIO",
-    "FG": "08",
+    "FG": "8",
     "MAPPALE": "235",
     "SUB": null
   },
@@ -336,7 +336,7 @@
     "DESCRIZIONE": "sede stradale - parcheggio a spina",
     "INDIRIZZO": "Mulino Arese",
     "LOCALITA'": "DESIO",
-    "FG": "08",
+    "FG": "8",
     "MAPPALE": "236",
     "SUB": null
   },
@@ -347,7 +347,7 @@
     "DESCRIZIONE": "sede stradale - parcheggio a spina",
     "INDIRIZZO": "Mulino Arese",
     "LOCALITA'": "DESIO",
-    "FG": "08",
+    "FG": "8",
     "MAPPALE": "238",
     "SUB": null
   },
@@ -358,7 +358,7 @@
     "DESCRIZIONE": "sede stradale - parcheggio a spina",
     "INDIRIZZO": "Mulino Arese",
     "LOCALITA'": "DESIO",
-    "FG": "08",
+    "FG": "8",
     "MAPPALE": "237",
     "SUB": null
   },
@@ -369,7 +369,7 @@
     "DESCRIZIONE": "sede stradale",
     "INDIRIZZO": "Mulino Arese",
     "LOCALITA'": "DESIO",
-    "FG": "08",
+    "FG": "8",
     "MAPPALE": "373",
     "SUB": null
   },
@@ -380,7 +380,7 @@
     "DESCRIZIONE": "sede stradale",
     "INDIRIZZO": "Mulino Arese",
     "LOCALITA'": "DESIO",
-    "FG": "08",
+    "FG": "8",
     "MAPPALE": "362",
     "SUB": null
   },
@@ -391,7 +391,7 @@
     "DESCRIZIONE": "sede stradale",
     "INDIRIZZO": "Mulino Arese",
     "LOCALITA'": "DESIO",
-    "FG": "08",
+    "FG": "8",
     "MAPPALE": "377",
     "SUB": null
   },
@@ -402,7 +402,7 @@
     "DESCRIZIONE": "sede stradale",
     "INDIRIZZO": "Mulino Arese",
     "LOCALITA'": "DESIO",
-    "FG": "08",
+    "FG": "8",
     "MAPPALE": "360",
     "SUB": null
   },
@@ -413,7 +413,7 @@
     "DESCRIZIONE": "sede stradale",
     "INDIRIZZO": "Mulino Arese",
     "LOCALITA'": "DESIO",
-    "FG": "08",
+    "FG": "8",
     "MAPPALE": "370",
     "SUB": null
   },
@@ -424,7 +424,7 @@
     "DESCRIZIONE": "sede stradale",
     "INDIRIZZO": "Mulino Arese",
     "LOCALITA'": "DESIO",
-    "FG": "08",
+    "FG": "8",
     "MAPPALE": "347",
     "SUB": null
   },
@@ -435,7 +435,7 @@
     "DESCRIZIONE": "sede stradale",
     "INDIRIZZO": "Mulino Arese",
     "LOCALITA'": "DESIO",
-    "FG": "08",
+    "FG": "8",
     "MAPPALE": "346",
     "SUB": null
   },
@@ -446,7 +446,7 @@
     "DESCRIZIONE": "sede stradale",
     "INDIRIZZO": "Nizza",
     "LOCALITA'": "DESIO",
-    "FG": "09",
+    "FG": "9",
     "MAPPALE": "283",
     "SUB": null
   },
@@ -457,7 +457,7 @@
     "DESCRIZIONE": "sede stradale",
     "INDIRIZZO": "Nizza",
     "LOCALITA'": "DESIO",
-    "FG": "09",
+    "FG": "9",
     "MAPPALE": "284",
     "SUB": null
   },
@@ -468,7 +468,7 @@
     "DESCRIZIONE": "sede stradale",
     "INDIRIZZO": "Goito",
     "LOCALITA'": "DESIO",
-    "FG": "09",
+    "FG": "9",
     "MAPPALE": "305",
     "SUB": null
   },
@@ -479,7 +479,7 @@
     "DESCRIZIONE": "sede stradale",
     "INDIRIZZO": "Pastrengo",
     "LOCALITA'": "DESIO",
-    "FG": "09",
+    "FG": "9",
     "MAPPALE": "329",
     "SUB": null
   },
@@ -490,7 +490,7 @@
     "DESCRIZIONE": "sede stradale",
     "INDIRIZZO": "Gentile Giovanni",
     "LOCALITA'": "DESIO",
-    "FG": "09",
+    "FG": "9",
     "MAPPALE": "378",
     "SUB": null
   },
@@ -501,7 +501,7 @@
     "DESCRIZIONE": "sede stradale",
     "INDIRIZZO": "Gentile Giovanni",
     "LOCALITA'": "DESIO",
-    "FG": "09",
+    "FG": "9",
     "MAPPALE": "380",
     "SUB": null
   },
@@ -512,7 +512,7 @@
     "DESCRIZIONE": "sede stradale",
     "INDIRIZZO": "Gentile Giovanni",
     "LOCALITA'": "DESIO",
-    "FG": "09",
+    "FG": "9",
     "MAPPALE": "382",
     "SUB": null
   },
@@ -523,7 +523,7 @@
     "DESCRIZIONE": "sede stradale",
     "INDIRIZZO": "San Martino",
     "LOCALITA'": "DESIO",
-    "FG": "09",
+    "FG": "9",
     "MAPPALE": "388",
     "SUB": null
   },
@@ -534,7 +534,7 @@
     "DESCRIZIONE": "sede stradale",
     "INDIRIZZO": "San Martino",
     "LOCALITA'": "DESIO",
-    "FG": "09",
+    "FG": "9",
     "MAPPALE": "389",
     "SUB": null
   },
@@ -545,7 +545,7 @@
     "DESCRIZIONE": "sede stradale",
     "INDIRIZZO": "San Martino",
     "LOCALITA'": "DESIO",
-    "FG": "09",
+    "FG": "9",
     "MAPPALE": "298",
     "SUB": null
   },
@@ -556,7 +556,7 @@
     "DESCRIZIONE": "sede stradale",
     "INDIRIZZO": "Nizza",
     "LOCALITA'": "DESIO",
-    "FG": "09",
+    "FG": "9",
     "MAPPALE": "274",
     "SUB": null
   },
@@ -567,7 +567,7 @@
     "DESCRIZIONE": "sede stradale",
     "INDIRIZZO": "Solferino",
     "LOCALITA'": "DESIO",
-    "FG": "09",
+    "FG": "9",
     "MAPPALE": "278",
     "SUB": null
   },
@@ -623,7 +623,7 @@
     "INDIRIZZO": "Novara 1",
     "LOCALITA'": "DESIO",
     "FG": "10",
-    "MAPPALE": "067p",
+    "MAPPALE": "67",
     "SUB": null
   },
   {
@@ -788,7 +788,7 @@
     "INDIRIZZO": "Milano",
     "LOCALITA'": "DESIO",
     "FG": "11",
-    "MAPPALE": "001",
+    "MAPPALE": "1",
     "SUB": null
   },
   {
@@ -898,7 +898,7 @@
     "INDIRIZZO": "Milano",
     "LOCALITA'": "DESIO",
     "FG": "12",
-    "MAPPALE": "351p",
+    "MAPPALE": "351",
     "SUB": null
   },
   {
@@ -909,7 +909,7 @@
     "INDIRIZZO": "Milano",
     "LOCALITA'": "DESIO",
     "FG": "12",
-    "MAPPALE": "353p",
+    "MAPPALE": "353",
     "SUB": null
   },
   {
@@ -931,7 +931,7 @@
     "INDIRIZZO": "San Giuseppe",
     "LOCALITA'": "DESIO",
     "FG": "14",
-    "MAPPALE": "027",
+    "MAPPALE": "27",
     "SUB": null
   },
   {
@@ -942,7 +942,7 @@
     "INDIRIZZO": "vicinale Ceresole",
     "LOCALITA'": "DESIO",
     "FG": "14",
-    "MAPPALE": "028",
+    "MAPPALE": "28",
     "SUB": null
   },
   {
@@ -953,7 +953,7 @@
     "INDIRIZZO": "San Giuseppe",
     "LOCALITA'": "DESIO",
     "FG": "14",
-    "MAPPALE": "033",
+    "MAPPALE": "33",
     "SUB": null
   },
   {
@@ -964,7 +964,7 @@
     "INDIRIZZO": "San Giuseppe",
     "LOCALITA'": "DESIO",
     "FG": "14",
-    "MAPPALE": "036",
+    "MAPPALE": "36",
     "SUB": null
   },
   {
@@ -975,7 +975,7 @@
     "INDIRIZZO": "vicinale Ceresole",
     "LOCALITA'": "DESIO",
     "FG": "14",
-    "MAPPALE": "039",
+    "MAPPALE": "39",
     "SUB": null
   },
   {
@@ -986,7 +986,7 @@
     "INDIRIZZO": "San Giuseppe",
     "LOCALITA'": "DESIO",
     "FG": "14",
-    "MAPPALE": "042",
+    "MAPPALE": "42",
     "SUB": null
   },
   {
@@ -997,7 +997,7 @@
     "INDIRIZZO": "San Giuseppe",
     "LOCALITA'": "DESIO",
     "FG": "14",
-    "MAPPALE": "065",
+    "MAPPALE": "65",
     "SUB": null
   },
   {
@@ -1008,7 +1008,7 @@
     "INDIRIZZO": "San Giuseppe",
     "LOCALITA'": "DESIO",
     "FG": "14",
-    "MAPPALE": "066",
+    "MAPPALE": "66",
     "SUB": null
   },
   {
@@ -1019,7 +1019,7 @@
     "INDIRIZZO": "San Giuseppe",
     "LOCALITA'": "DESIO",
     "FG": "14",
-    "MAPPALE": "067",
+    "MAPPALE": "67",
     "SUB": null
   },
   {
@@ -1030,7 +1030,7 @@
     "INDIRIZZO": "San Giuseppe",
     "LOCALITA'": "DESIO",
     "FG": "14",
-    "MAPPALE": "062",
+    "MAPPALE": "62",
     "SUB": null
   },
   {
@@ -1062,7 +1062,7 @@
     "DESCRIZIONE": "parcheggio in linea (lungo asse stradale)",
     "INDIRIZZO": "Trincea delle Frasche",
     "LOCALITA'": "DESIO",
-    "FG": "02",
+    "FG": "2",
     "MAPPALE": "279",
     "SUB": null
   },
@@ -1084,7 +1084,7 @@
     "DESCRIZIONE": "sede stradale - parcheggio pubblico",
     "INDIRIZZO": "Cassinetta",
     "LOCALITA'": "DESIO",
-    "FG": "02",
+    "FG": "2",
     "MAPPALE": "337",
     "SUB": null
   },
@@ -1096,7 +1096,7 @@
     "INDIRIZZO": "per Seregno",
     "LOCALITA'": "DESIO",
     "FG": "17",
-    "MAPPALE": "092p",
+    "MAPPALE": "92",
     "SUB": null
   },
   {
@@ -1107,7 +1107,7 @@
     "INDIRIZZO": "vicinale dei Boschi",
     "LOCALITA'": "DESIO",
     "FG": "18",
-    "MAPPALE": "004p",
+    "MAPPALE": "4",
     "SUB": null
   },
   {
@@ -1206,7 +1206,7 @@
     "INDIRIZZO": "per Bovisio",
     "LOCALITA'": "DESIO",
     "FG": "20",
-    "MAPPALE": "223p",
+    "MAPPALE": "223",
     "SUB": null
   },
   {
@@ -1217,7 +1217,7 @@
     "INDIRIZZO": "per Binzago",
     "LOCALITA'": "DESIO",
     "FG": "20",
-    "MAPPALE": "195p",
+    "MAPPALE": "195",
     "SUB": null
   },
   {
@@ -1228,7 +1228,7 @@
     "INDIRIZZO": "per Binzago",
     "LOCALITA'": "DESIO",
     "FG": "20",
-    "MAPPALE": "198p",
+    "MAPPALE": "198",
     "SUB": null
   },
   {
@@ -1239,7 +1239,7 @@
     "INDIRIZZO": "per Binzago",
     "LOCALITA'": "DESIO",
     "FG": "20",
-    "MAPPALE": "240p",
+    "MAPPALE": "240",
     "SUB": null
   },
   {
@@ -1272,7 +1272,7 @@
     "INDIRIZZO": "Monte Rosa",
     "LOCALITA'": "DESIO",
     "FG": "21",
-    "MAPPALE": "115p",
+    "MAPPALE": "115",
     "SUB": null
   },
   {
@@ -1305,7 +1305,7 @@
     "INDIRIZZO": "Dolomiti",
     "LOCALITA'": "DESIO",
     "FG": "21",
-    "MAPPALE": "394p",
+    "MAPPALE": "394",
     "SUB": null
   },
   {
@@ -1503,7 +1503,7 @@
     "INDIRIZZO": "Pallavicini",
     "LOCALITA'": "DESIO",
     "FG": "22",
-    "MAPPALE": "518p",
+    "MAPPALE": "518",
     "SUB": null
   },
   {
@@ -1613,7 +1613,7 @@
     "INDIRIZZO": "Pallavicini",
     "LOCALITA'": "DESIO",
     "FG": "22",
-    "MAPPALE": "446p",
+    "MAPPALE": "446",
     "SUB": null
   },
   {
@@ -1624,7 +1624,7 @@
     "INDIRIZZO": "Amendola",
     "LOCALITA'": "DESIO",
     "FG": "22",
-    "MAPPALE": "489p",
+    "MAPPALE": "489",
     "SUB": null
   },
   {
@@ -1635,7 +1635,7 @@
     "INDIRIZZO": "Rimembranze",
     "LOCALITA'": "DESIO",
     "FG": "23",
-    "MAPPALE": "294p",
+    "MAPPALE": "294",
     "SUB": null
   },
   {
@@ -1646,7 +1646,7 @@
     "INDIRIZZO": "Rimembranze",
     "LOCALITA'": "DESIO",
     "FG": "23",
-    "MAPPALE": "295p",
+    "MAPPALE": "295",
     "SUB": null
   },
   {
@@ -1701,7 +1701,7 @@
     "INDIRIZZO": "Italia",
     "LOCALITA'": "DESIO",
     "FG": "23",
-    "MAPPALE": "336p",
+    "MAPPALE": "336",
     "SUB": null
   },
   {
@@ -1734,7 +1734,7 @@
     "INDIRIZZO": "Cervi  F.lli",
     "LOCALITA'": "DESIO",
     "FG": "24",
-    "MAPPALE": "171p",
+    "MAPPALE": "171",
     "SUB": null
   },
   {
@@ -1745,7 +1745,7 @@
     "INDIRIZZO": "Carducci",
     "LOCALITA'": "DESIO",
     "FG": "25",
-    "MAPPALE": "422p",
+    "MAPPALE": "422",
     "SUB": null
   },
   {
@@ -1756,7 +1756,7 @@
     "INDIRIZZO": "Volta Alessandro",
     "LOCALITA'": "DESIO",
     "FG": "25",
-    "MAPPALE": "427p",
+    "MAPPALE": "427",
     "SUB": null
   },
   {
@@ -1811,7 +1811,7 @@
     "INDIRIZZO": "Molinara",
     "LOCALITA'": "DESIO",
     "FG": "28",
-    "MAPPALE": "151p",
+    "MAPPALE": "151",
     "SUB": null
   },
   {
@@ -2053,7 +2053,7 @@
     "INDIRIZZO": "Atleti Azzurri",
     "LOCALITA'": "DESIO",
     "FG": "34",
-    "MAPPALE": "035p",
+    "MAPPALE": "35",
     "SUB": null
   },
   {
@@ -2075,7 +2075,7 @@
     "INDIRIZZO": "Agnesi Gaetana",
     "LOCALITA'": "DESIO",
     "FG": "34",
-    "MAPPALE": "127p",
+    "MAPPALE": "127",
     "SUB": null
   },
   {
@@ -2086,7 +2086,7 @@
     "INDIRIZZO": "Serao Matilde",
     "LOCALITA'": "DESIO",
     "FG": "34",
-    "MAPPALE": "138p",
+    "MAPPALE": "138",
     "SUB": null
   },
   {
@@ -2218,7 +2218,7 @@
     "INDIRIZZO": "Milano",
     "LOCALITA'": "DESIO",
     "FG": "36",
-    "MAPPALE": "426p",
+    "MAPPALE": "426",
     "SUB": null
   },
   {
@@ -2240,7 +2240,7 @@
     "INDIRIZZO": "Borghetto",
     "LOCALITA'": "DESIO",
     "FG": "36",
-    "MAPPALE": "478p",
+    "MAPPALE": "478",
     "SUB": null
   },
   {
@@ -2306,7 +2306,7 @@
     "INDIRIZZO": "dei Tigli",
     "LOCALITA'": "DESIO",
     "FG": "38",
-    "MAPPALE": "380p",
+    "MAPPALE": "380",
     "SUB": null
   },
   {
@@ -2317,7 +2317,7 @@
     "INDIRIZZO": "Pozzo Antico",
     "LOCALITA'": "DESIO",
     "FG": "38",
-    "MAPPALE": "385/1",
+    "MAPPALE": "385",
     "SUB": null
   },
   {
@@ -2328,7 +2328,7 @@
     "INDIRIZZO": "Pozzo Antico",
     "LOCALITA'": "DESIO",
     "FG": "38",
-    "MAPPALE": "385/2",
+    "MAPPALE": "385",
     "SUB": null
   },
   {
@@ -2372,7 +2372,7 @@
     "INDIRIZZO": "Cavalieri di Vittorio Veneto",
     "LOCALITA'": "DESIO",
     "FG": "40",
-    "MAPPALE": "150p",
+    "MAPPALE": "150",
     "SUB": null
   },
   {
@@ -2394,7 +2394,7 @@
     "INDIRIZZO": "Comunale di San Giorgio",
     "LOCALITA'": "DESIO",
     "FG": "41",
-    "MAPPALE": "243p",
+    "MAPPALE": "243",
     "SUB": null
   },
   {
@@ -2416,7 +2416,7 @@
     "INDIRIZZO": "Bramante",
     "LOCALITA'": "DESIO",
     "FG": "42",
-    "MAPPALE": "003p",
+    "MAPPALE": "3",
     "SUB": null
   },
   {
@@ -2427,7 +2427,7 @@
     "INDIRIZZO": "Michelini",
     "LOCALITA'": "DESIO",
     "FG": "42",
-    "MAPPALE": "068",
+    "MAPPALE": "68",
     "SUB": null
   },
   {
@@ -2471,7 +2471,7 @@
     "INDIRIZZO": "Michelini",
     "LOCALITA'": "DESIO",
     "FG": "43",
-    "MAPPALE": "342p",
+    "MAPPALE": "342",
     "SUB": null
   },
   {
@@ -2482,7 +2482,7 @@
     "INDIRIZZO": "Michelini",
     "LOCALITA'": "DESIO",
     "FG": "43",
-    "MAPPALE": "200p",
+    "MAPPALE": "200",
     "SUB": null
   },
   {
@@ -2493,7 +2493,7 @@
     "INDIRIZZO": "Michelini",
     "LOCALITA'": "DESIO",
     "FG": "43",
-    "MAPPALE": "350p",
+    "MAPPALE": "350",
     "SUB": null
   },
   {
@@ -2515,7 +2515,7 @@
     "INDIRIZZO": "Canaletto",
     "LOCALITA'": "DESIO",
     "FG": "43",
-    "MAPPALE": "326p",
+    "MAPPALE": "326",
     "SUB": null
   },
   {
@@ -2526,7 +2526,7 @@
     "INDIRIZZO": "Canaletto",
     "LOCALITA'": "DESIO",
     "FG": "43",
-    "MAPPALE": "326p",
+    "MAPPALE": "326",
     "SUB": null
   },
   {
@@ -2537,7 +2537,7 @@
     "INDIRIZZO": "Dell'Industria",
     "LOCALITA'": "DESIO",
     "FG": "44",
-    "MAPPALE": "016",
+    "MAPPALE": "16",
     "SUB": null
   },
   {
@@ -2548,7 +2548,7 @@
     "INDIRIZZO": "Dell'Industria",
     "LOCALITA'": "DESIO",
     "FG": "44",
-    "MAPPALE": "053p",
+    "MAPPALE": "53",
     "SUB": null
   },
   {
@@ -2559,7 +2559,7 @@
     "INDIRIZZO": "Dell'Industria",
     "LOCALITA'": "DESIO",
     "FG": "44",
-    "MAPPALE": "054",
+    "MAPPALE": "54",
     "SUB": null
   },
   {
@@ -2603,7 +2603,7 @@
     "INDIRIZZO": "Dell'Industria",
     "LOCALITA'": "DESIO",
     "FG": "44",
-    "MAPPALE": "107p",
+    "MAPPALE": "107",
     "SUB": null
   },
   {
@@ -2625,7 +2625,7 @@
     "INDIRIZZO": "Don Luigi Sturzo",
     "LOCALITA'": "DESIO",
     "FG": "44",
-    "MAPPALE": "086",
+    "MAPPALE": "86",
     "SUB": null
   },
   {
@@ -2658,7 +2658,7 @@
     "INDIRIZZO": "Adria",
     "LOCALITA'": "DESIO",
     "FG": "46",
-    "MAPPALE": "185p",
+    "MAPPALE": "185",
     "SUB": null
   },
   {
@@ -2680,7 +2680,7 @@
     "INDIRIZZO": "Monselice",
     "LOCALITA'": "DESIO",
     "FG": "46",
-    "MAPPALE": "233p",
+    "MAPPALE": "233",
     "SUB": null
   },
   {
@@ -2889,7 +2889,7 @@
     "INDIRIZZO": "Romagna",
     "LOCALITA'": "DESIO",
     "FG": "48",
-    "MAPPALE": "037",
+    "MAPPALE": "37",
     "SUB": null
   },
   {
@@ -2900,7 +2900,7 @@
     "INDIRIZZO": "Romagna",
     "LOCALITA'": "DESIO",
     "FG": "48",
-    "MAPPALE": "193p",
+    "MAPPALE": "193",
     "SUB": null
   },
   {
@@ -2944,7 +2944,7 @@
     "INDIRIZZO": "Romagna",
     "LOCALITA'": "DESIO",
     "FG": "48",
-    "MAPPALE": "267p",
+    "MAPPALE": "267",
     "SUB": null
   },
   {
@@ -2966,7 +2966,7 @@
     "INDIRIZZO": "San Vincenzo De Paoli",
     "LOCALITA'": "DESIO",
     "FG": "48",
-    "MAPPALE": "319p",
+    "MAPPALE": "319",
     "SUB": null
   },
   {
@@ -2977,7 +2977,7 @@
     "INDIRIZZO": "Romagna",
     "LOCALITA'": "DESIO",
     "FG": "48",
-    "MAPPALE": "267p",
+    "MAPPALE": "267",
     "SUB": null
   },
   {
@@ -3054,7 +3054,7 @@
     "INDIRIZZO": "Santa Gianna Beretta Molla",
     "LOCALITA'": "DESIO",
     "FG": "48",
-    "MAPPALE": "351p",
+    "MAPPALE": "351",
     "SUB": null
   },
   {
@@ -3065,7 +3065,7 @@
     "INDIRIZZO": "Santa Gianna Beretta Molla",
     "LOCALITA'": "DESIO",
     "FG": "48",
-    "MAPPALE": "349p",
+    "MAPPALE": "349",
     "SUB": null
   },
   {
@@ -3098,7 +3098,7 @@
     "INDIRIZZO": "Sabotino",
     "LOCALITA'": "DESIO",
     "FG": "48",
-    "MAPPALE": "363p",
+    "MAPPALE": "363",
     "SUB": null
   },
   {
@@ -3197,7 +3197,7 @@
     "INDIRIZZO": "IX Novembre 1989",
     "LOCALITA'": "DESIO",
     "FG": "49",
-    "MAPPALE": "428p",
+    "MAPPALE": "428",
     "SUB": null
   },
   {
@@ -3241,7 +3241,7 @@
     "INDIRIZZO": "Parini",
     "LOCALITA'": "DESIO",
     "FG": "49",
-    "MAPPALE": "319p",
+    "MAPPALE": "319",
     "SUB": null
   },
   {
@@ -3252,7 +3252,7 @@
     "INDIRIZZO": "Parini",
     "LOCALITA'": "DESIO",
     "FG": "49",
-    "MAPPALE": "399p",
+    "MAPPALE": "399",
     "SUB": null
   },
   {
@@ -3263,7 +3263,7 @@
     "INDIRIZZO": "Monteverdi Claudio",
     "LOCALITA'": "DESIO",
     "FG": "50",
-    "MAPPALE": "089",
+    "MAPPALE": "89",
     "SUB": null
   },
   {
@@ -3384,7 +3384,7 @@
     "INDIRIZZO": "Monteverdi Claudio",
     "LOCALITA'": "DESIO",
     "FG": "50",
-    "MAPPALE": "233p",
+    "MAPPALE": "233",
     "SUB": null
   },
   {
@@ -3439,7 +3439,7 @@
     "INDIRIZZO": "Milano",
     "LOCALITA'": "DESIO",
     "FG": "50",
-    "MAPPALE": "198p",
+    "MAPPALE": "198",
     "SUB": null
   },
   {
@@ -3483,7 +3483,7 @@
     "INDIRIZZO": "Sciesa",
     "LOCALITA'": "DESIO",
     "FG": "51",
-    "MAPPALE": "349p",
+    "MAPPALE": "349",
     "SUB": null
   },
   {
@@ -3494,7 +3494,7 @@
     "INDIRIZZO": "Sciesa",
     "LOCALITA'": "DESIO",
     "FG": "51",
-    "MAPPALE": "350p",
+    "MAPPALE": "350",
     "SUB": null
   },
   {
@@ -3538,7 +3538,7 @@
     "INDIRIZZO": "Oslavia",
     "LOCALITA'": "DESIO",
     "FG": "52",
-    "MAPPALE": "020p",
+    "MAPPALE": "20",
     "SUB": null
   },
   {
@@ -3604,7 +3604,7 @@
     "INDIRIZZO": "Togliatti",
     "LOCALITA'": "DESIO",
     "FG": "52",
-    "MAPPALE": "115p",
+    "MAPPALE": "115",
     "SUB": null
   },
   {
@@ -3615,7 +3615,7 @@
     "INDIRIZZO": "Oslavia",
     "LOCALITA'": "DESIO",
     "FG": "52",
-    "MAPPALE": "137p",
+    "MAPPALE": "137",
     "SUB": null
   },
   {
@@ -3824,7 +3824,7 @@
     "INDIRIZZO": "Prati",
     "LOCALITA'": "DESIO",
     "FG": "53",
-    "MAPPALE": "131p",
+    "MAPPALE": "131",
     "SUB": null
   },
   {
@@ -3835,7 +3835,7 @@
     "INDIRIZZO": "Togliatti",
     "LOCALITA'": "DESIO",
     "FG": "53",
-    "MAPPALE": "174p",
+    "MAPPALE": "174",
     "SUB": null
   },
   {
@@ -3846,7 +3846,7 @@
     "INDIRIZZO": "Prati",
     "LOCALITA'": "DESIO",
     "FG": "53",
-    "MAPPALE": "131p",
+    "MAPPALE": "131",
     "SUB": null
   },
   {
@@ -3901,7 +3901,7 @@
     "INDIRIZZO": "Rossini",
     "LOCALITA'": "DESIO",
     "FG": "53",
-    "MAPPALE": "203p",
+    "MAPPALE": "203",
     "SUB": null
   },
   {
@@ -4022,7 +4022,7 @@
     "INDIRIZZO": "Togliatti",
     "LOCALITA'": "DESIO",
     "FG": "53",
-    "MAPPALE": "271p",
+    "MAPPALE": "271",
     "SUB": null
   },
   {
@@ -4066,7 +4066,7 @@
     "INDIRIZZO": "Carroccio",
     "LOCALITA'": "DESIO",
     "FG": "57",
-    "MAPPALE": "018",
+    "MAPPALE": "18",
     "SUB": null
   },
   {
@@ -4077,7 +4077,7 @@
     "INDIRIZZO": "Carroccio",
     "LOCALITA'": "DESIO",
     "FG": "57",
-    "MAPPALE": "019",
+    "MAPPALE": "19",
     "SUB": null
   },
   {
@@ -4209,7 +4209,7 @@
     "INDIRIZZO": "Roma",
     "LOCALITA'": "DESIO",
     "FG": "54",
-    "MAPPALE": "162p",
+    "MAPPALE": "162",
     "SUB": null
   },
   {
@@ -4374,7 +4374,7 @@
     "INDIRIZZO": "Degli Artigiani",
     "LOCALITA'": "DESIO",
     "FG": "59",
-    "MAPPALE": "067p",
+    "MAPPALE": "67",
     "SUB": null
   },
   {
@@ -4385,7 +4385,7 @@
     "INDIRIZZO": "Degli Artigiani",
     "LOCALITA'": "DESIO",
     "FG": "59",
-    "MAPPALE": "086",
+    "MAPPALE": "86",
     "SUB": null
   },
   {
@@ -4396,7 +4396,7 @@
     "INDIRIZZO": "Ambrosoli",
     "LOCALITA'": "DESIO",
     "FG": "59",
-    "MAPPALE": "087",
+    "MAPPALE": "87",
     "SUB": null
   },
   {
@@ -4407,7 +4407,7 @@
     "INDIRIZZO": "Ambrosoli",
     "LOCALITA'": "DESIO",
     "FG": "59",
-    "MAPPALE": "088",
+    "MAPPALE": "88",
     "SUB": null
   },
   {
@@ -4418,7 +4418,7 @@
     "INDIRIZZO": "Ambrosoli",
     "LOCALITA'": "DESIO",
     "FG": "59",
-    "MAPPALE": "097",
+    "MAPPALE": "97",
     "SUB": null
   },
   {
@@ -4451,7 +4451,7 @@
     "INDIRIZZO": "Togliatti",
     "LOCALITA'": "DESIO",
     "FG": "60",
-    "MAPPALE": "013",
+    "MAPPALE": "13",
     "SUB": null
   },
   {
@@ -4462,7 +4462,7 @@
     "INDIRIZZO": "Ambrosoli",
     "LOCALITA'": "DESIO",
     "FG": "60",
-    "MAPPALE": "028",
+    "MAPPALE": "28",
     "SUB": null
   },
   {
@@ -4473,7 +4473,7 @@
     "INDIRIZZO": "Degli Artigiani",
     "LOCALITA'": "DESIO",
     "FG": "60",
-    "MAPPALE": "077",
+    "MAPPALE": "77",
     "SUB": null
   },
   {
@@ -4484,7 +4484,7 @@
     "INDIRIZZO": "Ambrosoli",
     "LOCALITA'": "DESIO",
     "FG": "60",
-    "MAPPALE": "078",
+    "MAPPALE": "78",
     "SUB": null
   },
   {
@@ -4495,7 +4495,7 @@
     "INDIRIZZO": "Togliatti",
     "LOCALITA'": "DESIO",
     "FG": "60",
-    "MAPPALE": "092",
+    "MAPPALE": "92",
     "SUB": null
   },
   {
@@ -4561,7 +4561,7 @@
     "INDIRIZZO": "Einaudi",
     "LOCALITA'": "DESIO",
     "FG": "62",
-    "MAPPALE": "059",
+    "MAPPALE": "59",
     "SUB": null
   },
   {
@@ -4572,7 +4572,7 @@
     "INDIRIZZO": "Einaudi",
     "LOCALITA'": "DESIO",
     "FG": "62",
-    "MAPPALE": "079",
+    "MAPPALE": "79",
     "SUB": null
   },
   {
@@ -4583,7 +4583,7 @@
     "INDIRIZZO": "Maestri del Lavoro",
     "LOCALITA'": "DESIO",
     "FG": "62",
-    "MAPPALE": "090",
+    "MAPPALE": "90",
     "SUB": null
   },
   {
@@ -4594,7 +4594,7 @@
     "INDIRIZZO": "Caduti di Nassirya",
     "LOCALITA'": "DESIO",
     "FG": "62",
-    "MAPPALE": "096",
+    "MAPPALE": "96",
     "SUB": null
   },
   {
@@ -4605,7 +4605,7 @@
     "INDIRIZZO": "Einaudi",
     "LOCALITA'": "DESIO",
     "FG": "62",
-    "MAPPALE": "099",
+    "MAPPALE": "99",
     "SUB": null
   },
   {
@@ -4649,7 +4649,7 @@
     "INDIRIZZO": "Ambrosoli",
     "LOCALITA'": "DESIO",
     "FG": "62",
-    "MAPPALE": "130p",
+    "MAPPALE": "130",
     "SUB": null
   },
   {
@@ -4660,7 +4660,7 @@
     "INDIRIZZO": "Ambrosoli",
     "LOCALITA'": "DESIO",
     "FG": "62",
-    "MAPPALE": "131p",
+    "MAPPALE": "131",
     "SUB": null
   },
   {
@@ -4671,7 +4671,7 @@
     "INDIRIZZO": "Ambrosoli",
     "LOCALITA'": "DESIO",
     "FG": "62",
-    "MAPPALE": "133p",
+    "MAPPALE": "133",
     "SUB": null
   },
   {
@@ -4682,7 +4682,7 @@
     "INDIRIZZO": "Ambrosoli",
     "LOCALITA'": "DESIO",
     "FG": "62",
-    "MAPPALE": "136p",
+    "MAPPALE": "136",
     "SUB": null
   },
   {
@@ -4693,7 +4693,7 @@
     "INDIRIZZO": "Einaudi",
     "LOCALITA'": "DESIO",
     "FG": "62",
-    "MAPPALE": "097",
+    "MAPPALE": "97",
     "SUB": null
   },
   {
@@ -4759,7 +4759,7 @@
     "INDIRIZZO": "Maestri del Lavoro",
     "LOCALITA'": "DESIO",
     "FG": "63",
-    "MAPPALE": "054",
+    "MAPPALE": "54",
     "SUB": null
   },
   {
@@ -4770,7 +4770,7 @@
     "INDIRIZZO": "Maestri del Lavoro",
     "LOCALITA'": "DESIO",
     "FG": "63",
-    "MAPPALE": "055",
+    "MAPPALE": "55",
     "SUB": null
   },
   {
@@ -4781,7 +4781,7 @@
     "INDIRIZZO": "Maestri del Lavoro",
     "LOCALITA'": "DESIO",
     "FG": "63",
-    "MAPPALE": "056",
+    "MAPPALE": "56",
     "SUB": null
   },
   {
@@ -4792,7 +4792,7 @@
     "INDIRIZZO": "Leoncavallo",
     "LOCALITA'": "DESIO",
     "FG": "63",
-    "MAPPALE": "085",
+    "MAPPALE": "85",
     "SUB": null
   },
   {
@@ -4803,7 +4803,7 @@
     "INDIRIZZO": "Maestri del Lavoro",
     "LOCALITA'": "DESIO",
     "FG": "63",
-    "MAPPALE": "050",
+    "MAPPALE": "50",
     "SUB": null
   },
   {
@@ -4814,7 +4814,7 @@
     "INDIRIZZO": "Maestri del Lavoro",
     "LOCALITA'": "DESIO",
     "FG": "63",
-    "MAPPALE": "059",
+    "MAPPALE": "59",
     "SUB": null
   },
   {
@@ -4825,7 +4825,7 @@
     "INDIRIZZO": "Maestri del Lavoro",
     "LOCALITA'": "DESIO",
     "FG": "63",
-    "MAPPALE": "052",
+    "MAPPALE": "52",
     "SUB": null
   },
   {
@@ -4836,7 +4836,7 @@
     "INDIRIZZO": "Maestri del Lavoro",
     "LOCALITA'": "DESIO",
     "FG": "63",
-    "MAPPALE": "053",
+    "MAPPALE": "53",
     "SUB": null
   },
   {
@@ -4847,7 +4847,7 @@
     "INDIRIZZO": "Maestri del Lavoro",
     "LOCALITA'": "DESIO",
     "FG": "63",
-    "MAPPALE": "053",
+    "MAPPALE": "53",
     "SUB": null
   },
   {
@@ -4858,7 +4858,7 @@
     "INDIRIZZO": "Maestri del Lavoro",
     "LOCALITA'": "DESIO",
     "FG": "63",
-    "MAPPALE": "057",
+    "MAPPALE": "57",
     "SUB": null
   },
   {
@@ -4869,7 +4869,7 @@
     "INDIRIZZO": "Mascagni",
     "LOCALITA'": "DESIO",
     "FG": "63",
-    "MAPPALE": "063",
+    "MAPPALE": "63",
     "SUB": null
   },
   {
@@ -4880,7 +4880,7 @@
     "INDIRIZZO": "Mascagni",
     "LOCALITA'": "DESIO",
     "FG": "63",
-    "MAPPALE": "064",
+    "MAPPALE": "64",
     "SUB": null
   },
   {
@@ -4891,7 +4891,7 @@
     "INDIRIZZO": "Mascagni",
     "LOCALITA'": "DESIO",
     "FG": "63",
-    "MAPPALE": "019",
+    "MAPPALE": "19",
     "SUB": null
   },
   {
@@ -4902,7 +4902,7 @@
     "INDIRIZZO": "Maestri del Lavoro",
     "LOCALITA'": "DESIO",
     "FG": "64",
-    "MAPPALE": "069",
+    "MAPPALE": "69",
     "SUB": null
   },
   {
@@ -4913,7 +4913,7 @@
     "INDIRIZZO": "Maestri del Lavoro",
     "LOCALITA'": "DESIO",
     "FG": "64",
-    "MAPPALE": "071",
+    "MAPPALE": "71",
     "SUB": null
   },
   {
@@ -4924,7 +4924,7 @@
     "INDIRIZZO": "Maestri del Lavoro",
     "LOCALITA'": "DESIO",
     "FG": "64",
-    "MAPPALE": "073",
+    "MAPPALE": "73",
     "SUB": null
   },
   {
@@ -4935,7 +4935,7 @@
     "INDIRIZZO": "Mascagni",
     "LOCALITA'": "DESIO",
     "FG": "64",
-    "MAPPALE": "075",
+    "MAPPALE": "75",
     "SUB": null
   },
   {
@@ -4946,7 +4946,7 @@
     "INDIRIZZO": "Mascagni",
     "LOCALITA'": "DESIO",
     "FG": "64",
-    "MAPPALE": "076",
+    "MAPPALE": "76",
     "SUB": null
   },
   {
@@ -4957,7 +4957,7 @@
     "INDIRIZZO": "Del Guado",
     "LOCALITA'": "DESIO",
     "FG": "64",
-    "MAPPALE": "084",
+    "MAPPALE": "84",
     "SUB": null
   },
   {
@@ -5045,7 +5045,7 @@
     "INDIRIZZO": "Giusti",
     "LOCALITA'": "DESIO",
     "FG": "55",
-    "MAPPALE": "099",
+    "MAPPALE": "99",
     "SUB": null
   },
   {
@@ -5089,7 +5089,7 @@
     "INDIRIZZO": "Monselice",
     "LOCALITA'": "DESIO",
     "FG": "46",
-    "MAPPALE": "244p",
+    "MAPPALE": "244",
     "SUB": null
   },
   {
@@ -5100,7 +5100,7 @@
     "INDIRIZZO": "Schipa",
     "LOCALITA'": "DESIO",
     "FG": "52",
-    "MAPPALE": "185p",
+    "MAPPALE": "185",
     "SUB": null
   },
   {
@@ -5110,7 +5110,7 @@
     "DESCRIZIONE": "sede stradale",
     "INDIRIZZO": "per Cesano",
     "LOCALITA'": "DESIO",
-    "FG": "09",
+    "FG": "9",
     "MAPPALE": "430",
     "SUB": null
   },
@@ -5132,8 +5132,8 @@
     "DESCRIZIONE": "fascia di rispetto stradale",
     "INDIRIZZO": "per Cesano",
     "LOCALITA'": "DESIO",
-    "FG": "01",
-    "MAPPALE": "099",
+    "FG": "1",
+    "MAPPALE": "99",
     "SUB": null
   },
   {
@@ -5143,8 +5143,8 @@
     "DESCRIZIONE": "fascia di rispetto stradale",
     "INDIRIZZO": "per Cesano",
     "LOCALITA'": "DESIO",
-    "FG": "01",
-    "MAPPALE": "073",
+    "FG": "1",
+    "MAPPALE": "73",
     "SUB": null
   },
   {
@@ -5154,8 +5154,8 @@
     "DESCRIZIONE": "fascia di rispetto stradale",
     "INDIRIZZO": "per Cesano",
     "LOCALITA'": "DESIO",
-    "FG": "01",
-    "MAPPALE": "098",
+    "FG": "1",
+    "MAPPALE": "98",
     "SUB": null
   },
   {
@@ -5165,7 +5165,7 @@
     "DESCRIZIONE": "fascia di rispetto stradale e parcheggio",
     "INDIRIZZO": "Cassinetta",
     "LOCALITA'": "DESIO",
-    "FG": "02",
+    "FG": "2",
     "MAPPALE": "297",
     "SUB": null
   },
@@ -5176,7 +5176,7 @@
     "DESCRIZIONE": "fascia di rispetto stradale e parcheggio",
     "INDIRIZZO": "Cassinetta",
     "LOCALITA'": "DESIO",
-    "FG": "02",
+    "FG": "2",
     "MAPPALE": "323",
     "SUB": null
   },
@@ -5187,7 +5187,7 @@
     "DESCRIZIONE": "area verde - futura sede stradale in previsione nel PGT",
     "INDIRIZZO": "in previsione nel PGT (di futura realizzazione)",
     "LOCALITA'": "DESIO",
-    "FG": "02",
+    "FG": "2",
     "MAPPALE": "335",
     "SUB": null
   },
@@ -5198,7 +5198,7 @@
     "DESCRIZIONE": "area verde - futura sede stradale in previsione nel PGT",
     "INDIRIZZO": "in previsione nel PGT (di futura realizzazione)",
     "LOCALITA'": "DESIO",
-    "FG": "02",
+    "FG": "2",
     "MAPPALE": "392",
     "SUB": null
   },
@@ -5209,7 +5209,7 @@
     "DESCRIZIONE": "area verde - futura sede stradale in previsione nel PGT",
     "INDIRIZZO": "in previsione nel PGT (di futura realizzazione)",
     "LOCALITA'": "DESIO",
-    "FG": "02",
+    "FG": "2",
     "MAPPALE": "395",
     "SUB": null
   },
@@ -5220,7 +5220,7 @@
     "DESCRIZIONE": "verde pubblico",
     "INDIRIZZO": "Mazzini",
     "LOCALITA'": "DESIO",
-    "FG": "02",
+    "FG": "2",
     "MAPPALE": "404",
     "SUB": null
   },
@@ -5231,7 +5231,7 @@
     "DESCRIZIONE": "verde pubblico",
     "INDIRIZZO": "Mazzini",
     "LOCALITA'": "DESIO",
-    "FG": "02",
+    "FG": "2",
     "MAPPALE": "405",
     "SUB": null
   },
@@ -5242,7 +5242,7 @@
     "DESCRIZIONE": "fascia di rispetto stradale",
     "INDIRIZZO": "Olimpiadi",
     "LOCALITA'": "DESIO",
-    "FG": "02",
+    "FG": "2",
     "MAPPALE": "327",
     "SUB": null
   },
@@ -5253,7 +5253,7 @@
     "DESCRIZIONE": "verde pubblico",
     "INDIRIZZO": "Trincea delle Frasche",
     "LOCALITA'": "DESIO",
-    "FG": "02",
+    "FG": "2",
     "MAPPALE": "273",
     "SUB": null
   },
@@ -5264,7 +5264,7 @@
     "DESCRIZIONE": "verde pubblico",
     "INDIRIZZO": "Trincea delle Frasche",
     "LOCALITA'": "DESIO",
-    "FG": "02",
+    "FG": "2",
     "MAPPALE": "274",
     "SUB": null
   },
@@ -5275,7 +5275,7 @@
     "DESCRIZIONE": "verde pubblico",
     "INDIRIZZO": "Trincea delle Frasche",
     "LOCALITA'": "DESIO",
-    "FG": "02",
+    "FG": "2",
     "MAPPALE": "271",
     "SUB": null
   },
@@ -5286,7 +5286,7 @@
     "DESCRIZIONE": "verde pubblico attrezzato",
     "INDIRIZZO": "Trincea delle Frasche",
     "LOCALITA'": "DESIO",
-    "FG": "02",
+    "FG": "2",
     "MAPPALE": "177",
     "SUB": null
   },
@@ -5330,7 +5330,7 @@
     "DESCRIZIONE": "fascia di rispetto stradale",
     "INDIRIZZO": "Olimpiadi",
     "LOCALITA'": "DESIO",
-    "FG": "03",
+    "FG": "3",
     "MAPPALE": "189",
     "SUB": null
   },
@@ -5341,8 +5341,8 @@
     "DESCRIZIONE": "fascia di rispetto stradale",
     "INDIRIZZO": "Milano",
     "LOCALITA'": "DESIO",
-    "FG": "04",
-    "MAPPALE": "024",
+    "FG": "4",
+    "MAPPALE": "24",
     "SUB": null
   },
   {
@@ -5352,7 +5352,7 @@
     "DESCRIZIONE": "fascia di rispetto stradale - parcheggio a spina",
     "INDIRIZZO": "Mazzini",
     "LOCALITA'": "DESIO",
-    "FG": "04",
+    "FG": "4",
     "MAPPALE": "287",
     "SUB": null
   },
@@ -5363,7 +5363,7 @@
     "DESCRIZIONE": "pista ciclopedonale",
     "INDIRIZZO": "Rossa Giudo",
     "LOCALITA'": "DESIO",
-    "FG": "05",
+    "FG": "5",
     "MAPPALE": "256",
     "SUB": null
   },
@@ -5374,7 +5374,7 @@
     "DESCRIZIONE": "pista ciclopedonale",
     "INDIRIZZO": "Rossa Giudo",
     "LOCALITA'": "DESIO",
-    "FG": "05",
+    "FG": "5",
     "MAPPALE": "258",
     "SUB": null
   },
@@ -5385,7 +5385,7 @@
     "DESCRIZIONE": "area a servizi comunali",
     "INDIRIZZO": "Rossa Giudo",
     "LOCALITA'": "DESIO",
-    "FG": "05",
+    "FG": "5",
     "MAPPALE": "276",
     "SUB": null
   },
@@ -5396,7 +5396,7 @@
     "DESCRIZIONE": "fascia di rispetto stradale",
     "INDIRIZZO": "per Cesano",
     "LOCALITA'": "DESIO",
-    "FG": "08",
+    "FG": "8",
     "MAPPALE": "262",
     "SUB": null
   },
@@ -5407,7 +5407,7 @@
     "DESCRIZIONE": "parcheggio in sede protetta",
     "INDIRIZZO": "per Binzago",
     "LOCALITA'": "DESIO",
-    "FG": "08",
+    "FG": "8",
     "MAPPALE": "270",
     "SUB": null
   },
@@ -5418,7 +5418,7 @@
     "DESCRIZIONE": "area destinata alla realizzazione di una rotatoria della tagenziale Ovest",
     "INDIRIZZO": "Ovest - terzo lotto",
     "LOCALITA'": "DESIO",
-    "FG": "08",
+    "FG": "8",
     "MAPPALE": "332",
     "SUB": null
   },
@@ -5429,7 +5429,7 @@
     "DESCRIZIONE": "parcheggio in sede protetta",
     "INDIRIZZO": "per Binzago",
     "LOCALITA'": "DESIO",
-    "FG": "08",
+    "FG": "8",
     "MAPPALE": "271",
     "SUB": null
   },
@@ -5440,7 +5440,7 @@
     "DESCRIZIONE": "fascia di rispetto stradale",
     "INDIRIZZO": "per Cesano",
     "LOCALITA'": "DESIO",
-    "FG": "08",
+    "FG": "8",
     "MAPPALE": "307",
     "SUB": null
   },
@@ -5451,7 +5451,7 @@
     "DESCRIZIONE": "area verde - futura sede stradale in previsione nel PGT",
     "INDIRIZZO": "Mulino Arese",
     "LOCALITA'": "DESIO",
-    "FG": "08",
+    "FG": "8",
     "MAPPALE": "364",
     "SUB": null
   },
@@ -5462,7 +5462,7 @@
     "DESCRIZIONE": "area verde - futura sede stradale in previsione nel PGT",
     "INDIRIZZO": "Mulino Arese",
     "LOCALITA'": "DESIO",
-    "FG": "08",
+    "FG": "8",
     "MAPPALE": "365",
     "SUB": null
   },
@@ -5473,7 +5473,7 @@
     "DESCRIZIONE": "area verde - futura sede stradale in previsione nel PGT",
     "INDIRIZZO": "Mulino Arese",
     "LOCALITA'": "DESIO",
-    "FG": "08",
+    "FG": "8",
     "MAPPALE": "363",
     "SUB": null
   },
@@ -5484,7 +5484,7 @@
     "DESCRIZIONE": "area verde- futura sede stradale in previsione nel PGT",
     "INDIRIZZO": "Mulino Arese",
     "LOCALITA'": "DESIO",
-    "FG": "08",
+    "FG": "8",
     "MAPPALE": "343",
     "SUB": null
   },
@@ -5495,7 +5495,7 @@
     "DESCRIZIONE": "area verde - futura sede stradale in previsione nel PGT",
     "INDIRIZZO": "Mulino Arese",
     "LOCALITA'": "DESIO",
-    "FG": "08",
+    "FG": "8",
     "MAPPALE": "368",
     "SUB": null
   },
@@ -5506,7 +5506,7 @@
     "DESCRIZIONE": "area verde -futura sede stradale in previsione nel PGT",
     "INDIRIZZO": "Mulino Arese",
     "LOCALITA'": "DESIO",
-    "FG": "08",
+    "FG": "8",
     "MAPPALE": "339",
     "SUB": null
   },
@@ -5517,7 +5517,7 @@
     "DESCRIZIONE": "area verde - futura sede stradale in previsione nel PGT",
     "INDIRIZZO": "Mulino Arese",
     "LOCALITA'": "DESIO",
-    "FG": "08",
+    "FG": "8",
     "MAPPALE": "344",
     "SUB": null
   },
@@ -5528,7 +5528,7 @@
     "DESCRIZIONE": "fascia di rispetto stradale",
     "INDIRIZZO": "Mulino Arese",
     "LOCALITA'": "DESIO",
-    "FG": "08",
+    "FG": "8",
     "MAPPALE": "338",
     "SUB": null
   },
@@ -5539,7 +5539,7 @@
     "DESCRIZIONE": "fascia di rispetto stradale",
     "INDIRIZZO": "per Cesano",
     "LOCALITA'": "DESIO",
-    "FG": "08",
+    "FG": "8",
     "MAPPALE": "345",
     "SUB": null
   },
@@ -5550,7 +5550,7 @@
     "DESCRIZIONE": "fascia di rispetto stradale",
     "INDIRIZZO": "per Cesano",
     "LOCALITA'": "DESIO",
-    "FG": "08",
+    "FG": "8",
     "MAPPALE": "351",
     "SUB": null
   },
@@ -5561,7 +5561,7 @@
     "DESCRIZIONE": "fascia di rispetto stradale",
     "INDIRIZZO": "per Cesano",
     "LOCALITA'": "DESIO",
-    "FG": "08",
+    "FG": "8",
     "MAPPALE": "354",
     "SUB": null
   },
@@ -5572,7 +5572,7 @@
     "DESCRIZIONE": "verde pubblico",
     "INDIRIZZO": "per Cesano",
     "LOCALITA'": "DESIO",
-    "FG": "08",
+    "FG": "8",
     "MAPPALE": "352",
     "SUB": null
   },
@@ -5583,8 +5583,8 @@
     "DESCRIZIONE": "verde pubblico",
     "INDIRIZZO": "per Cesano",
     "LOCALITA'": "DESIO",
-    "FG": "08",
-    "MAPPALE": "056",
+    "FG": "8",
+    "MAPPALE": "56",
     "SUB": null
   },
   {
@@ -5594,7 +5594,7 @@
     "DESCRIZIONE": "verde pubblico",
     "INDIRIZZO": "Mulino Arese",
     "LOCALITA'": "DESIO",
-    "FG": "08",
+    "FG": "8",
     "MAPPALE": "404",
     "SUB": null
   },
@@ -5605,7 +5605,7 @@
     "DESCRIZIONE": "verde pubblico",
     "INDIRIZZO": "Mulino Arese",
     "LOCALITA'": "DESIO",
-    "FG": "08",
+    "FG": "8",
     "MAPPALE": "333",
     "SUB": null
   },
@@ -5616,7 +5616,7 @@
     "DESCRIZIONE": "verde pubblico",
     "INDIRIZZO": "Mulino Arese",
     "LOCALITA'": "DESIO",
-    "FG": "08",
+    "FG": "8",
     "MAPPALE": "334",
     "SUB": null
   },
@@ -5627,7 +5627,7 @@
     "DESCRIZIONE": "verde pubblico",
     "INDIRIZZO": "Mulino Arese",
     "LOCALITA'": "DESIO",
-    "FG": "08",
+    "FG": "8",
     "MAPPALE": "335",
     "SUB": null
   },
@@ -5638,7 +5638,7 @@
     "DESCRIZIONE": "verde pubblico",
     "INDIRIZZO": "Mulino Arese",
     "LOCALITA'": "DESIO",
-    "FG": "08",
+    "FG": "8",
     "MAPPALE": "336",
     "SUB": null
   },
@@ -5649,8 +5649,8 @@
     "DESCRIZIONE": "porzione mappale a verde pubblico",
     "INDIRIZZO": "per Cesano",
     "LOCALITA'": "DESIO",
-    "FG": "08",
-    "MAPPALE": "342p",
+    "FG": "8",
+    "MAPPALE": "342",
     "SUB": null
   },
   {
@@ -5660,7 +5660,7 @@
     "DESCRIZIONE": "verde pubblico",
     "INDIRIZZO": "per Cesano",
     "LOCALITA'": "DESIO",
-    "FG": "08",
+    "FG": "8",
     "MAPPALE": "349",
     "SUB": null
   },
@@ -5671,7 +5671,7 @@
     "DESCRIZIONE": "verde pubblico",
     "INDIRIZZO": "per Cesano",
     "LOCALITA'": "DESIO",
-    "FG": "08",
+    "FG": "8",
     "MAPPALE": "350",
     "SUB": null
   },
@@ -5682,7 +5682,7 @@
     "DESCRIZIONE": "verde pubblico",
     "INDIRIZZO": "per Cesano",
     "LOCALITA'": "DESIO",
-    "FG": "08",
+    "FG": "8",
     "MAPPALE": "353",
     "SUB": null
   },
@@ -5693,7 +5693,7 @@
     "DESCRIZIONE": "verde pubblico",
     "INDIRIZZO": "Mulino Arese",
     "LOCALITA'": "DESIO",
-    "FG": "08",
+    "FG": "8",
     "MAPPALE": "337",
     "SUB": null
   },
@@ -5704,7 +5704,7 @@
     "DESCRIZIONE": "fascia di rispetto stradale",
     "INDIRIZZO": "per Binzago",
     "LOCALITA'": "DESIO",
-    "FG": "09",
+    "FG": "9",
     "MAPPALE": "193",
     "SUB": null
   },
@@ -5715,7 +5715,7 @@
     "DESCRIZIONE": "fascia di rispetto stradale",
     "INDIRIZZO": "per Cesano",
     "LOCALITA'": "DESIO",
-    "FG": "09",
+    "FG": "9",
     "MAPPALE": "258",
     "SUB": null
   },
@@ -5726,7 +5726,7 @@
     "DESCRIZIONE": "pista ciclopedonale",
     "INDIRIZZO": "per Cesano",
     "LOCALITA'": "DESIO",
-    "FG": "09",
+    "FG": "9",
     "MAPPALE": "375",
     "SUB": null
   },
@@ -5737,7 +5737,7 @@
     "DESCRIZIONE": "pista ciclopedonale",
     "INDIRIZZO": "per Cesano",
     "LOCALITA'": "DESIO",
-    "FG": "09",
+    "FG": "9",
     "MAPPALE": "377",
     "SUB": null
   },
@@ -5748,7 +5748,7 @@
     "DESCRIZIONE": "verde pubblico",
     "INDIRIZZO": "Gentile Giovanni",
     "LOCALITA'": "DESIO",
-    "FG": "09",
+    "FG": "9",
     "MAPPALE": "381",
     "SUB": null
   },
@@ -5759,7 +5759,7 @@
     "DESCRIZIONE": "fascia di rispetto stradale",
     "INDIRIZZO": "per Cesano",
     "LOCALITA'": "DESIO",
-    "FG": "09",
+    "FG": "9",
     "MAPPALE": "407",
     "SUB": null
   },
@@ -5770,7 +5770,7 @@
     "DESCRIZIONE": "fascia di rispetto stradale",
     "INDIRIZZO": "per Cesano",
     "LOCALITA'": "DESIO",
-    "FG": "09",
+    "FG": "9",
     "MAPPALE": "410",
     "SUB": null
   },
@@ -5781,7 +5781,7 @@
     "DESCRIZIONE": "area a servizi comunali",
     "INDIRIZZO": "per Cesano",
     "LOCALITA'": "DESIO",
-    "FG": "09",
+    "FG": "9",
     "MAPPALE": "411",
     "SUB": null
   },
@@ -5792,7 +5792,7 @@
     "DESCRIZIONE": "area a servizi comunali",
     "INDIRIZZO": "per Cesano",
     "LOCALITA'": "DESIO",
-    "FG": "09",
+    "FG": "9",
     "MAPPALE": "412",
     "SUB": null
   },
@@ -5803,7 +5803,7 @@
     "DESCRIZIONE": "area a servizi comunali",
     "INDIRIZZO": "per Cesano",
     "LOCALITA'": "DESIO",
-    "FG": "09",
+    "FG": "9",
     "MAPPALE": "415",
     "SUB": null
   },
@@ -5814,7 +5814,7 @@
     "DESCRIZIONE": "area a servizi comunali",
     "INDIRIZZO": "San Martino",
     "LOCALITA'": "DESIO",
-    "FG": "09",
+    "FG": "9",
     "MAPPALE": "299",
     "SUB": null
   },
@@ -5825,7 +5825,7 @@
     "DESCRIZIONE": "fascia di rispetto stradale",
     "INDIRIZZO": "per Cesano",
     "LOCALITA'": "DESIO",
-    "FG": "09",
+    "FG": "9",
     "MAPPALE": "288",
     "SUB": null
   },
@@ -5991,7 +5991,7 @@
     "INDIRIZZO": "De Gasperi Alcide",
     "LOCALITA'": "DESIO",
     "FG": "10",
-    "MAPPALE": "401p",
+    "MAPPALE": "401",
     "SUB": null
   },
   {
@@ -6068,7 +6068,7 @@
     "INDIRIZZO": "Fermi",
     "LOCALITA'": "DESIO",
     "FG": "11",
-    "MAPPALE": "203p",
+    "MAPPALE": "203",
     "SUB": null
   },
   {
@@ -6101,7 +6101,7 @@
     "INDIRIZZO": "Gabellini",
     "LOCALITA'": "DESIO",
     "FG": "11",
-    "MAPPALE": "614p",
+    "MAPPALE": "614",
     "SUB": null
   },
   {
@@ -6123,7 +6123,7 @@
     "INDIRIZZO": "San Giuseppe",
     "LOCALITA'": "DESIO",
     "FG": "14",
-    "MAPPALE": "057",
+    "MAPPALE": "57",
     "SUB": null
   },
   {
@@ -6134,7 +6134,7 @@
     "INDIRIZZO": "San Giuseppe",
     "LOCALITA'": "DESIO",
     "FG": "14",
-    "MAPPALE": "063",
+    "MAPPALE": "63",
     "SUB": null
   },
   {
@@ -6145,7 +6145,7 @@
     "INDIRIZZO": "San Giuseppe",
     "LOCALITA'": "DESIO",
     "FG": "14",
-    "MAPPALE": "061",
+    "MAPPALE": "61",
     "SUB": null
   },
   {
@@ -6156,7 +6156,7 @@
     "INDIRIZZO": "vicinale dei Boschi",
     "LOCALITA'": "DESIO",
     "FG": "18",
-    "MAPPALE": "074",
+    "MAPPALE": "74",
     "SUB": null
   },
   {
@@ -6167,7 +6167,7 @@
     "INDIRIZZO": "vicinale dei Boschi",
     "LOCALITA'": "DESIO",
     "FG": "18",
-    "MAPPALE": "078",
+    "MAPPALE": "78",
     "SUB": null
   },
   {
@@ -6178,7 +6178,7 @@
     "INDIRIZZO": "Castelfidardo",
     "LOCALITA'": "DESIO",
     "FG": "19",
-    "MAPPALE": "086",
+    "MAPPALE": "86",
     "SUB": null
   },
   {
@@ -6243,8 +6243,8 @@
     "DESCRIZIONE": "area destinata alla realizzazione della Tangenziale Ovest",
     "INDIRIZZO": "in previsione nel PGT (di futura realizzazione)",
     "LOCALITA'": "DESIO",
-    "FG": "01",
-    "MAPPALE": "081",
+    "FG": "1",
+    "MAPPALE": "81",
     "SUB": null
   },
   {
@@ -6320,7 +6320,7 @@
     "DESCRIZIONE": "area agricola",
     "INDIRIZZO": "per Cesano",
     "LOCALITA'": "DESIO",
-    "FG": "08",
+    "FG": "8",
     "MAPPALE": "403",
     "SUB": null
   },
@@ -6332,7 +6332,7 @@
     "INDIRIZZO": "per Binzago",
     "LOCALITA'": "DESIO",
     "FG": "20",
-    "MAPPALE": "223p",
+    "MAPPALE": "223",
     "SUB": null
   },
   {
@@ -6354,7 +6354,7 @@
     "INDIRIZZO": "per Binzago",
     "LOCALITA'": "DESIO",
     "FG": "20",
-    "MAPPALE": "221p",
+    "MAPPALE": "221",
     "SUB": null
   },
   {
@@ -6365,7 +6365,7 @@
     "INDIRIZZO": "per Binzago",
     "LOCALITA'": "DESIO",
     "FG": "20",
-    "MAPPALE": "195p",
+    "MAPPALE": "195",
     "SUB": null
   },
   {
@@ -6376,7 +6376,7 @@
     "INDIRIZZO": "per Binzago",
     "LOCALITA'": "DESIO",
     "FG": "20",
-    "MAPPALE": "198p",
+    "MAPPALE": "198",
     "SUB": null
   },
   {
@@ -6387,7 +6387,7 @@
     "INDIRIZZO": "per Binzago",
     "LOCALITA'": "DESIO",
     "FG": "20",
-    "MAPPALE": "224p",
+    "MAPPALE": "224",
     "SUB": null
   },
   {
@@ -6431,7 +6431,7 @@
     "INDIRIZZO": "per Binzago",
     "LOCALITA'": "DESIO",
     "FG": "20",
-    "MAPPALE": "229p",
+    "MAPPALE": "229",
     "SUB": null
   },
   {
@@ -6486,7 +6486,7 @@
     "INDIRIZZO": "Monsignor Castelli",
     "LOCALITA'": "DESIO",
     "FG": "20",
-    "MAPPALE": "030",
+    "MAPPALE": "30",
     "SUB": null
   },
   {
@@ -6508,7 +6508,7 @@
     "INDIRIZZO": "Dolomiti",
     "LOCALITA'": "DESIO",
     "FG": "21",
-    "MAPPALE": "005",
+    "MAPPALE": "5",
     "SUB": null
   },
   {
@@ -6519,7 +6519,7 @@
     "INDIRIZZO": "Dolomiti",
     "LOCALITA'": "DESIO",
     "FG": "21",
-    "MAPPALE": "006",
+    "MAPPALE": "6",
     "SUB": null
   },
   {
@@ -6541,7 +6541,7 @@
     "INDIRIZZO": "Monte Rosa",
     "LOCALITA'": "DESIO",
     "FG": "21",
-    "MAPPALE": "115p",
+    "MAPPALE": "115",
     "SUB": null
   },
   {
@@ -6585,7 +6585,7 @@
     "INDIRIZZO": "Monte Bianco",
     "LOCALITA'": "DESIO",
     "FG": "21",
-    "MAPPALE": "394p",
+    "MAPPALE": "394",
     "SUB": null
   },
   {
@@ -6717,7 +6717,7 @@
     "INDIRIZZO": "Dolomiti",
     "LOCALITA'": "DESIO",
     "FG": "21",
-    "MAPPALE": "047",
+    "MAPPALE": "47",
     "SUB": null
   },
   {
@@ -6739,7 +6739,7 @@
     "INDIRIZZO": "Pallavicini",
     "LOCALITA'": "DESIO",
     "FG": "22",
-    "MAPPALE": "022",
+    "MAPPALE": "22",
     "SUB": null
   },
   {
@@ -6794,7 +6794,7 @@
     "INDIRIZZO": "Pallavicini",
     "LOCALITA'": "DESIO",
     "FG": "22",
-    "MAPPALE": "518p",
+    "MAPPALE": "518",
     "SUB": null
   },
   {
@@ -6805,7 +6805,7 @@
     "INDIRIZZO": "Monsignor Castelli",
     "LOCALITA'": "DESIO",
     "FG": "22",
-    "MAPPALE": "019",
+    "MAPPALE": "19",
     "SUB": null
   },
   {
@@ -6838,7 +6838,7 @@
     "INDIRIZZO": "Montale",
     "LOCALITA'": "DESIO",
     "FG": "22",
-    "MAPPALE": "024",
+    "MAPPALE": "24",
     "SUB": null
   },
   {
@@ -6849,7 +6849,7 @@
     "INDIRIZZO": "Pallavicini",
     "LOCALITA'": "DESIO",
     "FG": "22",
-    "MAPPALE": "029",
+    "MAPPALE": "29",
     "SUB": null
   },
   {
@@ -6882,7 +6882,7 @@
     "INDIRIZZO": "Monsignor Castelli",
     "LOCALITA'": "DESIO",
     "FG": "22",
-    "MAPPALE": "018",
+    "MAPPALE": "18",
     "SUB": null
   },
   {
@@ -6904,7 +6904,7 @@
     "INDIRIZZO": "Montale",
     "LOCALITA'": "DESIO",
     "FG": "22",
-    "MAPPALE": "026",
+    "MAPPALE": "26",
     "SUB": null
   },
   {
@@ -6959,7 +6959,7 @@
     "INDIRIZZO": "Milano",
     "LOCALITA'": "DESIO",
     "FG": "22",
-    "MAPPALE": "456p",
+    "MAPPALE": "456",
     "SUB": null
   },
   {
@@ -6981,7 +6981,7 @@
     "INDIRIZZO": "Carso",
     "LOCALITA'": "DESIO",
     "FG": "22",
-    "MAPPALE": "496p",
+    "MAPPALE": "496",
     "SUB": null
   },
   {
@@ -7025,7 +7025,7 @@
     "INDIRIZZO": "Pallavicini",
     "LOCALITA'": "DESIO",
     "FG": "22",
-    "MAPPALE": "446p",
+    "MAPPALE": "446",
     "SUB": null
   },
   {
@@ -7036,7 +7036,7 @@
     "INDIRIZZO": "Gabellini",
     "LOCALITA'": "DESIO",
     "FG": "23",
-    "MAPPALE": "001",
+    "MAPPALE": "1",
     "SUB": null
   },
   {
@@ -7047,7 +7047,7 @@
     "INDIRIZZO": "Gabellini",
     "LOCALITA'": "DESIO",
     "FG": "23",
-    "MAPPALE": "052",
+    "MAPPALE": "52",
     "SUB": null
   },
   {
@@ -7058,7 +7058,7 @@
     "INDIRIZZO": "Gabellini",
     "LOCALITA'": "DESIO",
     "FG": "23",
-    "MAPPALE": "054",
+    "MAPPALE": "54",
     "SUB": null
   },
   {
@@ -7069,7 +7069,7 @@
     "INDIRIZZO": "Gabellini",
     "LOCALITA'": "DESIO",
     "FG": "23",
-    "MAPPALE": "056",
+    "MAPPALE": "56",
     "SUB": null
   },
   {
@@ -7168,7 +7168,7 @@
     "INDIRIZZO": "Rimembranze",
     "LOCALITA'": "DESIO",
     "FG": "23",
-    "MAPPALE": "295p",
+    "MAPPALE": "295",
     "SUB": null
   },
   {
@@ -7212,7 +7212,7 @@
     "INDIRIZZO": "Italia",
     "LOCALITA'": "DESIO",
     "FG": "23",
-    "MAPPALE": "336p",
+    "MAPPALE": "336",
     "SUB": null
   },
   {
@@ -7245,7 +7245,7 @@
     "INDIRIZZO": "Cervi  F.lli",
     "LOCALITA'": "DESIO",
     "FG": "24",
-    "MAPPALE": "171p",
+    "MAPPALE": "171",
     "SUB": null
   },
   {
@@ -7267,7 +7267,7 @@
     "INDIRIZZO": "Carducci",
     "LOCALITA'": "DESIO",
     "FG": "25",
-    "MAPPALE": "422p",
+    "MAPPALE": "422",
     "SUB": null
   },
   {
@@ -7366,7 +7366,7 @@
     "INDIRIZZO": "Volta Alessandro",
     "LOCALITA'": "DESIO",
     "FG": "25",
-    "MAPPALE": "427p",
+    "MAPPALE": "427",
     "SUB": null
   },
   {
@@ -7476,7 +7476,7 @@
     "INDIRIZZO": "Quasimodo",
     "LOCALITA'": "DESIO",
     "FG": "34",
-    "MAPPALE": "032",
+    "MAPPALE": "32",
     "SUB": null
   },
   {
@@ -7487,7 +7487,7 @@
     "INDIRIZZO": "Agnesi Gaetana",
     "LOCALITA'": "DESIO",
     "FG": "34",
-    "MAPPALE": "050",
+    "MAPPALE": "50",
     "SUB": null
   },
   {
@@ -7498,7 +7498,7 @@
     "INDIRIZZO": "Agnesi Gaetana",
     "LOCALITA'": "DESIO",
     "FG": "34",
-    "MAPPALE": "081",
+    "MAPPALE": "81",
     "SUB": null
   },
   {
@@ -7509,7 +7509,7 @@
     "INDIRIZZO": "Agnesi Gaetana",
     "LOCALITA'": "DESIO",
     "FG": "34",
-    "MAPPALE": "082",
+    "MAPPALE": "82",
     "SUB": null
   },
   {
@@ -7520,7 +7520,7 @@
     "INDIRIZZO": "Agnesi Gaetana",
     "LOCALITA'": "DESIO",
     "FG": "34",
-    "MAPPALE": "096",
+    "MAPPALE": "96",
     "SUB": null
   },
   {
@@ -7553,7 +7553,7 @@
     "INDIRIZZO": "Agnesi Gaetana",
     "LOCALITA'": "DESIO",
     "FG": "34",
-    "MAPPALE": "035p",
+    "MAPPALE": "35",
     "SUB": null
   },
   {
@@ -7564,7 +7564,7 @@
     "INDIRIZZO": "Agnesi Gaetana",
     "LOCALITA'": "DESIO",
     "FG": "34",
-    "MAPPALE": "127p",
+    "MAPPALE": "127",
     "SUB": null
   },
   {
@@ -7586,7 +7586,7 @@
     "INDIRIZZO": "Serao Matilde",
     "LOCALITA'": "DESIO",
     "FG": "34",
-    "MAPPALE": "138p",
+    "MAPPALE": "138",
     "SUB": null
   },
   {
@@ -7641,7 +7641,7 @@
     "INDIRIZZO": "Comunale di Masciago",
     "LOCALITA'": "DESIO",
     "FG": "34",
-    "MAPPALE": "030",
+    "MAPPALE": "30",
     "SUB": null
   },
   {
@@ -7663,7 +7663,7 @@
     "INDIRIZZO": "Milano",
     "LOCALITA'": "DESIO",
     "FG": "35",
-    "MAPPALE": "092",
+    "MAPPALE": "92",
     "SUB": null
   },
   {
@@ -7674,7 +7674,7 @@
     "INDIRIZZO": "Quasimodo",
     "LOCALITA'": "DESIO",
     "FG": "34",
-    "MAPPALE": "033",
+    "MAPPALE": "33",
     "SUB": null
   },
   {
@@ -7729,7 +7729,7 @@
     "INDIRIZZO": "Serao Matilde",
     "LOCALITA'": "DESIO",
     "FG": "35",
-    "MAPPALE": "263p",
+    "MAPPALE": "263",
     "SUB": null
   },
   {
@@ -7751,7 +7751,7 @@
     "INDIRIZZO": "Rovagnati",
     "LOCALITA'": "DESIO",
     "FG": "35",
-    "MAPPALE": "292p",
+    "MAPPALE": "292",
     "SUB": null
   },
   {
@@ -7762,7 +7762,7 @@
     "INDIRIZZO": "Borghetto",
     "LOCALITA'": "DESIO",
     "FG": "36",
-    "MAPPALE": "478p",
+    "MAPPALE": "478",
     "SUB": null
   },
   {
@@ -7795,7 +7795,7 @@
     "INDIRIZZO": "Tripoli",
     "LOCALITA'": "DESIO",
     "FG": "37",
-    "MAPPALE": "073",
+    "MAPPALE": "73",
     "SUB": null
   },
   {
@@ -7806,7 +7806,7 @@
     "INDIRIZZO": "Cavalieri di Vittorio Veneto",
     "LOCALITA'": "DESIO",
     "FG": "40",
-    "MAPPALE": "056",
+    "MAPPALE": "56",
     "SUB": null
   },
   {
@@ -7850,7 +7850,7 @@
     "INDIRIZZO": "Cavalieri di Vittorio Veneto",
     "LOCALITA'": "DESIO",
     "FG": "40",
-    "MAPPALE": "150p",
+    "MAPPALE": "150",
     "SUB": null
   },
   {
@@ -7938,7 +7938,7 @@
     "INDIRIZZO": "Bramante",
     "LOCALITA'": "DESIO",
     "FG": "42",
-    "MAPPALE": "003p",
+    "MAPPALE": "3",
     "SUB": null
   },
   {
@@ -7949,7 +7949,7 @@
     "INDIRIZZO": "Bramante",
     "LOCALITA'": "DESIO",
     "FG": "42",
-    "MAPPALE": "092",
+    "MAPPALE": "92",
     "SUB": null
   },
   {
@@ -7960,7 +7960,7 @@
     "INDIRIZZO": "Michelini",
     "LOCALITA'": "DESIO",
     "FG": "43",
-    "MAPPALE": "342p",
+    "MAPPALE": "342",
     "SUB": null
   },
   {
@@ -7971,7 +7971,7 @@
     "INDIRIZZO": "Michelini",
     "LOCALITA'": "DESIO",
     "FG": "43",
-    "MAPPALE": "200p",
+    "MAPPALE": "200",
     "SUB": null
   },
   {
@@ -7993,7 +7993,7 @@
     "INDIRIZZO": "Dell'Industria",
     "LOCALITA'": "DESIO",
     "FG": "44",
-    "MAPPALE": "019",
+    "MAPPALE": "19",
     "SUB": null
   },
   {
@@ -8004,7 +8004,7 @@
     "INDIRIZZO": "Don Luigi Sturzo",
     "LOCALITA'": "DESIO",
     "FG": "44",
-    "MAPPALE": "024",
+    "MAPPALE": "24",
     "SUB": null
   },
   {
@@ -8015,7 +8015,7 @@
     "INDIRIZZO": "Dell'Industria",
     "LOCALITA'": "DESIO",
     "FG": "44",
-    "MAPPALE": "053p",
+    "MAPPALE": "53",
     "SUB": null
   },
   {
@@ -8026,7 +8026,7 @@
     "INDIRIZZO": "Dell'Industria",
     "LOCALITA'": "DESIO",
     "FG": "44",
-    "MAPPALE": "055",
+    "MAPPALE": "55",
     "SUB": null
   },
   {
@@ -8037,7 +8037,7 @@
     "INDIRIZZO": "Dell'Industria",
     "LOCALITA'": "DESIO",
     "FG": "44",
-    "MAPPALE": "056",
+    "MAPPALE": "56",
     "SUB": null
   },
   {
@@ -8048,7 +8048,7 @@
     "INDIRIZZO": "Agnesi Gaetana",
     "LOCALITA'": "DESIO",
     "FG": "44",
-    "MAPPALE": "058",
+    "MAPPALE": "58",
     "SUB": null
   },
   {
@@ -8059,7 +8059,7 @@
     "INDIRIZZO": "Don Luigi Sturzo",
     "LOCALITA'": "DESIO",
     "FG": "44",
-    "MAPPALE": "085",
+    "MAPPALE": "85",
     "SUB": null
   },
   {
@@ -8103,7 +8103,7 @@
     "INDIRIZZO": "Don Luigi Sturzo",
     "LOCALITA'": "DESIO",
     "FG": "45",
-    "MAPPALE": "065",
+    "MAPPALE": "65",
     "SUB": null
   },
   {
@@ -8125,7 +8125,7 @@
     "INDIRIZZO": "Don Luigi Sturzo",
     "LOCALITA'": "DESIO",
     "FG": "45",
-    "MAPPALE": "062",
+    "MAPPALE": "62",
     "SUB": null
   },
   {
@@ -8136,7 +8136,7 @@
     "INDIRIZZO": "Don Luigi Sturzo",
     "LOCALITA'": "DESIO",
     "FG": "45",
-    "MAPPALE": "064",
+    "MAPPALE": "64",
     "SUB": null
   },
   {
@@ -8147,7 +8147,7 @@
     "INDIRIZZO": "Don Luigi Sturzo",
     "LOCALITA'": "DESIO",
     "FG": "45",
-    "MAPPALE": "065",
+    "MAPPALE": "65",
     "SUB": null
   },
   {
@@ -8158,7 +8158,7 @@
     "INDIRIZZO": "Don Luigi Sturzo",
     "LOCALITA'": "DESIO",
     "FG": "45",
-    "MAPPALE": "066",
+    "MAPPALE": "66",
     "SUB": null
   },
   {
@@ -8169,7 +8169,7 @@
     "INDIRIZZO": "Don Luigi Sturzo",
     "LOCALITA'": "DESIO",
     "FG": "45",
-    "MAPPALE": "067",
+    "MAPPALE": "67",
     "SUB": null
   },
   {
@@ -8213,7 +8213,7 @@
     "INDIRIZZO": "Adria",
     "LOCALITA'": "DESIO",
     "FG": "46",
-    "MAPPALE": "185p",
+    "MAPPALE": "185",
     "SUB": null
   },
   {
@@ -8301,7 +8301,7 @@
     "INDIRIZZO": "Sciascia",
     "LOCALITA'": "DESIO",
     "FG": "47",
-    "MAPPALE": "137p",
+    "MAPPALE": "137",
     "SUB": null
   },
   {
@@ -8356,7 +8356,7 @@
     "INDIRIZZO": "Cattaneo Carlo",
     "LOCALITA'": "DESIO",
     "FG": "47",
-    "MAPPALE": "024",
+    "MAPPALE": "24",
     "SUB": null
   },
   {
@@ -8367,7 +8367,7 @@
     "INDIRIZZO": "Sabotino",
     "LOCALITA'": "DESIO",
     "FG": "48",
-    "MAPPALE": "032",
+    "MAPPALE": "32",
     "SUB": null
   },
   {
@@ -8378,7 +8378,7 @@
     "INDIRIZZO": "Romagna",
     "LOCALITA'": "DESIO",
     "FG": "48",
-    "MAPPALE": "193p",
+    "MAPPALE": "193",
     "SUB": null
   },
   {
@@ -8466,7 +8466,7 @@
     "INDIRIZZO": "Romagna",
     "LOCALITA'": "DESIO",
     "FG": "48",
-    "MAPPALE": "267p",
+    "MAPPALE": "267",
     "SUB": null
   },
   {
@@ -8543,7 +8543,7 @@
     "INDIRIZZO": "San Vincenzo De Paoli",
     "LOCALITA'": "DESIO",
     "FG": "48",
-    "MAPPALE": "319p",
+    "MAPPALE": "319",
     "SUB": null
   },
   {
@@ -8620,7 +8620,7 @@
     "INDIRIZZO": "IX Novembre 1989",
     "LOCALITA'": "DESIO",
     "FG": "49",
-    "MAPPALE": "428p",
+    "MAPPALE": "428",
     "SUB": null
   },
   {
@@ -8653,7 +8653,7 @@
     "INDIRIZZO": "Parini",
     "LOCALITA'": "DESIO",
     "FG": "49",
-    "MAPPALE": "319p",
+    "MAPPALE": "319",
     "SUB": null
   },
   {
@@ -8664,7 +8664,7 @@
     "INDIRIZZO": "Parini",
     "LOCALITA'": "DESIO",
     "FG": "49",
-    "MAPPALE": "399p",
+    "MAPPALE": "399",
     "SUB": null
   },
   {
@@ -8675,7 +8675,7 @@
     "INDIRIZZO": "IX Novembre 1989",
     "LOCALITA'": "DESIO",
     "FG": "49",
-    "MAPPALE": "081p",
+    "MAPPALE": "81",
     "SUB": null
   },
   {
@@ -8741,7 +8741,7 @@
     "INDIRIZZO": "Rimembranze",
     "LOCALITA'": "DESIO",
     "FG": "23",
-    "MAPPALE": "294p",
+    "MAPPALE": "294",
     "SUB": null
   },
   {
@@ -8785,7 +8785,7 @@
     "INDIRIZZO": "Monteverdi Claudio",
     "LOCALITA'": "DESIO",
     "FG": "50",
-    "MAPPALE": "233p",
+    "MAPPALE": "233",
     "SUB": null
   },
   {
@@ -8840,7 +8840,7 @@
     "INDIRIZZO": "Milano",
     "LOCALITA'": "DESIO",
     "FG": "50",
-    "MAPPALE": "198p",
+    "MAPPALE": "198",
     "SUB": null
   },
   {
@@ -8895,7 +8895,7 @@
     "INDIRIZZO": "del Commercio",
     "LOCALITA'": "DESIO",
     "FG": "55",
-    "MAPPALE": "036",
+    "MAPPALE": "36",
     "SUB": null
   },
   {
@@ -8917,7 +8917,7 @@
     "INDIRIZZO": "Oslavia",
     "LOCALITA'": "DESIO",
     "FG": "52",
-    "MAPPALE": "020p",
+    "MAPPALE": "20",
     "SUB": null
   },
   {
@@ -8928,7 +8928,7 @@
     "INDIRIZZO": "Togliatti",
     "LOCALITA'": "DESIO",
     "FG": "52",
-    "MAPPALE": "033",
+    "MAPPALE": "33",
     "SUB": null
   },
   {
@@ -8939,7 +8939,7 @@
     "INDIRIZZO": "Oslavia",
     "LOCALITA'": "DESIO",
     "FG": "52",
-    "MAPPALE": "061",
+    "MAPPALE": "61",
     "SUB": null
   },
   {
@@ -8950,7 +8950,7 @@
     "INDIRIZZO": "Oslavia",
     "LOCALITA'": "DESIO",
     "FG": "52",
-    "MAPPALE": "064",
+    "MAPPALE": "64",
     "SUB": null
   },
   {
@@ -9027,7 +9027,7 @@
     "INDIRIZZO": "Togliatti",
     "LOCALITA'": "DESIO",
     "FG": "52",
-    "MAPPALE": "115p",
+    "MAPPALE": "115",
     "SUB": null
   },
   {
@@ -9049,7 +9049,7 @@
     "INDIRIZZO": "Oslavia",
     "LOCALITA'": "DESIO",
     "FG": "52",
-    "MAPPALE": "137p",
+    "MAPPALE": "137",
     "SUB": null
   },
   {
@@ -9114,7 +9114,7 @@
     "DESCRIZIONE": "sede stradale e verde pubblico",
     "INDIRIZZO": "del Commercio",
     "LOCALITA'": "DESIO",
-    "FG": "03",
+    "FG": "3",
     "MAPPALE": "111",
     "SUB": null
   },
@@ -9159,7 +9159,7 @@
     "INDIRIZZO": "Santa Liberata",
     "LOCALITA'": "DESIO",
     "FG": "53",
-    "MAPPALE": "061",
+    "MAPPALE": "61",
     "SUB": null
   },
   {
@@ -9236,7 +9236,7 @@
     "INDIRIZZO": "Togliatti",
     "LOCALITA'": "DESIO",
     "FG": "53",
-    "MAPPALE": "174p",
+    "MAPPALE": "174",
     "SUB": null
   },
   {
@@ -9258,7 +9258,7 @@
     "INDIRIZZO": "Prati",
     "LOCALITA'": "DESIO",
     "FG": "53",
-    "MAPPALE": "131p",
+    "MAPPALE": "131",
     "SUB": null
   },
   {
@@ -9280,7 +9280,7 @@
     "INDIRIZZO": "Rossini",
     "LOCALITA'": "DESIO",
     "FG": "53",
-    "MAPPALE": "203p",
+    "MAPPALE": "203",
     "SUB": null
   },
   {
@@ -9357,7 +9357,7 @@
     "INDIRIZZO": "Prati",
     "LOCALITA'": "DESIO",
     "FG": "53",
-    "MAPPALE": "228p",
+    "MAPPALE": "228",
     "SUB": null
   },
   {
@@ -9379,7 +9379,7 @@
     "INDIRIZZO": "Caduti di Nassirya",
     "LOCALITA'": "DESIO",
     "FG": "53",
-    "MAPPALE": "270p",
+    "MAPPALE": "270",
     "SUB": null
   },
   {
@@ -9390,7 +9390,7 @@
     "INDIRIZZO": "Caduti di Nassirya",
     "LOCALITA'": "DESIO",
     "FG": "53",
-    "MAPPALE": "270p",
+    "MAPPALE": "270",
     "SUB": null
   },
   {
@@ -9401,7 +9401,7 @@
     "INDIRIZZO": "Caduti di Nassirya",
     "LOCALITA'": "DESIO",
     "FG": "53",
-    "MAPPALE": "272p",
+    "MAPPALE": "272",
     "SUB": null
   },
   {
@@ -9412,7 +9412,7 @@
     "INDIRIZZO": "Caduti di Nassirya",
     "LOCALITA'": "DESIO",
     "FG": "53",
-    "MAPPALE": "272p",
+    "MAPPALE": "272",
     "SUB": null
   },
   {
@@ -9434,7 +9434,7 @@
     "INDIRIZZO": "Togliatti",
     "LOCALITA'": "DESIO",
     "FG": "53",
-    "MAPPALE": "279p",
+    "MAPPALE": "279",
     "SUB": null
   },
   {
@@ -9467,7 +9467,7 @@
     "INDIRIZZO": "Togliatti",
     "LOCALITA'": "DESIO",
     "FG": "53",
-    "MAPPALE": "277p",
+    "MAPPALE": "277",
     "SUB": null
   },
   {
@@ -9599,7 +9599,7 @@
     "INDIRIZZO": "Novati",
     "LOCALITA'": "DESIO",
     "FG": "54",
-    "MAPPALE": "235p",
+    "MAPPALE": "235",
     "SUB": null
   },
   {
@@ -9665,7 +9665,7 @@
     "INDIRIZZO": "Degli Artigiani",
     "LOCALITA'": "DESIO",
     "FG": "59",
-    "MAPPALE": "027",
+    "MAPPALE": "27",
     "SUB": null
   },
   {
@@ -9676,7 +9676,7 @@
     "INDIRIZZO": "Degli Artigiani",
     "LOCALITA'": "DESIO",
     "FG": "59",
-    "MAPPALE": "028",
+    "MAPPALE": "28",
     "SUB": null
   },
   {
@@ -9687,7 +9687,7 @@
     "INDIRIZZO": "Degli Artigiani",
     "LOCALITA'": "DESIO",
     "FG": "59",
-    "MAPPALE": "029",
+    "MAPPALE": "29",
     "SUB": null
   },
   {
@@ -9698,7 +9698,7 @@
     "INDIRIZZO": "Degli Artigiani",
     "LOCALITA'": "DESIO",
     "FG": "59",
-    "MAPPALE": "030",
+    "MAPPALE": "30",
     "SUB": null
   },
   {
@@ -9709,7 +9709,7 @@
     "INDIRIZZO": "Degli Artigiani",
     "LOCALITA'": "DESIO",
     "FG": "59",
-    "MAPPALE": "032",
+    "MAPPALE": "32",
     "SUB": null
   },
   {
@@ -9720,7 +9720,7 @@
     "INDIRIZZO": "Degli Artigiani",
     "LOCALITA'": "DESIO",
     "FG": "59",
-    "MAPPALE": "033",
+    "MAPPALE": "33",
     "SUB": null
   },
   {
@@ -9731,7 +9731,7 @@
     "INDIRIZZO": "Degli Artigiani",
     "LOCALITA'": "DESIO",
     "FG": "59",
-    "MAPPALE": "035",
+    "MAPPALE": "35",
     "SUB": null
   },
   {
@@ -9742,7 +9742,7 @@
     "INDIRIZZO": "Degli Artigiani",
     "LOCALITA'": "DESIO",
     "FG": "59",
-    "MAPPALE": "036",
+    "MAPPALE": "36",
     "SUB": null
   },
   {
@@ -9753,7 +9753,7 @@
     "INDIRIZZO": "Degli Artigiani",
     "LOCALITA'": "DESIO",
     "FG": "59",
-    "MAPPALE": "037",
+    "MAPPALE": "37",
     "SUB": null
   },
   {
@@ -9764,7 +9764,7 @@
     "INDIRIZZO": "Degli Artigiani",
     "LOCALITA'": "DESIO",
     "FG": "59",
-    "MAPPALE": "039",
+    "MAPPALE": "39",
     "SUB": null
   },
   {
@@ -9775,7 +9775,7 @@
     "INDIRIZZO": "Degli Artigiani",
     "LOCALITA'": "DESIO",
     "FG": "59",
-    "MAPPALE": "040",
+    "MAPPALE": "40",
     "SUB": null
   },
   {
@@ -9786,7 +9786,7 @@
     "INDIRIZZO": "Degli Artigiani",
     "LOCALITA'": "DESIO",
     "FG": "59",
-    "MAPPALE": "041",
+    "MAPPALE": "41",
     "SUB": null
   },
   {
@@ -9797,7 +9797,7 @@
     "INDIRIZZO": "Degli Artigiani",
     "LOCALITA'": "DESIO",
     "FG": "59",
-    "MAPPALE": "042",
+    "MAPPALE": "42",
     "SUB": null
   },
   {
@@ -9808,7 +9808,7 @@
     "INDIRIZZO": "Degli Artigiani",
     "LOCALITA'": "DESIO",
     "FG": "59",
-    "MAPPALE": "043",
+    "MAPPALE": "43",
     "SUB": null
   },
   {
@@ -9819,7 +9819,7 @@
     "INDIRIZZO": "Degli Artigiani",
     "LOCALITA'": "DESIO",
     "FG": "59",
-    "MAPPALE": "044",
+    "MAPPALE": "44",
     "SUB": null
   },
   {
@@ -9830,7 +9830,7 @@
     "INDIRIZZO": "Degli Artigiani",
     "LOCALITA'": "DESIO",
     "FG": "59",
-    "MAPPALE": "045",
+    "MAPPALE": "45",
     "SUB": null
   },
   {
@@ -9841,7 +9841,7 @@
     "INDIRIZZO": "Degli Artigiani",
     "LOCALITA'": "DESIO",
     "FG": "59",
-    "MAPPALE": "047",
+    "MAPPALE": "47",
     "SUB": null
   },
   {
@@ -9852,7 +9852,7 @@
     "INDIRIZZO": "Degli Artigiani",
     "LOCALITA'": "DESIO",
     "FG": "59",
-    "MAPPALE": "049",
+    "MAPPALE": "49",
     "SUB": null
   },
   {
@@ -9863,7 +9863,7 @@
     "INDIRIZZO": "Degli Artigiani",
     "LOCALITA'": "DESIO",
     "FG": "59",
-    "MAPPALE": "061",
+    "MAPPALE": "61",
     "SUB": null
   },
   {
@@ -9874,7 +9874,7 @@
     "INDIRIZZO": "Degli Artigiani",
     "LOCALITA'": "DESIO",
     "FG": "59",
-    "MAPPALE": "062",
+    "MAPPALE": "62",
     "SUB": null
   },
   {
@@ -9885,7 +9885,7 @@
     "INDIRIZZO": "Degli Artigiani",
     "LOCALITA'": "DESIO",
     "FG": "59",
-    "MAPPALE": "064",
+    "MAPPALE": "64",
     "SUB": null
   },
   {
@@ -9896,7 +9896,7 @@
     "INDIRIZZO": "Degli Artigiani",
     "LOCALITA'": "DESIO",
     "FG": "59",
-    "MAPPALE": "065",
+    "MAPPALE": "65",
     "SUB": null
   },
   {
@@ -9907,7 +9907,7 @@
     "INDIRIZZO": "Degli Artigiani",
     "LOCALITA'": "DESIO",
     "FG": "59",
-    "MAPPALE": "067p",
+    "MAPPALE": "67",
     "SUB": null
   },
   {
@@ -9929,7 +9929,7 @@
     "INDIRIZZO": "Ambrosoli",
     "LOCALITA'": "DESIO",
     "FG": "60",
-    "MAPPALE": "012",
+    "MAPPALE": "12",
     "SUB": null
   },
   {
@@ -9940,7 +9940,7 @@
     "INDIRIZZO": "Oslavia",
     "LOCALITA'": "DESIO",
     "FG": "60",
-    "MAPPALE": "063",
+    "MAPPALE": "63",
     "SUB": null
   },
   {
@@ -9973,7 +9973,7 @@
     "INDIRIZZO": "Togliatti",
     "LOCALITA'": "DESIO",
     "FG": "62",
-    "MAPPALE": "008",
+    "MAPPALE": "8",
     "SUB": null
   },
   {
@@ -9984,7 +9984,7 @@
     "INDIRIZZO": "Einaudi",
     "LOCALITA'": "DESIO",
     "FG": "62",
-    "MAPPALE": "085",
+    "MAPPALE": "85",
     "SUB": null
   },
   {
@@ -9995,7 +9995,7 @@
     "INDIRIZZO": "Ambrosoli",
     "LOCALITA'": "DESIO",
     "FG": "62",
-    "MAPPALE": "092",
+    "MAPPALE": "92",
     "SUB": null
   },
   {
@@ -10006,7 +10006,7 @@
     "INDIRIZZO": "Ambrosoli",
     "LOCALITA'": "DESIO",
     "FG": "62",
-    "MAPPALE": "130p",
+    "MAPPALE": "130",
     "SUB": null
   },
   {
@@ -10028,7 +10028,7 @@
     "INDIRIZZO": "Roma",
     "LOCALITA'": "DESIO",
     "FG": "54",
-    "MAPPALE": "162p",
+    "MAPPALE": "162",
     "SUB": null
   },
   {
@@ -10071,7 +10071,7 @@
     "DESCRIZIONE": "verde pubblico",
     "INDIRIZZO": "Mulino Arese",
     "LOCALITA'": "DESIO",
-    "FG": "08",
+    "FG": "8",
     "MAPPALE": "405",
     "SUB": null
   },
@@ -10105,7 +10105,7 @@
     "INDIRIZZO": "Molinara",
     "LOCALITA'": "DESIO",
     "FG": "28",
-    "MAPPALE": "151p",
+    "MAPPALE": "151",
     "SUB": null
   },
   {
@@ -10149,7 +10149,7 @@
     "INDIRIZZO": "Schipa",
     "LOCALITA'": "DESIO",
     "FG": "52",
-    "MAPPALE": "185p",
+    "MAPPALE": "185",
     "SUB": null
   },
   {
@@ -10182,7 +10182,7 @@
     "INDIRIZZO": "Caduti di Nassirya",
     "LOCALITA'": "DESIO",
     "FG": "53",
-    "MAPPALE": "270p",
+    "MAPPALE": "270",
     "SUB": null
   },
   {
@@ -10193,7 +10193,7 @@
     "INDIRIZZO": "Togliatti",
     "LOCALITA'": "DESIO",
     "FG": "53",
-    "MAPPALE": "271p",
+    "MAPPALE": "271",
     "SUB": null
   },
   {
@@ -10215,7 +10215,7 @@
     "INDIRIZZO": "Ambrosoli",
     "LOCALITA'": "DESIO",
     "FG": "62",
-    "MAPPALE": "131p",
+    "MAPPALE": "131",
     "SUB": null
   },
   {
@@ -10226,7 +10226,7 @@
     "INDIRIZZO": "Ambrosoli",
     "LOCALITA'": "DESIO",
     "FG": "62",
-    "MAPPALE": "130p",
+    "MAPPALE": "130",
     "SUB": null
   },
   {
@@ -10269,8 +10269,8 @@
     "DESCRIZIONE": "verde pubblico",
     "INDIRIZZO": "Garibaldi",
     "LOCALITA'": "DESIO",
-    "FG": "01",
-    "MAPPALE": "081",
+    "FG": "1",
+    "MAPPALE": "81",
     "SUB": null
   },
   {
@@ -10280,8 +10280,8 @@
     "DESCRIZIONE": "area agricola",
     "INDIRIZZO": "Comunale dei Boschi verso Cesano",
     "LOCALITA'": "DESIO",
-    "FG": "01",
-    "MAPPALE": "081",
+    "FG": "1",
+    "MAPPALE": "81",
     "SUB": null
   },
   {
@@ -10291,7 +10291,7 @@
     "DESCRIZIONE": "area agricola",
     "INDIRIZZO": "Cassinetta",
     "LOCALITA'": "DESIO",
-    "FG": "02",
+    "FG": "2",
     "MAPPALE": "115",
     "SUB": null
   },
@@ -10302,8 +10302,8 @@
     "DESCRIZIONE": "porzione mappale a residenza",
     "INDIRIZZO": "Lucinico",
     "LOCALITA'": "DESIO",
-    "FG": "02",
-    "MAPPALE": "312p",
+    "FG": "2",
+    "MAPPALE": "312",
     "SUB": null
   },
   {
@@ -10313,7 +10313,7 @@
     "DESCRIZIONE": "area agricola",
     "INDIRIZZO": "Comunale di San Carlo",
     "LOCALITA'": "DESIO",
-    "FG": "02",
+    "FG": "2",
     "MAPPALE": "281",
     "SUB": null
   },
@@ -10324,7 +10324,7 @@
     "DESCRIZIONE": "area agricola",
     "INDIRIZZO": "Cassinetta",
     "LOCALITA'": "DESIO",
-    "FG": "02",
+    "FG": "2",
     "MAPPALE": "324",
     "SUB": null
   },
@@ -10335,8 +10335,8 @@
     "DESCRIZIONE": "residenziale",
     "INDIRIZZO": "Olimpiadi",
     "LOCALITA'": "DESIO",
-    "FG": "02",
-    "MAPPALE": "325p",
+    "FG": "2",
+    "MAPPALE": "325",
     "SUB": null
   },
   {
@@ -10346,7 +10346,7 @@
     "DESCRIZIONE": "residenziale",
     "INDIRIZZO": "Dei Pulora",
     "LOCALITA'": "DESIO",
-    "FG": "02",
+    "FG": "2",
     "MAPPALE": "272",
     "SUB": null
   },
@@ -10357,8 +10357,8 @@
     "DESCRIZIONE": "area agricola",
     "INDIRIZZO": "Comunale dei Boschi verso Cesano",
     "LOCALITA'": "DESIO",
-    "FG": "03",
-    "MAPPALE": "008",
+    "FG": "3",
+    "MAPPALE": "8",
     "SUB": null
   },
   {
@@ -10368,7 +10368,7 @@
     "DESCRIZIONE": "area agricola",
     "INDIRIZZO": "Olimpiadi",
     "LOCALITA'": "DESIO",
-    "FG": "03",
+    "FG": "3",
     "MAPPALE": "144",
     "SUB": null
   },
@@ -10379,7 +10379,7 @@
     "DESCRIZIONE": "area agricola",
     "INDIRIZZO": "Mazzini",
     "LOCALITA'": "DESIO",
-    "FG": "03",
+    "FG": "3",
     "MAPPALE": "275",
     "SUB": null
   },
@@ -10390,7 +10390,7 @@
     "DESCRIZIONE": "parcheggio in sede protetta",
     "INDIRIZZO": "per Binzago",
     "LOCALITA'": "DESIO",
-    "FG": "08",
+    "FG": "8",
     "MAPPALE": "268",
     "SUB": null
   },
@@ -10401,7 +10401,7 @@
     "DESCRIZIONE": "area agricola",
     "INDIRIZZO": "Dalla Chiesa",
     "LOCALITA'": "DESIO",
-    "FG": "04",
+    "FG": "4",
     "MAPPALE": "111",
     "SUB": null
   },
@@ -10412,7 +10412,7 @@
     "DESCRIZIONE": "area agricola",
     "INDIRIZZO": "Dalla Chiesa",
     "LOCALITA'": "DESIO",
-    "FG": "04",
+    "FG": "4",
     "MAPPALE": "240",
     "SUB": null
   },
@@ -10423,7 +10423,7 @@
     "DESCRIZIONE": "area agricola",
     "INDIRIZZO": "Dalla Chiesa",
     "LOCALITA'": "DESIO",
-    "FG": "04",
+    "FG": "4",
     "MAPPALE": "253",
     "SUB": null
   },
@@ -10434,7 +10434,7 @@
     "DESCRIZIONE": "area agricola",
     "INDIRIZZO": "Dalla Chiesa",
     "LOCALITA'": "DESIO",
-    "FG": "04",
+    "FG": "4",
     "MAPPALE": "257",
     "SUB": null
   },
@@ -10445,7 +10445,7 @@
     "DESCRIZIONE": "area agricola",
     "INDIRIZZO": "Dalla Chiesa",
     "LOCALITA'": "DESIO",
-    "FG": "04",
+    "FG": "4",
     "MAPPALE": "283",
     "SUB": null
   },
@@ -10456,7 +10456,7 @@
     "DESCRIZIONE": "residenziale (parcheggio)",
     "INDIRIZZO": "Don Carlo Gnocchi",
     "LOCALITA'": "DESIO",
-    "FG": "04",
+    "FG": "4",
     "MAPPALE": "298",
     "SUB": null
   },
@@ -10467,7 +10467,7 @@
     "DESCRIZIONE": "area agricola",
     "INDIRIZZO": "Rossa Giudo",
     "LOCALITA'": "DESIO",
-    "FG": "05",
+    "FG": "5",
     "MAPPALE": "290",
     "SUB": null
   },
@@ -10478,8 +10478,8 @@
     "DESCRIZIONE": "porzione mappale a residenza",
     "INDIRIZZO": "Mulino Arese",
     "LOCALITA'": "DESIO",
-    "FG": "08",
-    "MAPPALE": "342p",
+    "FG": "8",
+    "MAPPALE": "342",
     "SUB": null
   },
   {
@@ -10489,7 +10489,7 @@
     "DESCRIZIONE": "residenziale",
     "INDIRIZZO": "per Cesano",
     "LOCALITA'": "DESIO",
-    "FG": "09",
+    "FG": "9",
     "MAPPALE": "359",
     "SUB": null
   },
@@ -10500,7 +10500,7 @@
     "DESCRIZIONE": "residenziale",
     "INDIRIZZO": "per Cesano",
     "LOCALITA'": "DESIO",
-    "FG": "09",
+    "FG": "9",
     "MAPPALE": "368",
     "SUB": null
   },
@@ -10511,7 +10511,7 @@
     "DESCRIZIONE": "residenziale",
     "INDIRIZZO": "per Cesano",
     "LOCALITA'": "DESIO",
-    "FG": "09",
+    "FG": "9",
     "MAPPALE": "369",
     "SUB": null
   },
@@ -10522,7 +10522,7 @@
     "DESCRIZIONE": "residenziale",
     "INDIRIZZO": "Gentile Giovanni",
     "LOCALITA'": "DESIO",
-    "FG": "09",
+    "FG": "9",
     "MAPPALE": "383",
     "SUB": null
   },
@@ -10556,7 +10556,7 @@
     "INDIRIZZO": "Fermi",
     "LOCALITA'": "DESIO",
     "FG": "11",
-    "MAPPALE": "203p",
+    "MAPPALE": "203",
     "SUB": null
   },
   {
@@ -10567,7 +10567,7 @@
     "INDIRIZZO": "Gabellini",
     "LOCALITA'": "DESIO",
     "FG": "11",
-    "MAPPALE": "614p",
+    "MAPPALE": "614",
     "SUB": null
   },
   {
@@ -10578,7 +10578,7 @@
     "INDIRIZZO": "Milano",
     "LOCALITA'": "DESIO",
     "FG": "12",
-    "MAPPALE": "351p",
+    "MAPPALE": "351",
     "SUB": null
   },
   {
@@ -10589,7 +10589,7 @@
     "INDIRIZZO": "Milano",
     "LOCALITA'": "DESIO",
     "FG": "12",
-    "MAPPALE": "353p",
+    "MAPPALE": "353",
     "SUB": null
   },
   {
@@ -10600,7 +10600,7 @@
     "INDIRIZZO": "Milano",
     "LOCALITA'": "DESIO",
     "FG": "12",
-    "MAPPALE": "354p",
+    "MAPPALE": "354",
     "SUB": null
   },
   {
@@ -10611,7 +10611,7 @@
     "INDIRIZZO": "Statale 36",
     "LOCALITA'": "DESIO",
     "FG": "15",
-    "MAPPALE": "044",
+    "MAPPALE": "44",
     "SUB": null
   },
   {
@@ -10622,7 +10622,7 @@
     "INDIRIZZO": "Statale 36",
     "LOCALITA'": "DESIO",
     "FG": "15",
-    "MAPPALE": "046",
+    "MAPPALE": "46",
     "SUB": null
   },
   {
@@ -10633,7 +10633,7 @@
     "INDIRIZZO": "per Seregno",
     "LOCALITA'": "DESIO",
     "FG": "17",
-    "MAPPALE": "085",
+    "MAPPALE": "85",
     "SUB": null
   },
   {
@@ -10644,7 +10644,7 @@
     "INDIRIZZO": "per Seregno",
     "LOCALITA'": "DESIO",
     "FG": "17",
-    "MAPPALE": "092p",
+    "MAPPALE": "92",
     "SUB": null
   },
   {
@@ -10655,7 +10655,7 @@
     "INDIRIZZO": "vicinale dei Boschi",
     "LOCALITA'": "DESIO",
     "FG": "18",
-    "MAPPALE": "004p",
+    "MAPPALE": "4",
     "SUB": null
   },
   {
@@ -10665,8 +10665,8 @@
     "DESCRIZIONE": "area agricola",
     "INDIRIZZO": "Comunale dei Boschi verso Cesano",
     "LOCALITA'": "DESIO",
-    "FG": "01",
-    "MAPPALE": "081",
+    "FG": "1",
+    "MAPPALE": "81",
     "SUB": null
   },
   {
@@ -10677,7 +10677,7 @@
     "INDIRIZZO": "vicinale dei Boschi",
     "LOCALITA'": "DESIO",
     "FG": "18",
-    "MAPPALE": "018",
+    "MAPPALE": "18",
     "SUB": null
   },
   {
@@ -10688,7 +10688,7 @@
     "INDIRIZZO": "dei Boschi",
     "LOCALITA'": "DESIO",
     "FG": "18",
-    "MAPPALE": "059",
+    "MAPPALE": "59",
     "SUB": null
   },
   {
@@ -10699,7 +10699,7 @@
     "INDIRIZZO": "dei Boschi",
     "LOCALITA'": "DESIO",
     "FG": "18",
-    "MAPPALE": "060",
+    "MAPPALE": "60",
     "SUB": null
   },
   {
@@ -10710,7 +10710,7 @@
     "INDIRIZZO": "dei Boschi",
     "LOCALITA'": "DESIO",
     "FG": "18",
-    "MAPPALE": "061",
+    "MAPPALE": "61",
     "SUB": null
   },
   {
@@ -10721,7 +10721,7 @@
     "INDIRIZZO": "dei Boschi",
     "LOCALITA'": "DESIO",
     "FG": "18",
-    "MAPPALE": "062",
+    "MAPPALE": "62",
     "SUB": null
   },
   {
@@ -10732,7 +10732,7 @@
     "INDIRIZZO": "dei Boschi",
     "LOCALITA'": "DESIO",
     "FG": "18",
-    "MAPPALE": "063",
+    "MAPPALE": "63",
     "SUB": null
   },
   {
@@ -10743,7 +10743,7 @@
     "INDIRIZZO": "Risorgimento",
     "LOCALITA'": "DESIO",
     "FG": "18",
-    "MAPPALE": "069",
+    "MAPPALE": "69",
     "SUB": null
   },
   {
@@ -10754,7 +10754,7 @@
     "INDIRIZZO": "vicinale dei Boschi",
     "LOCALITA'": "DESIO",
     "FG": "18",
-    "MAPPALE": "097",
+    "MAPPALE": "97",
     "SUB": null
   },
   {
@@ -10765,7 +10765,7 @@
     "INDIRIZZO": "vicinale dei Boschi",
     "LOCALITA'": "DESIO",
     "FG": "18",
-    "MAPPALE": "098",
+    "MAPPALE": "98",
     "SUB": null
   },
   {
@@ -10776,7 +10776,7 @@
     "INDIRIZZO": "vicinale dei Boschi",
     "LOCALITA'": "DESIO",
     "FG": "19",
-    "MAPPALE": "011",
+    "MAPPALE": "11",
     "SUB": null
   },
   {
@@ -10875,7 +10875,7 @@
     "INDIRIZZO": "per Binzago",
     "LOCALITA'": "DESIO",
     "FG": "20",
-    "MAPPALE": "221p",
+    "MAPPALE": "221",
     "SUB": null
   },
   {
@@ -10886,7 +10886,7 @@
     "INDIRIZZO": "per Binzago",
     "LOCALITA'": "DESIO",
     "FG": "20",
-    "MAPPALE": "224p",
+    "MAPPALE": "224",
     "SUB": null
   },
   {
@@ -10897,7 +10897,7 @@
     "INDIRIZZO": "per Binzago",
     "LOCALITA'": "DESIO",
     "FG": "20",
-    "MAPPALE": "229p",
+    "MAPPALE": "229",
     "SUB": null
   },
   {
@@ -10908,7 +10908,7 @@
     "INDIRIZZO": "per Binzago",
     "LOCALITA'": "DESIO",
     "FG": "20",
-    "MAPPALE": "240p",
+    "MAPPALE": "240",
     "SUB": null
   },
   {
@@ -11073,7 +11073,7 @@
     "INDIRIZZO": "Carso",
     "LOCALITA'": "DESIO",
     "FG": "22",
-    "MAPPALE": "496p",
+    "MAPPALE": "496",
     "SUB": null
   },
   {
@@ -11084,7 +11084,7 @@
     "INDIRIZZO": "Italia",
     "LOCALITA'": "DESIO",
     "FG": "23",
-    "MAPPALE": "336p",
+    "MAPPALE": "336",
     "SUB": null
   },
   {
@@ -11117,7 +11117,7 @@
     "INDIRIZZO": "Volta Alessandro",
     "LOCALITA'": "DESIO",
     "FG": "25",
-    "MAPPALE": "422p",
+    "MAPPALE": "422",
     "SUB": null
   },
   {
@@ -11271,7 +11271,7 @@
     "INDIRIZZO": "Bassi",
     "LOCALITA'": "DESIO",
     "FG": "30",
-    "MAPPALE": "010",
+    "MAPPALE": "10",
     "SUB": null
   },
   {
@@ -11293,7 +11293,7 @@
     "INDIRIZZO": "Bassi",
     "LOCALITA'": "DESIO",
     "FG": "30",
-    "MAPPALE": "010",
+    "MAPPALE": "10",
     "SUB": null
   },
   {
@@ -11348,7 +11348,7 @@
     "INDIRIZZO": "Comunale di Masciago",
     "LOCALITA'": "DESIO",
     "FG": "31",
-    "MAPPALE": "026",
+    "MAPPALE": "26",
     "SUB": null
   },
   {
@@ -11359,7 +11359,7 @@
     "INDIRIZZO": "Comunale di Masciago",
     "LOCALITA'": "DESIO",
     "FG": "31",
-    "MAPPALE": "027",
+    "MAPPALE": "27",
     "SUB": null
   },
   {
@@ -11370,7 +11370,7 @@
     "INDIRIZZO": "Comunale di Masciago",
     "LOCALITA'": "DESIO",
     "FG": "31",
-    "MAPPALE": "029",
+    "MAPPALE": "29",
     "SUB": null
   },
   {
@@ -11381,7 +11381,7 @@
     "INDIRIZZO": "Comunale di Masciago",
     "LOCALITA'": "DESIO",
     "FG": "31",
-    "MAPPALE": "030",
+    "MAPPALE": "30",
     "SUB": null
   },
   {
@@ -11392,7 +11392,7 @@
     "INDIRIZZO": "Comunale di Masciago",
     "LOCALITA'": "DESIO",
     "FG": "31",
-    "MAPPALE": "031",
+    "MAPPALE": "31",
     "SUB": null
   },
   {
@@ -11403,7 +11403,7 @@
     "INDIRIZZO": "Comunale di Masciago",
     "LOCALITA'": "DESIO",
     "FG": "31",
-    "MAPPALE": "032",
+    "MAPPALE": "32",
     "SUB": null
   },
   {
@@ -11414,7 +11414,7 @@
     "INDIRIZZO": "Comunale di Masciago",
     "LOCALITA'": "DESIO",
     "FG": "31",
-    "MAPPALE": "034",
+    "MAPPALE": "34",
     "SUB": null
   },
   {
@@ -11425,7 +11425,7 @@
     "INDIRIZZO": "Comunale di Masciago",
     "LOCALITA'": "DESIO",
     "FG": "31",
-    "MAPPALE": "047",
+    "MAPPALE": "47",
     "SUB": null
   },
   {
@@ -11436,7 +11436,7 @@
     "INDIRIZZO": "Comunale di Masciago",
     "LOCALITA'": "DESIO",
     "FG": "31",
-    "MAPPALE": "073",
+    "MAPPALE": "73",
     "SUB": null
   },
   {
@@ -11579,7 +11579,7 @@
     "INDIRIZZO": "Milano",
     "LOCALITA'": "DESIO",
     "FG": "35",
-    "MAPPALE": "263p",
+    "MAPPALE": "263",
     "SUB": null
   },
   {
@@ -11590,7 +11590,7 @@
     "INDIRIZZO": "Rovagnati",
     "LOCALITA'": "DESIO",
     "FG": "35",
-    "MAPPALE": "292p",
+    "MAPPALE": "292",
     "SUB": null
   },
   {
@@ -11634,7 +11634,7 @@
     "INDIRIZZO": "Milano",
     "LOCALITA'": "DESIO",
     "FG": "36",
-    "MAPPALE": "426p",
+    "MAPPALE": "426",
     "SUB": null
   },
   {
@@ -11700,7 +11700,7 @@
     "INDIRIZZO": "dei Tigli",
     "LOCALITA'": "DESIO",
     "FG": "38",
-    "MAPPALE": "380p",
+    "MAPPALE": "380",
     "SUB": null
   },
   {
@@ -11766,7 +11766,7 @@
     "INDIRIZZO": "Comunale di San Giorgio",
     "LOCALITA'": "DESIO",
     "FG": "41",
-    "MAPPALE": "243p",
+    "MAPPALE": "243",
     "SUB": null
   },
   {
@@ -11788,7 +11788,7 @@
     "INDIRIZZO": "Bramante",
     "LOCALITA'": "DESIO",
     "FG": "42",
-    "MAPPALE": "003p",
+    "MAPPALE": "3",
     "SUB": null
   },
   {
@@ -11799,7 +11799,7 @@
     "INDIRIZZO": "Comunale della Baraggiola",
     "LOCALITA'": "DESIO",
     "FG": "42",
-    "MAPPALE": "081",
+    "MAPPALE": "81",
     "SUB": null
   },
   {
@@ -11821,7 +11821,7 @@
     "INDIRIZZO": "Comunale della Baraggiola",
     "LOCALITA'": "DESIO",
     "FG": "42",
-    "MAPPALE": "083",
+    "MAPPALE": "83",
     "SUB": null
   },
   {
@@ -11865,7 +11865,7 @@
     "INDIRIZZO": "Michelini",
     "LOCALITA'": "DESIO",
     "FG": "43",
-    "MAPPALE": "350p",
+    "MAPPALE": "350",
     "SUB": null
   },
   {
@@ -11876,7 +11876,7 @@
     "INDIRIZZO": "Canaletto",
     "LOCALITA'": "DESIO",
     "FG": "43",
-    "MAPPALE": "326p",
+    "MAPPALE": "326",
     "SUB": null
   },
   {
@@ -11898,7 +11898,7 @@
     "INDIRIZZO": "Dell'Industria",
     "LOCALITA'": "DESIO",
     "FG": "44",
-    "MAPPALE": "020",
+    "MAPPALE": "20",
     "SUB": null
   },
   {
@@ -11909,7 +11909,7 @@
     "INDIRIZZO": "Agnesi Gaetana",
     "LOCALITA'": "DESIO",
     "FG": "44",
-    "MAPPALE": "069",
+    "MAPPALE": "69",
     "SUB": null
   },
   {
@@ -11931,7 +11931,7 @@
     "INDIRIZZO": "Dell'Industria",
     "LOCALITA'": "DESIO",
     "FG": "44",
-    "MAPPALE": "107p",
+    "MAPPALE": "107",
     "SUB": null
   },
   {
@@ -12052,7 +12052,7 @@
     "INDIRIZZO": "Monselice",
     "LOCALITA'": "DESIO",
     "FG": "46",
-    "MAPPALE": "244p",
+    "MAPPALE": "244",
     "SUB": null
   },
   {
@@ -12085,7 +12085,7 @@
     "INDIRIZZO": "Sciascia",
     "LOCALITA'": "DESIO",
     "FG": "47",
-    "MAPPALE": "137p",
+    "MAPPALE": "137",
     "SUB": null
   },
   {
@@ -12107,7 +12107,7 @@
     "INDIRIZZO": "Cattaneo Carlo",
     "LOCALITA'": "DESIO",
     "FG": "47",
-    "MAPPALE": "044",
+    "MAPPALE": "44",
     "SUB": null
   },
   {
@@ -12162,7 +12162,7 @@
     "INDIRIZZO": "Santa Gianna Beretta Molla",
     "LOCALITA'": "DESIO",
     "FG": "48",
-    "MAPPALE": "351p",
+    "MAPPALE": "351",
     "SUB": null
   },
   {
@@ -12173,7 +12173,7 @@
     "INDIRIZZO": "Santa Gianna Beretta Molla",
     "LOCALITA'": "DESIO",
     "FG": "48",
-    "MAPPALE": "349p",
+    "MAPPALE": "349",
     "SUB": null
   },
   {
@@ -12184,7 +12184,7 @@
     "INDIRIZZO": "Sabotino",
     "LOCALITA'": "DESIO",
     "FG": "48",
-    "MAPPALE": "363p",
+    "MAPPALE": "363",
     "SUB": null
   },
   {
@@ -12217,7 +12217,7 @@
     "INDIRIZZO": "Carroccio",
     "LOCALITA'": "DESIO",
     "FG": "48",
-    "MAPPALE": "084",
+    "MAPPALE": "84",
     "SUB": null
   },
   {
@@ -12316,7 +12316,7 @@
     "INDIRIZZO": "Sciesa",
     "LOCALITA'": "DESIO",
     "FG": "51",
-    "MAPPALE": "349p",
+    "MAPPALE": "349",
     "SUB": null
   },
   {
@@ -12327,7 +12327,7 @@
     "INDIRIZZO": "Sciesa",
     "LOCALITA'": "DESIO",
     "FG": "51",
-    "MAPPALE": "350p",
+    "MAPPALE": "350",
     "SUB": null
   },
   {
@@ -12338,7 +12338,7 @@
     "INDIRIZZO": "Canova",
     "LOCALITA'": "DESIO",
     "FG": "51",
-    "MAPPALE": "395p",
+    "MAPPALE": "395",
     "SUB": null
   },
   {
@@ -12481,7 +12481,7 @@
     "INDIRIZZO": "Prati",
     "LOCALITA'": "DESIO",
     "FG": "53",
-    "MAPPALE": "228p",
+    "MAPPALE": "228",
     "SUB": null
   },
   {
@@ -12492,7 +12492,7 @@
     "INDIRIZZO": "Caduti di Nassirya",
     "LOCALITA'": "DESIO",
     "FG": "53",
-    "MAPPALE": "240p",
+    "MAPPALE": "240",
     "SUB": null
   },
   {
@@ -12514,7 +12514,7 @@
     "INDIRIZZO": "Caduti di Nassirya",
     "LOCALITA'": "DESIO",
     "FG": "53",
-    "MAPPALE": "270p",
+    "MAPPALE": "270",
     "SUB": null
   },
   {
@@ -12525,7 +12525,7 @@
     "INDIRIZZO": "Togliatti",
     "LOCALITA'": "DESIO",
     "FG": "53",
-    "MAPPALE": "271p",
+    "MAPPALE": "271",
     "SUB": null
   },
   {
@@ -12536,7 +12536,7 @@
     "INDIRIZZO": "Caduti di Nassirya",
     "LOCALITA'": "DESIO",
     "FG": "53",
-    "MAPPALE": "272p",
+    "MAPPALE": "272",
     "SUB": null
   },
   {
@@ -12558,7 +12558,7 @@
     "INDIRIZZO": "Togliatti",
     "LOCALITA'": "DESIO",
     "FG": "53",
-    "MAPPALE": "279p",
+    "MAPPALE": "279",
     "SUB": null
   },
   {
@@ -12569,7 +12569,7 @@
     "INDIRIZZO": "Togliatti",
     "LOCALITA'": "DESIO",
     "FG": "53",
-    "MAPPALE": "277p",
+    "MAPPALE": "277",
     "SUB": null
   },
   {
@@ -12580,7 +12580,7 @@
     "INDIRIZZO": "Milano",
     "LOCALITA'": "DESIO",
     "FG": "50",
-    "MAPPALE": "198p",
+    "MAPPALE": "198",
     "SUB": null
   },
   {
@@ -12591,7 +12591,7 @@
     "INDIRIZZO": "Del Guado",
     "LOCALITA'": "DESIO",
     "FG": "54",
-    "MAPPALE": "156p",
+    "MAPPALE": "156",
     "SUB": null
   },
   {
@@ -12646,7 +12646,7 @@
     "INDIRIZZO": "Novati",
     "LOCALITA'": "DESIO",
     "FG": "54",
-    "MAPPALE": "235p",
+    "MAPPALE": "235",
     "SUB": null
   },
   {
@@ -12701,7 +12701,7 @@
     "INDIRIZZO": "Del Guado",
     "LOCALITA'": "DESIO",
     "FG": "54",
-    "MAPPALE": "212p",
+    "MAPPALE": "212",
     "SUB": null
   },
   {
@@ -12712,7 +12712,7 @@
     "INDIRIZZO": "Degli Artigiani",
     "LOCALITA'": "DESIO",
     "FG": "60",
-    "MAPPALE": "048",
+    "MAPPALE": "48",
     "SUB": null
   },
   {
@@ -12745,7 +12745,7 @@
     "INDIRIZZO": "Einaudi",
     "LOCALITA'": "DESIO",
     "FG": "62",
-    "MAPPALE": "087",
+    "MAPPALE": "87",
     "SUB": null
   },
   {
@@ -12756,7 +12756,7 @@
     "INDIRIZZO": "Einaudi",
     "LOCALITA'": "DESIO",
     "FG": "62",
-    "MAPPALE": "088",
+    "MAPPALE": "88",
     "SUB": null
   },
   {
@@ -12767,7 +12767,7 @@
     "INDIRIZZO": "Einaudi",
     "LOCALITA'": "DESIO",
     "FG": "62",
-    "MAPPALE": "091",
+    "MAPPALE": "91",
     "SUB": null
   },
   {
@@ -12778,7 +12778,7 @@
     "INDIRIZZO": "Einaudi",
     "LOCALITA'": "DESIO",
     "FG": "62",
-    "MAPPALE": "098",
+    "MAPPALE": "98",
     "SUB": null
   },
   {
@@ -12833,7 +12833,7 @@
     "INDIRIZZO": "Ambrosoli",
     "LOCALITA'": "DESIO",
     "FG": "62",
-    "MAPPALE": "130p",
+    "MAPPALE": "130",
     "SUB": null
   },
   {
@@ -12844,7 +12844,7 @@
     "INDIRIZZO": "Ambrosoli",
     "LOCALITA'": "DESIO",
     "FG": "62",
-    "MAPPALE": "130p",
+    "MAPPALE": "130",
     "SUB": null
   },
   {
@@ -12855,7 +12855,7 @@
     "INDIRIZZO": "Ambrosoli",
     "LOCALITA'": "DESIO",
     "FG": "62",
-    "MAPPALE": "131p",
+    "MAPPALE": "131",
     "SUB": null
   },
   {
@@ -12866,7 +12866,7 @@
     "INDIRIZZO": "Ambrosoli",
     "LOCALITA'": "DESIO",
     "FG": "62",
-    "MAPPALE": "131p",
+    "MAPPALE": "131",
     "SUB": null
   },
   {
@@ -12877,7 +12877,7 @@
     "INDIRIZZO": "Ambrosoli",
     "LOCALITA'": "DESIO",
     "FG": "62",
-    "MAPPALE": "133p",
+    "MAPPALE": "133",
     "SUB": null
   },
   {
@@ -12888,7 +12888,7 @@
     "INDIRIZZO": "Ambrosoli",
     "LOCALITA'": "DESIO",
     "FG": "62",
-    "MAPPALE": "133p",
+    "MAPPALE": "133",
     "SUB": null
   },
   {
@@ -12899,7 +12899,7 @@
     "INDIRIZZO": "Ambrosoli",
     "LOCALITA'": "DESIO",
     "FG": "62",
-    "MAPPALE": "136p",
+    "MAPPALE": "136",
     "SUB": null
   },
   {
@@ -12910,7 +12910,7 @@
     "INDIRIZZO": "Ambrosoli",
     "LOCALITA'": "DESIO",
     "FG": "62",
-    "MAPPALE": "136p",
+    "MAPPALE": "136",
     "SUB": null
   },
   {
@@ -12932,7 +12932,7 @@
     "INDIRIZZO": "Maestri del Lavoro",
     "LOCALITA'": "DESIO",
     "FG": "63",
-    "MAPPALE": "058",
+    "MAPPALE": "58",
     "SUB": null
   },
   {
@@ -12943,7 +12943,7 @@
     "INDIRIZZO": "Mascagni",
     "LOCALITA'": "DESIO",
     "FG": "63",
-    "MAPPALE": "066",
+    "MAPPALE": "66",
     "SUB": null
   },
   {
@@ -12954,7 +12954,7 @@
     "INDIRIZZO": "Mascagni",
     "LOCALITA'": "DESIO",
     "FG": "63",
-    "MAPPALE": "070",
+    "MAPPALE": "70",
     "SUB": null
   },
   {
@@ -12965,7 +12965,7 @@
     "INDIRIZZO": "Mascagni",
     "LOCALITA'": "DESIO",
     "FG": "63",
-    "MAPPALE": "072",
+    "MAPPALE": "72",
     "SUB": null
   },
   {
@@ -12976,7 +12976,7 @@
     "INDIRIZZO": "Leoncavallo",
     "LOCALITA'": "DESIO",
     "FG": "63",
-    "MAPPALE": "086",
+    "MAPPALE": "86",
     "SUB": null
   },
   {
@@ -12987,7 +12987,7 @@
     "INDIRIZZO": "Leoncavallo",
     "LOCALITA'": "DESIO",
     "FG": "63",
-    "MAPPALE": "087",
+    "MAPPALE": "87",
     "SUB": null
   },
   {
@@ -12998,7 +12998,7 @@
     "INDIRIZZO": "Leoncavallo",
     "LOCALITA'": "DESIO",
     "FG": "63",
-    "MAPPALE": "090",
+    "MAPPALE": "90",
     "SUB": null
   },
   {
@@ -13009,7 +13009,7 @@
     "INDIRIZZO": "Leoncavallo",
     "LOCALITA'": "DESIO",
     "FG": "63",
-    "MAPPALE": "091",
+    "MAPPALE": "91",
     "SUB": null
   },
   {
@@ -13020,7 +13020,7 @@
     "INDIRIZZO": "Maestri del Lavoro",
     "LOCALITA'": "DESIO",
     "FG": "63",
-    "MAPPALE": "092",
+    "MAPPALE": "92",
     "SUB": null
   },
   {
@@ -13031,7 +13031,7 @@
     "INDIRIZZO": "Mascagni",
     "LOCALITA'": "DESIO",
     "FG": "64",
-    "MAPPALE": "061",
+    "MAPPALE": "61",
     "SUB": null
   },
   {
@@ -13042,7 +13042,7 @@
     "INDIRIZZO": "Mascagni",
     "LOCALITA'": "DESIO",
     "FG": "64",
-    "MAPPALE": "065",
+    "MAPPALE": "65",
     "SUB": null
   },
   {
@@ -13053,7 +13053,7 @@
     "INDIRIZZO": "Mascagni",
     "LOCALITA'": "DESIO",
     "FG": "64",
-    "MAPPALE": "066",
+    "MAPPALE": "66",
     "SUB": null
   },
   {
@@ -13064,7 +13064,7 @@
     "INDIRIZZO": "Del Guado",
     "LOCALITA'": "DESIO",
     "FG": "64",
-    "MAPPALE": "083",
+    "MAPPALE": "83",
     "SUB": null
   },
   {
@@ -13086,7 +13086,7 @@
     "INDIRIZZO": "Monselice",
     "LOCALITA'": "DESIO",
     "FG": "46",
-    "MAPPALE": "233p",
+    "MAPPALE": "233",
     "SUB": null
   },
   {
@@ -13108,7 +13108,7 @@
     "INDIRIZZO": "Monselice",
     "LOCALITA'": "DESIO",
     "FG": "46",
-    "MAPPALE": "244p",
+    "MAPPALE": "244",
     "SUB": null
   }
 ]
