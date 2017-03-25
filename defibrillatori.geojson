@@ -236,9 +236,9 @@
         "availability": "disponibilità struttura ospitante",
         "host": null,
         "verificationStatus": "verificato",
-        "verifier": null,
-        "lastVerifiedAt": null,
-        "present": null,
+        "verifier": "https://www.facebook.com/maja.sivalli",
+        "lastVerifiedAt": "2017-03-24 21:04 CET",
+        "present": "no",
         "marker-symbol": "heart",
         "marker-color": "#E56C69"
       }
