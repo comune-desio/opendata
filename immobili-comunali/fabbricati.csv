@@ -1,4 +1,4 @@
-N. PROG. INVENT.,TIPOLOGIA DI BENE,DENOMINAZIONE,DESCRIZIONE,INDIRIZZO,LOCALITA',FG,MAPPALE,SUB
+N_INVENT,TIPOLOGIA,DENOMINAZIONE,DESCRIZIONE,INDIRIZZO,LOCALITA,FG,MAPPALE,SUB
 315,PAA2 100 - Beni demaniali,via Togliatti - cimitero nuovo,alloggio custode,Togliatti  ,DESIO,52,114,1
 316,PAA2 100 - Beni demaniali,via Togliatti - cimitero nuovo,box a servizio del custode,Togliatti  ,DESIO,52,114,2
 317,PAA2 100 - Beni demaniali,via Rimembranze - cimitero,alloggio custode ,Rimembranze  ,DESIO,23,57,
