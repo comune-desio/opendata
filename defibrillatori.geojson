@@ -104,9 +104,9 @@
         "availability": "disponibilità struttura ospitante",
         "host": null,
         "verificationStatus": "verificato",
-        "verifier": null,
-        "lastVerifiedAt": null,
-        "present": null,
+        "verifier": "https://www.facebook.com/damiano.donadoni",
+        "lastVerifiedAt": "2017-03-26 20:50 CEST",
+        "present": "no",
         "marker-symbol": "heart",
         "marker-color": "#E56C69"
       }
